@@ -1,5 +1,5 @@
 import { getRevisePool } from "./wordState.js";
-import { createSession, answerCard } from "./revisitSession.js";
+import { searchWords } from "./wordSearch.js";
 
 function element(tag, className, text) {
   const el = document.createElement(tag);
@@ -8,106 +8,65 @@ function element(tag, className, text) {
   return el;
 }
 
-// The round survives tab switches; it restarts only when the set of learnt
-// words changes.
+function wordCard(word) {
+  const card = element("article", "word-card revisit-card");
+  card.appendChild(element("div", "flashcard-deck-tag", word.deck === "everyday" ? "Everyday" : "Advanced"));
+  card.appendChild(element("div", "word-title", word.word));
+  card.appendChild(element("div", "word-pronunciation", word.pronunciation));
+  for (const meaning of word.meanings) {
+    const block = element("div", "meaning-block");
+    block.appendChild(element("div", "meaning-pos", meaning.partOfSpeech));
+    block.appendChild(element("div", "meaning-definition", meaning.definition));
+    block.appendChild(element("div", "meaning-example", `“${meaning.example}”`));
+    card.appendChild(block);
+  }
+  return card;
+}
+
+// The search box is created once so the query survives tab switches and typing
+// never loses focus; only the results below it are redrawn.
 export function createRevisitView({ container, allWords, getState }) {
   let pool = [];
-  let poolKey = null;
-  let session = null;
-  let revealed = false;
+
+  const search = element("input", "revisit-search");
+  search.type = "search";
+  search.placeholder = "Search words or meanings";
+  search.setAttribute("aria-label", "Search learnt words");
+  search.autocapitalize = "none";
+  search.autocomplete = "off";
+  search.spellcheck = false;
+  search.enterKeyHint = "search";
+
+  const header = element("div", "revisit-header");
+  const count = element("div", "progress-label revisit-count");
+  header.append(search, count);
+
+  const list = element("div", "revisit-list");
+
+  search.addEventListener("input", drawResults);
+  search.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") search.blur();
+  });
+
+  function drawResults() {
+    const results = searchWords(pool, search.value);
+    count.textContent = search.value.trim()
+      ? `${results.length} of ${pool.length} words`
+      : `${pool.length} learnt ${pool.length === 1 ? "word" : "words"}`;
+    list.replaceChildren(...results.map(wordCard));
+    if (results.length === 0) {
+      list.appendChild(element("div", "word-card empty-state", "No matching words."));
+    }
+  }
 
   function render() {
     pool = getRevisePool(allWords, getState().words);
-    const key = pool.map((w) => w.id).join("|");
-    if (key !== poolKey) {
-      poolKey = key;
-      restart();
+    if (pool.length === 0) {
+      container.replaceChildren(element("div", "word-card empty-state", "Learn and mark some words first!"));
+      return;
     }
-    draw();
-  }
-
-  function restart() {
-    session = createSession(pool);
-    revealed = false;
-  }
-
-  function draw() {
-    container.innerHTML = "";
-
-    if (session.total === 0) {
-      container.appendChild(element("div", "word-card empty-state", "Learn and mark some words first!"));
-    } else if (session.queue.length === 0) {
-      drawSummary();
-    } else {
-      drawCard();
-    }
-  }
-
-  function drawCard() {
-    const word = session.queue[0];
-    const done = session.total - session.queue.length;
-    container.appendChild(element("div", "progress-label", `Got ${done} of ${session.total}`));
-
-    const card = element("div", "flashcard");
-    card.appendChild(element("div", "flashcard-deck-tag", word.deck === "everyday" ? "Everyday" : "Advanced"));
-    card.appendChild(element("div", "flashcard-word", word.word));
-
-    if (revealed) {
-      card.appendChild(element("div", "word-pronunciation", word.pronunciation));
-      for (const meaning of word.meanings) {
-        const block = element("div", "meaning-block flashcard-meaning");
-        block.appendChild(element("div", "meaning-pos", meaning.partOfSpeech));
-        block.appendChild(element("div", "meaning-definition", meaning.definition));
-        block.appendChild(element("div", "meaning-example", `“${meaning.example}”`));
-        card.appendChild(block);
-      }
-    } else {
-      card.appendChild(element("div", "flashcard-reveal-hint", "Tap to reveal the meaning"));
-      card.addEventListener("click", () => {
-        revealed = true;
-        draw();
-      });
-    }
-    container.appendChild(card);
-
-    if (revealed) {
-      const row = element("div", "button-row");
-      row.appendChild(answerButton("btn-primary", "Got it", true));
-      row.appendChild(answerButton("btn-secondary", "Still learning", false));
-      container.appendChild(row);
-    }
-  }
-
-  function answerButton(className, text, gotIt) {
-    const button = element("button", className, text);
-    button.addEventListener("click", () => {
-      session = answerCard(session, gotIt);
-      revealed = false;
-      draw();
-    });
-    return button;
-  }
-
-  function drawSummary() {
-    const missed = session.missedIds.length;
-    const card = element("div", "word-card empty-state");
-    card.appendChild(element("div", "flashcard-word", "Round complete"));
-    card.appendChild(element(
-      "div",
-      "flashcard-reveal-hint",
-      `${session.total - missed} of ${session.total} right first time` +
-        (missed ? `, ${missed} needed another go.` : ".")
-    ));
-    container.appendChild(card);
-
-    const row = element("div", "button-row");
-    const again = element("button", "btn-primary", "Start again");
-    again.addEventListener("click", () => {
-      restart();
-      draw();
-    });
-    row.appendChild(again);
-    container.appendChild(row);
+    container.replaceChildren(header, list);
+    drawResults();
   }
 
   return { render };

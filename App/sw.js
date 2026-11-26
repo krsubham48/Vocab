@@ -15,7 +15,7 @@ const PRECACHE_URLS = [
   "./js/ui-learn.js",
   "./js/ui-revise.js",
   "./js/ui-calendar.js",
-  "./js/revisitSession.js",
+  "./js/wordSearch.js",
   "./js/ui-revisit.js",
   "./icons/icon-180.png",
   "./icons/icon-192.png",

@@ -271,9 +271,40 @@ body::before {
   color: #9b7fc4;
 }
 
-.flashcard-meaning {
-  margin-top: 16px;
-  text-align: left;
+/* ===== Revisit tab ===== */
+.revisit-header {
+  position: sticky;
+  /* the -20px / 20px pair covers #app's own top padding while stuck, so cards
+     don't show between the status bar and the search box */
+  top: -20px;
+  margin-top: -20px;
+  padding-top: 20px;
+  z-index: 5;
+  background: #f3ecfb;
+  padding-bottom: 2px;
+}
+
+.revisit-search {
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 14px;
+  margin-bottom: 8px;
+  border: 2px solid #b78cec;
+  border-radius: 14px;
+  background: #ffffff;
+  color: #3d2463;
+  font-family: inherit;
+  /* below 16px iOS zooms the page when the field is focused */
+  font-size: 16px;
+  -webkit-appearance: none;
+}
+
+.revisit-count {
+  margin-bottom: 8px;
+}
+
+.revisit-card {
+  margin-bottom: 14px;
 }
 
 /* ===== Calendar tab ===== */
