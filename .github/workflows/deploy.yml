@@ -39,5 +39,8 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: App
+      # deploy-pages can miss an artifact uploaded moments earlier and does not retry:
+      # https://github.com/actions/deploy-pages/issues/451
+      - run: sleep 60
       - id: deployment
         uses: actions/deploy-pages@v5
