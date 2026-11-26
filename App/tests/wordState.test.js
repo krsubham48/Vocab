@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import {
   pickNewWord,
   markLearnt,
+  unmarkLearnt,
   computeProgress,
   getRevisePool,
   groupLearntByDate,
@@ -79,4 +80,21 @@ test("groupLearntByDate groups words learnt on the same day", () => {
   const grouped = groupLearntByDate(words, stateMap);
   assert.equal(grouped["2026-11-25"].length, 2);
   assert.equal(grouped["2026-11-24"].length, 1);
+});
+
+test("unmarkLearnt returns the word to seen without a date, leaving others and the input alone", () => {
+  const stateMap = {
+    abundant: { deck: "everyday", status: "learnt", learntDate: "2026-11-25" },
+    candid: { deck: "everyday", status: "learnt", learntDate: "2026-11-25" },
+  };
+  const next = unmarkLearnt("abundant", stateMap);
+  assert.deepEqual(next.abundant, { deck: "everyday", status: "seen", learntDate: null });
+  assert.deepEqual(next.candid, stateMap.candid);
+  assert.equal(stateMap.abundant.status, "learnt");
+  assert.deepEqual(getRevisePool(words, next).map((w) => w.id), ["candid"]);
+});
+
+test("unmarkLearnt does nothing for a word that isn't learnt", () => {
+  const stateMap = {};
+  assert.equal(unmarkLearnt("abundant", stateMap), stateMap);
 });

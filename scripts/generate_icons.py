@@ -34,7 +34,7 @@ def render_icon(size):
     y = (size - h) / 2 - bbox[1] - size * 0.04
     draw.text((x, y), text, font=font, fill="white")
 
-    underline_width = size * 0.195
+    underline_width = w  # span the whole word
     underline_y = y + h + size * 0.05
     underline_height = max(2, size * 0.016)
     draw.rounded_rectangle(

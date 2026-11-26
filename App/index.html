@@ -14,14 +14,82 @@
 </head>
 <body>
   <main id="app">
-    <section id="view-learn" class="view" data-view="learn"></section>
+    <section id="view-home" class="view home" data-view="home">
+      <h1 class="home-title">Vocab</h1>
+      <p class="home-tagline">Build your English vocabulary, one word at a time.</p>
+      <div class="home-actions">
+        <button class="btn-primary home-main" data-goto="learn">📖 Learn</button>
+        <button class="btn-secondary home-main" data-goto="practice">🗂️ Revise</button>
+      </div>
+      <div class="home-links">
+        <button class="home-link" data-goto="about">ℹ️ About Vocab</button>
+        <button class="home-link" data-goto="calendar">📅 Calendar</button>
+      </div>
+    </section>
+    <section id="view-practice" class="view" data-view="practice" hidden>
+      <h2 class="page-title">How would you like to revise?</h2>
+      <button class="word-card choice" data-goto="revise">
+        <span class="choice-title">🗂️ Revise</span>
+        <span class="choice-text">Test yourself with flashcards.</span>
+      </button>
+      <button class="word-card choice" data-goto="revisit">
+        <span class="choice-title">📔 Revisit</span>
+        <span class="choice-text">Browse and search every word you've learnt.</span>
+      </button>
+    </section>
+    <section id="view-learn" class="view" data-view="learn" hidden></section>
     <section id="view-revise" class="view" data-view="revise" hidden></section>
     <section id="view-revisit" class="view" data-view="revisit" hidden></section>
     <section id="view-calendar" class="view" data-view="calendar" hidden></section>
+    <section id="view-about" class="view" data-view="about" hidden>
+      <h2 class="page-title">About Vocab</h2>
+      <div class="word-card about">
+        <p>Vocab helps you learn English words that turn up in newspapers, magazines, TV and conversation.</p>
+
+        <h3>📖 Learn a new word</h3>
+        <ol>
+          <li>Choose the <strong>Everyday</strong> or <strong>Advanced</strong> deck at the top.</li>
+          <li>Tap <strong>New Word</strong>.</li>
+          <li>Read the pronunciation, meaning and example sentence.</li>
+          <li>Once you know it, tap <strong>Mark as Learnt</strong>. If you don't, it can come up again later.</li>
+        </ol>
+
+        <h3>🗂️ Revise with flashcards</h3>
+        <ol>
+          <li>Read the word and try to recall its meaning.</li>
+          <li>Tap the card to check.</li>
+          <li>Tap <strong>Got it</strong> or <strong>Still learning</strong> to see the next card. Neither changes your learnt words.</li>
+        </ol>
+
+        <h3>📔 Revisit your words</h3>
+        <ol>
+          <li>Scroll the list, or search by word or meaning.</li>
+          <li>Tap a word to open its card, and tap it again to close it.</li>
+          <li>To un-learn a word, open it, tap <strong>Remove</strong> and confirm.</li>
+        </ol>
+
+        <h3>📅 Calendar</h3>
+        <ol>
+          <li>A dot marks each day this month when you learnt something.</li>
+          <li>Tap a date to see that day's words.</li>
+        </ol>
+
+        <h3>📱 Good to know</h3>
+        <ul>
+          <li>Revise, Revisit and Calendar show only words you've marked as learnt.</li>
+          <li>To install on iPhone, open the app in Safari, tap <strong>Share</strong>, then <strong>Add to Home Screen</strong>.</li>
+          <li>Once installed, it works offline. To get updates, open it while online, wait a few seconds, then close and reopen it.</li>
+          <li>Your progress is stored only on this device. <strong>Removing the app or clearing Safari data can erase it.</strong></li>
+        </ul>
+      </div>
+      <div class="button-row">
+        <button class="btn-secondary" data-goto="home">Back to start page</button>
+      </div>
+    </section>
   </main>
 
-  <nav id="tab-bar">
-    <button class="tab-button" data-tab="learn" aria-current="page">
+  <nav id="tab-bar" hidden>
+    <button class="tab-button" data-tab="learn">
       <span class="tab-icon">📖</span>
       <span class="tab-label">Learn</span>
     </button>
@@ -36,6 +104,10 @@
     <button class="tab-button" data-tab="calendar">
       <span class="tab-icon">📅</span>
       <span class="tab-label">Calendar</span>
+    </button>
+    <button class="tab-button" data-tab="about">
+      <span class="tab-icon">ℹ️</span>
+      <span class="tab-label">About</span>
     </button>
   </nav>
 

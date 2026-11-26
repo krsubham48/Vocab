@@ -46,6 +46,8 @@ function boot() {
       container: document.getElementById("view-revisit"),
       allWords,
       getState,
+      setState,
+      storage: window.localStorage,
     }),
     calendar: createCalendarView({
       container: document.getElementById("view-calendar"),
@@ -60,21 +62,30 @@ function boot() {
 
   const tabButtons = document.querySelectorAll(".tab-button");
   const viewSections = document.querySelectorAll(".view");
+  const tabBar = document.getElementById("tab-bar");
+  const scroller = document.getElementById("app");
 
-  tabButtons.forEach((btn) => {
-    btn.addEventListener("click", () => {
-      const target = btn.dataset.tab;
-
-      tabButtons.forEach((b) => b.removeAttribute("aria-current"));
-      btn.setAttribute("aria-current", "page");
-
-      viewSections.forEach((section) => {
-        section.hidden = section.dataset.view !== target;
-      });
-
-      views[target].render();
+  function show(target) {
+    // the Revise/Revisit chooser sits under the Revise tab
+    const activeTab = target === "practice" ? "revise" : target;
+    tabButtons.forEach((btn) => {
+      if (btn.dataset.tab === activeTab) btn.setAttribute("aria-current", "page");
+      else btn.removeAttribute("aria-current");
     });
-  });
+
+    viewSections.forEach((section) => {
+      section.hidden = section.dataset.view !== target;
+    });
+    tabBar.hidden = target === "home";
+    scroller.scrollTop = 0;
+
+    views[target]?.render();
+  }
+
+  tabButtons.forEach((btn) => btn.addEventListener("click", () => show(btn.dataset.tab)));
+  document.querySelectorAll("[data-goto]").forEach((btn) =>
+    btn.addEventListener("click", () => show(btn.dataset.goto))
+  );
 
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("sw.js").catch((err) => {

@@ -30,6 +30,14 @@ export function markLearnt(wordId, deck, stateMap, todayIso) {
   };
 }
 
+export function unmarkLearnt(wordId, stateMap) {
+  if (stateMap[wordId]?.status !== "learnt") return stateMap;
+  return {
+    ...stateMap,
+    [wordId]: { ...stateMap[wordId], status: "seen", learntDate: null },
+  };
+}
+
 export function computeProgress(allWords, stateMap, activeDeck) {
   const deckWords = allWords.filter((w) => w.deck === activeDeck);
   const learntCount = deckWords.filter((w) => stateMap[w.id]?.status === "learnt").length;

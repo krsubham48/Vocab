@@ -49,6 +49,123 @@ body::before {
   display: none;
 }
 
+#tab-bar[hidden] {
+  display: none;
+}
+
+/* ===== Landing, chooser and About pages ===== */
+.home:not([hidden]) {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  text-align: center;
+}
+
+.home-title {
+  font-size: 56px;
+  line-height: 1.1;
+  color: #6b2fb3;
+  /* as wide as the word itself, so the underline spans all of "Vocab" */
+  border-bottom: 5px solid #6b2fb3;
+  padding-bottom: 6px;
+}
+
+.home-tagline {
+  font-size: 17px;
+  color: #8a4fd1;
+  margin: 18px 0 40px;
+  text-wrap: balance;
+}
+
+.home-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+}
+
+.home-actions .home-main {
+  flex: none;
+  min-height: 68px;
+  word-spacing: 0.25em;
+  font-size: 19px;
+}
+
+.home-links {
+  display: flex;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.home-link {
+  word-spacing: 0.25em;
+  min-height: 44px;
+  padding: 0 16px;
+  border: none;
+  border-radius: 12px;
+  background: #ffffff;
+  color: #7c3fb5;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.page-title {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.choice {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  margin-bottom: 14px;
+  border: none;
+  text-align: left;
+  color: inherit;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.choice-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.choice-text {
+  font-size: 15px;
+  color: #8a4fd1;
+}
+
+.about p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.about h3 {
+  font-size: 18px;
+  color: #6b2fb3;
+  margin: 22px 0 10px;
+}
+
+/* the global reset removes list indents, so put them back */
+.about ol,
+.about ul {
+  padding-left: 22px;
+}
+
+.about li {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
 /* ===== Tab bar ===== */
 #tab-bar {
   position: fixed;
@@ -69,7 +186,7 @@ body::before {
   flex-direction: column;
   align-items: center;
   gap: 4px;
-  padding: 6px 18px;
+  padding: 6px 10px;
   color: #9b7fc4;
   font-family: inherit;
   cursor: pointer;
@@ -163,35 +280,38 @@ body::before {
 .word-pronunciation {
   text-align: center;
   color: #8a4fd1;
-  font-size: 14px;
+  font-size: 17px;
   margin-bottom: 20px;
 }
 
 .meaning-block {
   background: #f8f4fd;
   border-radius: 14px;
-  padding: 14px;
-  margin-bottom: 10px;
+  padding: 18px 16px;
+  margin-bottom: 12px;
   border: 1px solid #e6daf5;
 }
 
 .meaning-pos {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 700;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: #a177f0;
-  margin-bottom: 4px;
+  color: #7c3fb5;
+  margin-bottom: 8px;
 }
 
 .meaning-definition {
-  font-size: 14px;
+  font-size: 18px;
+  line-height: 1.45;
   color: #3d2463;
-  margin-bottom: 6px;
+  margin-bottom: 12px;
 }
 
 .meaning-example {
-  font-size: 12px;
-  color: #8a4fd1;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #6b2fb3;
   font-style: italic;
 }
 
@@ -303,8 +423,75 @@ body::before {
   margin-bottom: 8px;
 }
 
-.revisit-card {
+.revisit-item {
+  background: #ffffff;
+  border-radius: 12px;
+  margin-bottom: 6px;
+  box-shadow: 0 2px 8px rgba(124, 63, 181, 0.1);
+}
+
+.revisit-summary {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 14px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.revisit-summary::-webkit-details-marker {
+  display: none;
+}
+
+.revisit-summary::after {
+  content: "›";
+  color: #a177f0;
+  font-size: 18px;
+  transition: transform 0.15s;
+}
+
+.revisit-item[open] .revisit-summary::after {
+  transform: rotate(90deg);
+}
+
+.revisit-word {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 700;
+  color: #3d2463;
+}
+
+.revisit-deck {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #a177f0;
+}
+
+.revisit-body {
+  padding: 4px 12px 14px;
+}
+
+.revisit-pronunciation {
+  font-size: 16px;
+  color: #8a4fd1;
   margin-bottom: 14px;
+}
+
+.revisit-remove {
+  display: block;
+  min-height: 44px;
+  margin: 0 auto -8px;
+  padding: 0 20px;
+  border: none;
+  background: none;
+  color: #9b3d6e;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
 }
 
 /* ===== Calendar tab ===== */
