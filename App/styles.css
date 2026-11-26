@@ -8,6 +8,11 @@ html, body {
   height: 100%;
 }
 
+/* shows through, instead of white, if the page ever falls short of the screen */
+html {
+  background-color: #dfcdf5;
+}
+
 body {
   font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
   background: linear-gradient(160deg, #f3ecfb 0%, #e9dcf7 50%, #e0d0f5 100%);
@@ -319,4 +324,23 @@ body::before {
   font-size: 16px;
   margin-bottom: 12px;
   color: #3d2463;
+}
+
+/* iOS home screen apps can launch with the screen height short by the top inset,
+   leaving a blank band under a bottom-pinned tab bar until the page is dragged.
+   100vh is the full screen there, so size to it and keep the tab bar in the layout. */
+@media (display-mode: standalone) {
+  html, body {
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  #app {
+    min-height: 0;
+    padding-bottom: 20px;
+  }
+
+  #tab-bar {
+    position: static;
+  }
 }
