@@ -22,7 +22,7 @@ body {
 #app {
   flex: 1;
   overflow-y: auto;
-  padding: 20px 16px calc(90px + env(safe-area-inset-bottom));
+  padding: calc(20px + env(safe-area-inset-top)) 16px calc(90px + env(safe-area-inset-bottom));
   max-width: 480px;
   margin: 0 auto;
   width: 100%;
@@ -103,6 +103,7 @@ body {
   border: none;
   background: none;
   padding: 10px;
+  min-height: 44px;
   border-radius: 10px;
   font-family: inherit;
   font-weight: 700;
