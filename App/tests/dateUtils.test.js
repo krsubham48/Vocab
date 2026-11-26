@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { formatLongDate, trimEmptyWeeks, toIsoDate, buildMonthGrid } from "../js/dateUtils.js";
+import { formatLongDate, trimEmptyWeeks, shiftMonth, toIsoDate, buildMonthGrid } from "../js/dateUtils.js";
 
 test("toIsoDate formats single-digit month/day with zero padding", () => {
   assert.equal(toIsoDate(new Date(2026, 0, 5)), "2026-01-05");
@@ -55,4 +55,10 @@ test("trimEmptyWeeks drops trailing all-blank weeks only", () => {
 
   const august = trimEmptyWeeks(buildMonthGrid(2026, 7)); // starts Saturday, needs all 6 weeks
   assert.equal(august.length, 42);
+});
+
+test("shiftMonth moves one month at a time, crossing year boundaries", () => {
+  assert.deepEqual(shiftMonth(2026, 10, -1), { year: 2026, month: 9 });
+  assert.deepEqual(shiftMonth(2026, 11, 1), { year: 2027, month: 0 });
+  assert.deepEqual(shiftMonth(2027, 0, -1), { year: 2026, month: 11 });
 });

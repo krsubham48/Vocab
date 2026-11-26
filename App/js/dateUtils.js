@@ -14,6 +14,12 @@ export function formatLongDate(iso) {
   return `${day} ${MONTH_NAMES[month - 1]} ${year}`;
 }
 
+// The month `delta` months away from the given one (monthIndex is 0-based).
+export function shiftMonth(year, monthIndex, delta) {
+  const date = new Date(year, monthIndex + delta, 1);
+  return { year: date.getFullYear(), month: date.getMonth() };
+}
+
 // Drops trailing weeks with no days in them, so a five-week month doesn't
 // leave an empty row at the bottom of the grid.
 export function trimEmptyWeeks(cells) {

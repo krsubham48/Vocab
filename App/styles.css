@@ -575,12 +575,52 @@ body::before {
 }
 
 /* ===== Calendar tab ===== */
+.calendar-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
 .calendar-month-label {
+  flex: 1;
   text-align: center;
   font-weight: 700;
   font-size: var(--text-xl);
-  margin-bottom: 18px;
   color: var(--ink);
+}
+
+.calendar-nav {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: var(--radius-control);
+  background: #ffffff;
+  color: var(--accent-strong);
+  box-shadow: 0 2px 8px rgba(124, 63, 181, 0.1);
+  cursor: pointer;
+}
+
+/* a drawn chevron sits exactly centred, which arrow characters don't */
+.calendar-nav::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border: solid currentColor;
+  border-width: 0 0 2.5px 2.5px;
+  transform: translateX(2px) rotate(45deg);
+}
+
+.calendar-nav.next::before {
+  transform: translateX(-2px) rotate(225deg);
+}
+
+.calendar-nav:disabled {
+  opacity: 0.35;
+  cursor: default;
 }
 
 .calendar-grid {
@@ -709,6 +749,7 @@ body::before {
   }
 
   /* date cells stay square, so a narrower calendar is also a shorter one */
+  .calendar-header,
   .calendar-grid,
   .calendar-day-detail {
     max-width: 340px;

@@ -1,23 +1,58 @@
 import { groupLearntByDate } from "./wordState.js";
-import { buildMonthGrid, trimEmptyWeeks, formatLongDate, MONTH_NAMES } from "./dateUtils.js";
+import { buildMonthGrid, trimEmptyWeeks, formatLongDate, shiftMonth, toIsoDate, MONTH_NAMES } from "./dateUtils.js";
 
 const WEEKDAY_LABELS = ["S", "M", "T", "W", "T", "F", "S"];
 
 export function createCalendarView({ container, allWords, getState }) {
-  const today = new Date();
-  let viewYear = today.getFullYear();
-  let viewMonth = today.getMonth();
+  // null means "the current month", so an app left open follows into a new month
+  let pinned = null;
   let selectedIso = null;
+
+  // read the date each time, never once at startup
+  function currentMonth() {
+    const now = new Date();
+    return { year: now.getFullYear(), month: now.getMonth() };
+  }
+
+  const isBefore = (a, b) => a.year < b.year || (a.year === b.year && a.month < b.month);
+
+  function showMonth(target) {
+    pinned = isBefore(target, currentMonth()) ? target : null;
+    selectedIso = null;
+    render();
+  }
+
+  function navButton(direction, label, onClick) {
+    const button = document.createElement("button");
+    button.className = `calendar-nav ${direction}`;
+    button.setAttribute("aria-label", label);
+    button.addEventListener("click", onClick);
+    return button;
+  }
+
+  function buildHeader(view) {
+    const header = document.createElement("div");
+    header.className = "calendar-header";
+
+    const label = document.createElement("div");
+    label.className = "calendar-month-label";
+    label.textContent = `${MONTH_NAMES[view.month]} ${view.year}`;
+
+    const previous = navButton("previous", "Previous month", () => showMonth(shiftMonth(view.year, view.month, -1)));
+    const next = navButton("next", "Next month", () => showMonth(shiftMonth(view.year, view.month, 1)));
+    // nothing can have been learnt in a future month
+    next.disabled = !isBefore(view, currentMonth());
+
+    header.append(previous, label, next);
+    return header;
+  }
 
   function render() {
     const state = getState();
     const grouped = groupLearntByDate(allWords, state.words);
+    const view = pinned ?? currentMonth();
     container.innerHTML = "";
-
-    const label = document.createElement("div");
-    label.className = "calendar-month-label";
-    label.textContent = `${MONTH_NAMES[viewMonth]} ${viewYear}`;
-    container.appendChild(label);
+    container.appendChild(buildHeader(view));
 
     const grid = document.createElement("div");
     grid.className = "calendar-grid";
@@ -29,7 +64,7 @@ export function createCalendarView({ container, allWords, getState }) {
       grid.appendChild(wdEl);
     }
 
-    const cells = trimEmptyWeeks(buildMonthGrid(viewYear, viewMonth));
+    const cells = trimEmptyWeeks(buildMonthGrid(view.year, view.month));
     for (const cell of cells) {
       const cellEl = document.createElement("button");
       cellEl.className = "calendar-day";
@@ -61,7 +96,9 @@ export function createCalendarView({ container, allWords, getState }) {
 
     container.appendChild(grid);
 
-    if (selectedIso) {
+    // "2026-11": a selection left over from another month shows nothing
+    const monthPrefix = toIsoDate(new Date(view.year, view.month, 1)).slice(0, 7);
+    if (selectedIso?.startsWith(monthPrefix)) {
       renderDayDetail(grouped[selectedIso] || []);
     }
   }
