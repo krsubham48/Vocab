@@ -1,4 +1,5 @@
-const CACHE_NAME = "vocab-cache-v2";
+// The deploy workflow replaces "dev" with the commit ID, so every deploy refreshes installed apps.
+const CACHE_NAME = "vocab-cache-dev";
 const PRECACHE_URLS = [
   "./",
   "./index.html",

@@ -14,7 +14,9 @@ export function createLearnView({ container, allWords, getState, setState, stora
       btn.textContent = deck === "everyday" ? "Everyday" : "Advanced";
       btn.className = state.activeDeck === deck ? "active" : "";
       btn.addEventListener("click", () => {
-        setState({ ...state, activeDeck: deck });
+        const nextState = { ...state, activeDeck: deck };
+        setState(nextState);
+        saveState(nextState, storage);
         render();
       });
       deckToggle.appendChild(btn);

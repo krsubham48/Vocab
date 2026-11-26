@@ -19,6 +19,18 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* keeps scrolled content from showing behind the iOS status bar */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: env(safe-area-inset-top);
+  background: #f3ecfb;
+  z-index: 10;
+}
+
 #app {
   flex: 1;
   overflow-y: auto;

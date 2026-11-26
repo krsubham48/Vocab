@@ -35,6 +35,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v7
+      - name: Stamp the service worker cache with the commit ID
+        run: |
+          sed -i "s/vocab-cache-dev/vocab-cache-${GITHUB_SHA}/" App/sw.js
+          grep -q "vocab-cache-${GITHUB_SHA}" App/sw.js
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:
