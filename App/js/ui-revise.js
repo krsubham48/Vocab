@@ -1,4 +1,4 @@
-import { getRevisePool } from "./wordState.js";
+import { getRevisePool, displayPronunciation } from "./wordState.js";
 
 // `render()` is called every time the user switches to this tab (see app.js),
 // so index/revealed/pool must survive across render() calls — they're declared
@@ -54,11 +54,17 @@ export function createReviseView({ container, allWords, getState }) {
     card.appendChild(wordEl);
 
     if (revealed) {
+      const pronunciation = displayPronunciation(word);
+      if (pronunciation) {
+        const pron = document.createElement("div");
+        pron.className = "word-pronunciation";
+        pron.textContent = pronunciation;
+        card.appendChild(pron);
+      }
+
       for (const meaning of word.meanings) {
         const block = document.createElement("div");
         block.className = "meaning-block";
-        block.style.marginTop = "16px";
-        block.style.textAlign = "left";
 
         const pos = document.createElement("div");
         pos.className = "meaning-pos";

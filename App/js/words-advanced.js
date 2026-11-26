@@ -8603,7 +8603,7 @@ export const wordsAdvanced = [
       {
         "partOfSpeech": "adjective",
         "definition": "characterized by sick sentimentality",
-        "example": "Although some nineteenthcentury critics viewed Dickens's writing as mawkish, contemporary readers have found great emotional depth in his works."
+        "example": "Although some nineteenth-century critics viewed Dickens's writing as mawkish, contemporary readers have found great emotional depth in his works."
       }
     ]
   },
@@ -8655,7 +8655,7 @@ export const wordsAdvanced = [
       {
         "partOfSpeech": "adjective",
         "definition": "having a lying, false character",
-        "example": "The mendaciouscontent of the tabloid magazines is at least entertaining."
+        "example": "The mendacious content of the tabloid magazines is at least entertaining."
       }
     ]
   },

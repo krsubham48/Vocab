@@ -12,6 +12,9 @@ BOTTOM_COLOR = (107, 47, 179)   # #6b2fb3
 HELVETICA_BOLD = ("/System/Library/Fonts/Helvetica.ttc", 1)
 
 SIZES = [180, 192, 512]
+SUPERSAMPLE = 4  # draw large, then shrink, so the underline's edges are smooth
+# bump when the artwork changes: phones remember icons by file name
+VERSION = "v2"
 
 
 def render_icon(size):
@@ -49,8 +52,8 @@ def main():
     icons_dir = Path(__file__).parent.parent / "App" / "icons"
     icons_dir.mkdir(parents=True, exist_ok=True)
     for size in SIZES:
-        img = render_icon(size)
-        out_path = icons_dir / f"icon-{size}.png"
+        img = render_icon(size * SUPERSAMPLE).resize((size, size), Image.BOX)
+        out_path = icons_dir / f"icon-{size}-{VERSION}.png"
         img.save(out_path)
         print(f"Wrote {out_path} ({size}x{size})")
 

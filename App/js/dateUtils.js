@@ -3,6 +3,25 @@
 // "today" and "learnt on this day" must match the user's actual day boundary
 // on their device, not UTC midnight.
 
+export const MONTH_NAMES = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December",
+];
+
+// "2026-11-26" -> "26 November 2026"
+export function formatLongDate(iso) {
+  const [year, month, day] = iso.split("-").map(Number);
+  return `${day} ${MONTH_NAMES[month - 1]} ${year}`;
+}
+
+// Drops trailing weeks with no days in them, so a five-week month doesn't
+// leave an empty row at the bottom of the grid.
+export function trimEmptyWeeks(cells) {
+  let end = cells.length;
+  while (end >= 7 && cells.slice(end - 7, end).every((cell) => cell === null)) end -= 7;
+  return cells.slice(0, end);
+}
+
 export function toIsoDate(date) {
   const year = date.getFullYear();
   const month = String(date.getMonth() + 1).padStart(2, "0");

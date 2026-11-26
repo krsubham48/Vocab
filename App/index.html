@@ -6,7 +6,7 @@
   <title>Vocab</title>
   <meta name="theme-color" content="#6b2fb3" />
   <link rel="manifest" href="manifest.json" />
-  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="apple-touch-icon" href="icons/icon-180-v2.png" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Vocab" />
@@ -18,12 +18,12 @@
       <h1 class="home-title">Vocab</h1>
       <p class="home-tagline">Build your English vocabulary, one word at a time.</p>
       <div class="home-actions">
-        <button class="btn-primary home-main" data-goto="learn">📖 Learn</button>
-        <button class="btn-secondary home-main" data-goto="practice">🗂️ Revise</button>
+        <button class="btn-primary home-main" data-goto="learn"><span aria-hidden="true">📖</span>Learn</button>
+        <button class="btn-secondary home-main" data-goto="practice"><span aria-hidden="true">🗂️</span>Revise</button>
       </div>
       <div class="home-links">
-        <button class="home-link" data-goto="about">ℹ️ About Vocab</button>
-        <button class="home-link" data-goto="calendar">📅 Calendar</button>
+        <button class="home-link" data-goto="about"><span aria-hidden="true">📋</span>About Vocab</button>
+        <button class="home-link" data-goto="calendar"><span aria-hidden="true">📅</span>Calendar</button>
       </div>
     </section>
     <section id="view-practice" class="view" data-view="practice" hidden>
@@ -106,7 +106,7 @@
       <span class="tab-label">Calendar</span>
     </button>
     <button class="tab-button" data-tab="about">
-      <span class="tab-icon">ℹ️</span>
+      <span class="tab-icon">📋</span>
       <span class="tab-label">About</span>
     </button>
   </nav>

@@ -1,11 +1,7 @@
 import { groupLearntByDate } from "./wordState.js";
-import { buildMonthGrid } from "./dateUtils.js";
+import { buildMonthGrid, trimEmptyWeeks, formatLongDate, MONTH_NAMES } from "./dateUtils.js";
 
 const WEEKDAY_LABELS = ["S", "M", "T", "W", "T", "F", "S"];
-const MONTH_NAMES = [
-  "January", "February", "March", "April", "May", "June",
-  "July", "August", "September", "October", "November", "December",
-];
 
 export function createCalendarView({ container, allWords, getState }) {
   const today = new Date();
@@ -33,7 +29,7 @@ export function createCalendarView({ container, allWords, getState }) {
       grid.appendChild(wdEl);
     }
 
-    const cells = buildMonthGrid(viewYear, viewMonth);
+    const cells = trimEmptyWeeks(buildMonthGrid(viewYear, viewMonth));
     for (const cell of cells) {
       const cellEl = document.createElement("button");
       cellEl.className = "calendar-day";
@@ -47,6 +43,10 @@ export function createCalendarView({ container, allWords, getState }) {
         cellEl.classList.add("has-entries");
       }
       cellEl.textContent = String(cell.day);
+      if (cell.iso === selectedIso) {
+        cellEl.classList.add("selected");
+        cellEl.setAttribute("aria-pressed", "true");
+      }
       if (entries.length > 0) {
         const dot = document.createElement("div");
         dot.className = "calendar-day-dot";
@@ -55,7 +55,6 @@ export function createCalendarView({ container, allWords, getState }) {
       cellEl.addEventListener("click", () => {
         selectedIso = cell.iso;
         render();
-        renderDayDetail(grouped[selectedIso] || []);
       });
       grid.appendChild(cellEl);
     }
@@ -73,20 +72,26 @@ export function createCalendarView({ container, allWords, getState }) {
 
     const detail = document.createElement("div");
     detail.className = "calendar-day-detail word-card";
-    detail.style.marginTop = "16px";
 
     if (entries.length === 0) {
+      detail.classList.add("empty-state");
       detail.textContent = "No words learnt on this day.";
     } else {
       const heading = document.createElement("div");
       heading.className = "word-label";
-      heading.textContent = `Learnt on ${selectedIso}`;
+      heading.textContent = `Learnt on ${formatLongDate(selectedIso)}`;
       detail.appendChild(heading);
 
       for (const word of entries) {
         const row = document.createElement("div");
-        row.className = "meaning-block";
-        row.textContent = `${word.word} (${word.deck === "everyday" ? "Everyday" : "Advanced"})`;
+        row.className = "calendar-word";
+        const name = document.createElement("span");
+        name.className = "calendar-word-name";
+        name.textContent = word.word;
+        const deck = document.createElement("span");
+        deck.className = "deck-tag";
+        deck.textContent = word.deck === "everyday" ? "Everyday" : "Advanced";
+        row.append(name, deck);
         detail.appendChild(row);
       }
     }

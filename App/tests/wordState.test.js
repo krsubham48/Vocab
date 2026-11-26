@@ -4,6 +4,7 @@ import {
   pickNewWord,
   markLearnt,
   unmarkLearnt,
+  displayPronunciation,
   computeProgress,
   getRevisePool,
   groupLearntByDate,
@@ -97,4 +98,9 @@ test("unmarkLearnt returns the word to seen without a date, leaving others and t
 test("unmarkLearnt does nothing for a word that isn't learnt", () => {
   const stateMap = {};
   assert.equal(unmarkLearnt("abundant", stateMap), stateMap);
+});
+
+test("displayPronunciation hides the data's missing-pronunciation placeholder", () => {
+  assert.equal(displayPronunciation({ pronunciation: "BASH-fuhl" }), "BASH-fuhl");
+  assert.equal(displayPronunciation({ pronunciation: "(pronunciation unavailable)" }), "");
 });

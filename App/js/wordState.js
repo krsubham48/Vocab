@@ -2,6 +2,12 @@
 // No DOM, no localStorage — operates entirely on plain objects/arrays so it can
 // be unit tested directly with Node's built-in test runner.
 
+// Some source words have no pronunciation and carry a bracketed placeholder;
+// show nothing for those rather than the placeholder text.
+export function displayPronunciation(word) {
+  return word.pronunciation.startsWith("(") ? "" : word.pronunciation;
+}
+
 export function pickNewWord(allWords, stateMap, activeDeck) {
   const eligible = allWords.filter(
     (w) => w.deck === activeDeck && stateMap[w.id]?.status !== "learnt"

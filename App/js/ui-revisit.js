@@ -1,4 +1,4 @@
-import { getRevisePool, unmarkLearnt } from "./wordState.js";
+import { getRevisePool, unmarkLearnt, displayPronunciation } from "./wordState.js";
 import { saveState } from "./storage.js";
 import { searchWords } from "./wordSearch.js";
 
@@ -26,7 +26,8 @@ function wordRow(word, openIds, onRemove) {
   row.appendChild(summary);
 
   const body = element("div", "revisit-body");
-  body.appendChild(element("div", "revisit-pronunciation", word.pronunciation));
+  const pronunciation = displayPronunciation(word);
+  if (pronunciation) body.appendChild(element("div", "revisit-pronunciation", pronunciation));
   for (const meaning of word.meanings) {
     const block = element("div", "meaning-block");
     block.appendChild(element("div", "meaning-pos", meaning.partOfSpeech));

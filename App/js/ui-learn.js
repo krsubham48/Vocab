@@ -1,4 +1,4 @@
-import { pickNewWord, markLearnt, computeProgress } from "./wordState.js";
+import { pickNewWord, markLearnt, computeProgress, displayPronunciation } from "./wordState.js";
 import { saveState } from "./storage.js";
 import { todayIso } from "./dateUtils.js";
 
@@ -62,10 +62,13 @@ export function createLearnView({ container, allWords, getState, setState, stora
     title.textContent = word.word;
     card.appendChild(title);
 
-    const pron = document.createElement("div");
-    pron.className = "word-pronunciation";
-    pron.textContent = word.pronunciation;
-    card.appendChild(pron);
+    const pronunciation = displayPronunciation(word);
+    if (pronunciation) {
+      const pron = document.createElement("div");
+      pron.className = "word-pronunciation";
+      pron.textContent = pronunciation;
+      card.appendChild(pron);
+    }
 
     for (const meaning of word.meanings) {
       const block = document.createElement("div");
