@@ -16,7 +16,7 @@ export const wordsAdvanced = [
   {
     "id": "abate",
     "word": "Abate",
-    "pronunciation": "uhb-AYT",
+    "pronunciation": "uh-BAYT",
     "deck": "advanced",
     "meanings": [
       {
@@ -29,7 +29,7 @@ export const wordsAdvanced = [
   {
     "id": "abdicate",
     "word": "Abdicate",
-    "pronunciation": "AB-duhk-ayt",
+    "pronunciation": "AB-duh-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -55,7 +55,7 @@ export const wordsAdvanced = [
   {
     "id": "aberration",
     "word": "Aberration",
-    "pronunciation": "ab-er-AYSH-uhn",
+    "pronunciation": "ab-er-AY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -68,7 +68,7 @@ export const wordsAdvanced = [
   {
     "id": "abet",
     "word": "Abet",
-    "pronunciation": "uhb-EHT",
+    "pronunciation": "uh-BEHT",
     "deck": "advanced",
     "meanings": [
       {
@@ -94,7 +94,7 @@ export const wordsAdvanced = [
   {
     "id": "abide",
     "word": "Abide",
-    "pronunciation": "uhb-AHYD",
+    "pronunciation": "uh-BAHYD",
     "deck": "advanced",
     "meanings": [
       {
@@ -138,7 +138,7 @@ export const wordsAdvanced = [
   {
     "id": "abnegation",
     "word": "Abnegation",
-    "pronunciation": "ab-nehg-AYSH-uhn",
+    "pronunciation": "ab-neh-GAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -151,7 +151,7 @@ export const wordsAdvanced = [
   {
     "id": "abort",
     "word": "Abort",
-    "pronunciation": "uhb-AWRT",
+    "pronunciation": "uh-BAWRT",
     "deck": "advanced",
     "meanings": [
       {
@@ -164,7 +164,7 @@ export const wordsAdvanced = [
   {
     "id": "abridge",
     "word": "Abridge",
-    "pronunciation": "uhb-RIHJ",
+    "pronunciation": "uh-BRIHJ",
     "deck": "advanced",
     "meanings": [
       {
@@ -182,7 +182,7 @@ export const wordsAdvanced = [
   {
     "id": "abrogate",
     "word": "Abrogate",
-    "pronunciation": "AB-ruhg-ayt",
+    "pronunciation": "AB-ruh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -208,7 +208,7 @@ export const wordsAdvanced = [
   {
     "id": "absolution",
     "word": "Absolution",
-    "pronunciation": "ab-suhl-OOSH-uhn",
+    "pronunciation": "ab-suh-LOO-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -273,7 +273,7 @@ export const wordsAdvanced = [
   {
     "id": "accessible",
     "word": "Accessible",
-    "pronunciation": "ak-SEHS-uhb-uhl",
+    "pronunciation": "ak-SEHS-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -286,7 +286,7 @@ export const wordsAdvanced = [
   {
     "id": "acclaim",
     "word": "Acclaim",
-    "pronunciation": "uhk-LAYM",
+    "pronunciation": "uh-KLAYM",
     "deck": "advanced",
     "meanings": [
       {
@@ -299,7 +299,7 @@ export const wordsAdvanced = [
   {
     "id": "accolade",
     "word": "Accolade",
-    "pronunciation": "AK-uhl-ayd",
+    "pronunciation": "AK-uh-layd",
     "deck": "advanced",
     "meanings": [
       {
@@ -312,7 +312,7 @@ export const wordsAdvanced = [
   {
     "id": "accommodating",
     "word": "Accommodating",
-    "pronunciation": "uhk-AHM-uhd-ayt-ihng",
+    "pronunciation": "uh-KAH-muh-day-tihng",
     "deck": "advanced",
     "meanings": [
       {
@@ -325,7 +325,7 @@ export const wordsAdvanced = [
   {
     "id": "accord",
     "word": "Accord",
-    "pronunciation": "uhk-AWRD",
+    "pronunciation": "uh-KAWRD",
     "deck": "advanced",
     "meanings": [
       {
@@ -338,7 +338,7 @@ export const wordsAdvanced = [
   {
     "id": "accost",
     "word": "Accost",
-    "pronunciation": "uhk-AWST",
+    "pronunciation": "uh-KAWST",
     "deck": "advanced",
     "meanings": [
       {
@@ -351,7 +351,7 @@ export const wordsAdvanced = [
   {
     "id": "accretion",
     "word": "Accretion",
-    "pronunciation": "uhk-REESH-uhn",
+    "pronunciation": "uh-KREE-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -364,7 +364,7 @@ export const wordsAdvanced = [
   {
     "id": "acerbic",
     "word": "Acerbic",
-    "pronunciation": "uhs-EHR-bihk",
+    "pronunciation": "uh-SEHR-bihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -390,7 +390,7 @@ export const wordsAdvanced = [
   {
     "id": "acrimony",
     "word": "Acrimony",
-    "pronunciation": "AK-rihm-ohn-ee",
+    "pronunciation": "AK-rih-moh-nee",
     "deck": "advanced",
     "meanings": [
       {
@@ -403,7 +403,7 @@ export const wordsAdvanced = [
   {
     "id": "acumen",
     "word": "Acumen",
-    "pronunciation": "uhk-YOOM-uhn",
+    "pronunciation": "uh-KYOO-muhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -416,7 +416,7 @@ export const wordsAdvanced = [
   {
     "id": "acute",
     "word": "Acute",
-    "pronunciation": "uhk-YOOT",
+    "pronunciation": "uh-KYOOT",
     "deck": "advanced",
     "meanings": [
       {
@@ -434,7 +434,7 @@ export const wordsAdvanced = [
   {
     "id": "adamant",
     "word": "Adamant",
-    "pronunciation": "AD-uhm-uhnt",
+    "pronunciation": "AD-uh-muhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -447,7 +447,7 @@ export const wordsAdvanced = [
   {
     "id": "adept",
     "word": "Adept",
-    "pronunciation": "uhd-EHPT",
+    "pronunciation": "uh-DEHPT",
     "deck": "advanced",
     "meanings": [
       {
@@ -478,7 +478,7 @@ export const wordsAdvanced = [
   {
     "id": "admonish",
     "word": "Admonish",
-    "pronunciation": "ad-MAHN-ihsh",
+    "pronunciation": "ad-MAH-nihsh",
     "deck": "advanced",
     "meanings": [
       {
@@ -491,7 +491,7 @@ export const wordsAdvanced = [
   {
     "id": "adorn",
     "word": "Adorn",
-    "pronunciation": "uhd-AWRN",
+    "pronunciation": "uh-DAWRN",
     "deck": "advanced",
     "meanings": [
       {
@@ -504,7 +504,7 @@ export const wordsAdvanced = [
   {
     "id": "adroit",
     "word": "Adroit",
-    "pronunciation": "uhd-ROYT",
+    "pronunciation": "uh-DROYT",
     "deck": "advanced",
     "meanings": [
       {
@@ -517,7 +517,7 @@ export const wordsAdvanced = [
   {
     "id": "adulation",
     "word": "Adulation",
-    "pronunciation": "aj-uhl-AYSH-uhn",
+    "pronunciation": "aj-uh-LAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -556,7 +556,7 @@ export const wordsAdvanced = [
   {
     "id": "advocate",
     "word": "Advocate",
-    "pronunciation": "AD-vuhk-uht",
+    "pronunciation": "AD-vuh-kuht",
     "deck": "advanced",
     "meanings": [
       {
@@ -600,7 +600,7 @@ export const wordsAdvanced = [
   {
     "id": "affable",
     "word": "Affable",
-    "pronunciation": "AF-uhb-uhl",
+    "pronunciation": "AF-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -613,7 +613,7 @@ export const wordsAdvanced = [
   {
     "id": "affinity",
     "word": "Affinity",
-    "pronunciation": "uhf-IHN-uht-ee",
+    "pronunciation": "uh-FIHN-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -639,7 +639,7 @@ export const wordsAdvanced = [
   {
     "id": "affront",
     "word": "Affront",
-    "pronunciation": "uhf-RUHNT",
+    "pronunciation": "uh-FRUHNT",
     "deck": "advanced",
     "meanings": [
       {
@@ -652,7 +652,7 @@ export const wordsAdvanced = [
   {
     "id": "aggrandize",
     "word": "Aggrandize",
-    "pronunciation": "uhg-RAN-dahyz",
+    "pronunciation": "uh-GRAN-dahyz",
     "deck": "advanced",
     "meanings": [
       {
@@ -665,7 +665,7 @@ export const wordsAdvanced = [
   {
     "id": "aggregate",
     "word": "Aggregate",
-    "pronunciation": "AG-ruhg-uht",
+    "pronunciation": "AG-ruh-guht",
     "deck": "advanced",
     "meanings": [
       {
@@ -683,7 +683,7 @@ export const wordsAdvanced = [
   {
     "id": "aggrieved",
     "word": "Aggrieved",
-    "pronunciation": "uhg-REEVD",
+    "pronunciation": "uh-GREEVD",
     "deck": "advanced",
     "meanings": [
       {
@@ -709,7 +709,7 @@ export const wordsAdvanced = [
   {
     "id": "agnostic",
     "word": "Agnostic",
-    "pronunciation": "ag-NAHS-tihk",
+    "pronunciation": "ag-NAH-stihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -722,7 +722,7 @@ export const wordsAdvanced = [
   {
     "id": "agriculture",
     "word": "Agriculture",
-    "pronunciation": "AG-rihk-uhl-cher",
+    "pronunciation": "AG-rih-kuhl-cher",
     "deck": "advanced",
     "meanings": [
       {
@@ -748,7 +748,7 @@ export const wordsAdvanced = [
   {
     "id": "alacrity",
     "word": "Alacrity",
-    "pronunciation": "uhl-AK-ruht-ee",
+    "pronunciation": "uh-LAK-ruh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -761,7 +761,7 @@ export const wordsAdvanced = [
   {
     "id": "alias",
     "word": "Alias",
-    "pronunciation": "AYL-ee-uhs",
+    "pronunciation": "AY-lee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -774,7 +774,7 @@ export const wordsAdvanced = [
   {
     "id": "allay",
     "word": "Allay",
-    "pronunciation": "uhl-AY",
+    "pronunciation": "uh-LAY",
     "deck": "advanced",
     "meanings": [
       {
@@ -787,7 +787,7 @@ export const wordsAdvanced = [
   {
     "id": "allege",
     "word": "Allege",
-    "pronunciation": "uhl-EHJ",
+    "pronunciation": "uh-LEHJ",
     "deck": "advanced",
     "meanings": [
       {
@@ -800,7 +800,7 @@ export const wordsAdvanced = [
   {
     "id": "alleviate",
     "word": "Alleviate",
-    "pronunciation": "uhl-EEV-ee-ayt",
+    "pronunciation": "uh-LEE-vee-ayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -813,7 +813,7 @@ export const wordsAdvanced = [
   {
     "id": "allocate",
     "word": "Allocate",
-    "pronunciation": "AL-uhk-ayt",
+    "pronunciation": "AL-uh-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -826,7 +826,7 @@ export const wordsAdvanced = [
   {
     "id": "aloof",
     "word": "Aloof",
-    "pronunciation": "uhl-OOF",
+    "pronunciation": "uh-LOOF",
     "deck": "advanced",
     "meanings": [
       {
@@ -839,7 +839,7 @@ export const wordsAdvanced = [
   {
     "id": "altercation",
     "word": "Altercation",
-    "pronunciation": "ahl-terk-AYSH-uhn",
+    "pronunciation": "ahl-ter-KAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -852,7 +852,7 @@ export const wordsAdvanced = [
   {
     "id": "amalgamate",
     "word": "Amalgamate",
-    "pronunciation": "uhm-AL-guhm-ayt",
+    "pronunciation": "uh-MAL-guh-mayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -878,7 +878,7 @@ export const wordsAdvanced = [
   {
     "id": "ambivalent",
     "word": "Ambivalent",
-    "pronunciation": "am-BIHV-uhl-uhnt",
+    "pronunciation": "am-BIHV-uh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -891,7 +891,7 @@ export const wordsAdvanced = [
   {
     "id": "ameliorate",
     "word": "Ameliorate",
-    "pronunciation": "uhm-EEL-yer-ayt",
+    "pronunciation": "uh-MEEL-yer-ayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -904,7 +904,7 @@ export const wordsAdvanced = [
   {
     "id": "amenable",
     "word": "Amenable",
-    "pronunciation": "uhm-EHN-uhb-uhl",
+    "pronunciation": "uh-MEHN-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -917,7 +917,7 @@ export const wordsAdvanced = [
   {
     "id": "amenity",
     "word": "Amenity",
-    "pronunciation": "uhm-EHN-uht-ee",
+    "pronunciation": "uh-MEHN-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -930,7 +930,7 @@ export const wordsAdvanced = [
   {
     "id": "amiable",
     "word": "Amiable",
-    "pronunciation": "AYM-ee-uhb-uhl",
+    "pronunciation": "AY-mee-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -943,7 +943,7 @@ export const wordsAdvanced = [
   {
     "id": "amicable",
     "word": "Amicable",
-    "pronunciation": "AM-ihk-uhb-uhl",
+    "pronunciation": "AM-ih-kuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -969,7 +969,7 @@ export const wordsAdvanced = [
   {
     "id": "amorphous",
     "word": "Amorphous",
-    "pronunciation": "uhm-AWR-fuhs",
+    "pronunciation": "uh-MAWR-fuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -982,7 +982,7 @@ export const wordsAdvanced = [
   {
     "id": "anachronistic",
     "word": "Anachronistic",
-    "pronunciation": "uhn-ak-ruhn-IHS-tihk",
+    "pronunciation": "uh-nak-ruh-NIHS-tihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -995,7 +995,7 @@ export const wordsAdvanced = [
   {
     "id": "analgesic",
     "word": "Analgesic",
-    "pronunciation": "an-uhl-JEES-ihk",
+    "pronunciation": "an-uhl-JEE-sihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -1008,7 +1008,7 @@ export const wordsAdvanced = [
   {
     "id": "analogous",
     "word": "Analogous",
-    "pronunciation": "uhn-AL-uhg-uhs",
+    "pronunciation": "uh-NAL-uh-guhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -1021,7 +1021,7 @@ export const wordsAdvanced = [
   {
     "id": "anarchist",
     "word": "Anarchist",
-    "pronunciation": "AN-erk-ihst",
+    "pronunciation": "AN-er-kihst",
     "deck": "advanced",
     "meanings": [
       {
@@ -1034,7 +1034,7 @@ export const wordsAdvanced = [
   {
     "id": "anathema",
     "word": "Anathema",
-    "pronunciation": "uhn-ATH-uhm-uh",
+    "pronunciation": "uh-NATH-uh-muh",
     "deck": "advanced",
     "meanings": [
       {
@@ -1060,7 +1060,7 @@ export const wordsAdvanced = [
   {
     "id": "anesthesia",
     "word": "Anesthesia",
-    "pronunciation": "an-ihs-THEEZH-uh",
+    "pronunciation": "an-ihs-THEE-zhuh",
     "deck": "advanced",
     "meanings": [
       {
@@ -1086,7 +1086,7 @@ export const wordsAdvanced = [
   {
     "id": "animated",
     "word": "Animated",
-    "pronunciation": "AN-uhm-ayt-ihd",
+    "pronunciation": "AN-uh-may-tihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -1130,7 +1130,7 @@ export const wordsAdvanced = [
   {
     "id": "anomaly",
     "word": "Anomaly",
-    "pronunciation": "uhn-AHM-uhl-ee",
+    "pronunciation": "uh-NAH-muh-lee",
     "deck": "advanced",
     "meanings": [
       {
@@ -1143,7 +1143,7 @@ export const wordsAdvanced = [
   {
     "id": "anonymous",
     "word": "Anonymous",
-    "pronunciation": "uhn-AHN-uhm-uhs",
+    "pronunciation": "uh-NAH-nuh-muhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -1156,7 +1156,7 @@ export const wordsAdvanced = [
   {
     "id": "antagonism",
     "word": "Antagonism",
-    "pronunciation": "an-TAG-uhn-ihz-uhm",
+    "pronunciation": "an-TAG-uh-nihz-uhm",
     "deck": "advanced",
     "meanings": [
       {
@@ -1169,7 +1169,7 @@ export const wordsAdvanced = [
   {
     "id": "antecedent",
     "word": "Antecedent",
-    "pronunciation": "an-TEHS-uhd-uhnt",
+    "pronunciation": "an-TEHS-uh-duhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -1195,7 +1195,7 @@ export const wordsAdvanced = [
   {
     "id": "anthology",
     "word": "Anthology",
-    "pronunciation": "an-THAHL-uhj-ee",
+    "pronunciation": "an-THAH-luh-jee",
     "deck": "advanced",
     "meanings": [
       {
@@ -1208,7 +1208,7 @@ export const wordsAdvanced = [
   {
     "id": "antipathy",
     "word": "Antipathy",
-    "pronunciation": "an-TIHP-uhth-ee",
+    "pronunciation": "an-TIHP-uh-thee",
     "deck": "advanced",
     "meanings": [
       {
@@ -1221,7 +1221,7 @@ export const wordsAdvanced = [
   {
     "id": "antiquated",
     "word": "Antiquated",
-    "pronunciation": "AN-tuhk-wayt-ihd",
+    "pronunciation": "AN-tuh-kway-tihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -1234,7 +1234,7 @@ export const wordsAdvanced = [
   {
     "id": "antiseptic",
     "word": "Antiseptic",
-    "pronunciation": "an-tuhs-EHP-tihk",
+    "pronunciation": "an-tuh-SEHP-tihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -1247,7 +1247,7 @@ export const wordsAdvanced = [
   {
     "id": "antithesis",
     "word": "Antithesis",
-    "pronunciation": "an-TIHTH-uhs-uhs",
+    "pronunciation": "an-TIHTH-uh-suhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -1260,7 +1260,7 @@ export const wordsAdvanced = [
   {
     "id": "anxiety",
     "word": "Anxiety",
-    "pronunciation": "ang-ZAHY-uht-ee",
+    "pronunciation": "ang-ZAHY-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -1273,7 +1273,7 @@ export const wordsAdvanced = [
   {
     "id": "apathetic",
     "word": "Apathetic",
-    "pronunciation": "ap-uhth-EHT-ihk",
+    "pronunciation": "ap-uh-THEHT-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -1286,7 +1286,7 @@ export const wordsAdvanced = [
   {
     "id": "apocryphal",
     "word": "Apocryphal",
-    "pronunciation": "uhp-AHK-ruhf-uhl",
+    "pronunciation": "uh-PAH-kruh-fuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -1299,7 +1299,7 @@ export const wordsAdvanced = [
   {
     "id": "appalling",
     "word": "Appalling",
-    "pronunciation": "uhp-AWL-ihng",
+    "pronunciation": "uh-PAW-lihng",
     "deck": "advanced",
     "meanings": [
       {
@@ -1312,7 +1312,7 @@ export const wordsAdvanced = [
   {
     "id": "appease",
     "word": "Appease",
-    "pronunciation": "uhp-EEZ",
+    "pronunciation": "uh-PEEZ",
     "deck": "advanced",
     "meanings": [
       {
@@ -1325,7 +1325,7 @@ export const wordsAdvanced = [
   {
     "id": "appraise",
     "word": "Appraise",
-    "pronunciation": "uhp-RAYZ",
+    "pronunciation": "uh-PRAYZ",
     "deck": "advanced",
     "meanings": [
       {
@@ -1338,7 +1338,7 @@ export const wordsAdvanced = [
   {
     "id": "apprehend",
     "word": "Apprehend",
-    "pronunciation": "ap-rihh-EHND",
+    "pronunciation": "ap-rih-HEHND",
     "deck": "advanced",
     "meanings": [
       {
@@ -1356,7 +1356,7 @@ export const wordsAdvanced = [
   {
     "id": "approbation",
     "word": "Approbation",
-    "pronunciation": "ap-ruhb-AYSH-uhn",
+    "pronunciation": "ap-ruh-BAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -1369,7 +1369,7 @@ export const wordsAdvanced = [
   {
     "id": "appropriate",
     "word": "Appropriate",
-    "pronunciation": "uhp-ROHP-ree-uht",
+    "pronunciation": "uh-PROH-pree-uht",
     "deck": "advanced",
     "meanings": [
       {
@@ -1382,7 +1382,7 @@ export const wordsAdvanced = [
   {
     "id": "aquatic",
     "word": "Aquatic",
-    "pronunciation": "uhk-WAHT-ihk",
+    "pronunciation": "uh-KWAH-tihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -1395,7 +1395,7 @@ export const wordsAdvanced = [
   {
     "id": "arable",
     "word": "Arable",
-    "pronunciation": "AR-uhb-uhl",
+    "pronunciation": "AR-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -1408,7 +1408,7 @@ export const wordsAdvanced = [
   {
     "id": "arbiter",
     "word": "Arbiter",
-    "pronunciation": "AHR-biht-er",
+    "pronunciation": "AHR-bih-ter",
     "deck": "advanced",
     "meanings": [
       {
@@ -1421,7 +1421,7 @@ export const wordsAdvanced = [
   {
     "id": "arbitrary",
     "word": "Arbitrary",
-    "pronunciation": "AHR-buht-rehr-ee",
+    "pronunciation": "AHR-buh-trehr-ee",
     "deck": "advanced",
     "meanings": [
       {
@@ -1434,7 +1434,7 @@ export const wordsAdvanced = [
   {
     "id": "arbitration",
     "word": "Arbitration",
-    "pronunciation": "ahr-biht-RAYSH-uhn",
+    "pronunciation": "ahr-bih-TRAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -1447,7 +1447,7 @@ export const wordsAdvanced = [
   {
     "id": "arboreal",
     "word": "Arboreal",
-    "pronunciation": "ahr-BAWR-ee-uhl",
+    "pronunciation": "ahr-BAW-ree-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -1486,7 +1486,7 @@ export const wordsAdvanced = [
   {
     "id": "archetypal",
     "word": "Archetypal",
-    "pronunciation": "AHR-KTAHYP-uhl",
+    "pronunciation": "AHRK-TAHY-puhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -1525,7 +1525,7 @@ export const wordsAdvanced = [
   {
     "id": "arrogate",
     "word": "Arrogate",
-    "pronunciation": "AR-ohg-ayt",
+    "pronunciation": "AR-oh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -1538,7 +1538,7 @@ export const wordsAdvanced = [
   {
     "id": "artifact",
     "word": "Artifact",
-    "pronunciation": "AHR-tuhf-akt",
+    "pronunciation": "AHR-tuh-fakt",
     "deck": "advanced",
     "meanings": [
       {
@@ -1551,7 +1551,7 @@ export const wordsAdvanced = [
   {
     "id": "artisan",
     "word": "Artisan",
-    "pronunciation": "AHR-tuhz-uhn",
+    "pronunciation": "AHR-tuh-zuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -1564,7 +1564,7 @@ export const wordsAdvanced = [
   {
     "id": "ascertain",
     "word": "Ascertain",
-    "pronunciation": "as-ert-AYN",
+    "pronunciation": "as-er-TAYN",
     "deck": "advanced",
     "meanings": [
       {
@@ -1577,7 +1577,7 @@ export const wordsAdvanced = [
   {
     "id": "ascetic",
     "word": "Ascetic",
-    "pronunciation": "uhs-EHT-ihk",
+    "pronunciation": "uh-SEHT-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -1590,7 +1590,7 @@ export const wordsAdvanced = [
   {
     "id": "ascribe",
     "word": "Ascribe",
-    "pronunciation": "uhs-KRAHYB",
+    "pronunciation": "uh-SKRAHYB",
     "deck": "advanced",
     "meanings": [
       {
@@ -1603,7 +1603,7 @@ export const wordsAdvanced = [
   {
     "id": "aspersion",
     "word": "Aspersion",
-    "pronunciation": "uhs-PERZH-uhn",
+    "pronunciation": "uh-SPER-zhuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -1616,7 +1616,7 @@ export const wordsAdvanced = [
   {
     "id": "aspire",
     "word": "Aspire",
-    "pronunciation": "uhs-PAHYR",
+    "pronunciation": "uh-SPAHYR",
     "deck": "advanced",
     "meanings": [
       {
@@ -1629,7 +1629,7 @@ export const wordsAdvanced = [
   {
     "id": "assail",
     "word": "Assail",
-    "pronunciation": "uhs-AYL",
+    "pronunciation": "uh-SAYL",
     "deck": "advanced",
     "meanings": [
       {
@@ -1642,7 +1642,7 @@ export const wordsAdvanced = [
   {
     "id": "assess",
     "word": "Assess",
-    "pronunciation": "uhs-EHS",
+    "pronunciation": "uh-SEHS",
     "deck": "advanced",
     "meanings": [
       {
@@ -1655,7 +1655,7 @@ export const wordsAdvanced = [
   {
     "id": "assiduous",
     "word": "Assiduous",
-    "pronunciation": "uhs-IHD-wuhs",
+    "pronunciation": "uh-SIHD-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -1668,7 +1668,7 @@ export const wordsAdvanced = [
   {
     "id": "assuage",
     "word": "Assuage",
-    "pronunciation": "uhs-WAYJ",
+    "pronunciation": "uh-SWAYJ",
     "deck": "advanced",
     "meanings": [
       {
@@ -1681,7 +1681,7 @@ export const wordsAdvanced = [
   {
     "id": "astute",
     "word": "Astute",
-    "pronunciation": "uhs-TOOT",
+    "pronunciation": "uh-STOOT",
     "deck": "advanced",
     "meanings": [
       {
@@ -1694,7 +1694,7 @@ export const wordsAdvanced = [
   {
     "id": "asylum",
     "word": "Asylum",
-    "pronunciation": "uhs-AHYL-uhm",
+    "pronunciation": "uh-SAHY-luhm",
     "deck": "advanced",
     "meanings": [
       {
@@ -1712,7 +1712,7 @@ export const wordsAdvanced = [
   {
     "id": "atone",
     "word": "Atone",
-    "pronunciation": "uht-OHN",
+    "pronunciation": "uh-TOHN",
     "deck": "advanced",
     "meanings": [
       {
@@ -1725,7 +1725,7 @@ export const wordsAdvanced = [
   {
     "id": "atrophy",
     "word": "Atrophy",
-    "pronunciation": "AT-ruhf-ee",
+    "pronunciation": "AT-ruh-fee",
     "deck": "advanced",
     "meanings": [
       {
@@ -1738,7 +1738,7 @@ export const wordsAdvanced = [
   {
     "id": "attain",
     "word": "Attain",
-    "pronunciation": "uht-AYN",
+    "pronunciation": "uh-TAYN",
     "deck": "advanced",
     "meanings": [
       {
@@ -1751,7 +1751,7 @@ export const wordsAdvanced = [
   {
     "id": "attribute",
     "word": "Attribute",
-    "pronunciation": "AT-ruhb-yoot",
+    "pronunciation": "AT-ruh-byoot",
     "deck": "advanced",
     "meanings": [
       {
@@ -1769,7 +1769,7 @@ export const wordsAdvanced = [
   {
     "id": "atypical",
     "word": "Atypical",
-    "pronunciation": "ayt-IHP-ihk-uhl",
+    "pronunciation": "ay-TIHP-ih-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -1782,7 +1782,7 @@ export const wordsAdvanced = [
   {
     "id": "audacious",
     "word": "Audacious",
-    "pronunciation": "ahd-AYSH-uhs",
+    "pronunciation": "ah-DAY-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -1795,7 +1795,7 @@ export const wordsAdvanced = [
   {
     "id": "audible",
     "word": "Audible",
-    "pronunciation": "AHD-uhb-uhl",
+    "pronunciation": "AH-duh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -1821,7 +1821,7 @@ export const wordsAdvanced = [
   {
     "id": "auspicious",
     "word": "Auspicious",
-    "pronunciation": "ahs-PIHSH-uhs",
+    "pronunciation": "ah-SPIHSH-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -1834,7 +1834,7 @@ export const wordsAdvanced = [
   {
     "id": "austere",
     "word": "Austere",
-    "pronunciation": "aws-TIHR",
+    "pronunciation": "aw-STIHR",
     "deck": "advanced",
     "meanings": [
       {
@@ -1860,7 +1860,7 @@ export const wordsAdvanced = [
   {
     "id": "avenge",
     "word": "Avenge",
-    "pronunciation": "uhv-EHNJ",
+    "pronunciation": "uh-VEHNJ",
     "deck": "advanced",
     "meanings": [
       {
@@ -1873,7 +1873,7 @@ export const wordsAdvanced = [
   {
     "id": "aversion",
     "word": "Aversion",
-    "pronunciation": "uhv-ERZH-uhn",
+    "pronunciation": "uh-VER-zhuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -1912,7 +1912,7 @@ export const wordsAdvanced = [
   {
     "id": "banal",
     "word": "Banal",
-    "pronunciation": "buhn-AHL",
+    "pronunciation": "buh-NAHL",
     "deck": "advanced",
     "meanings": [
       {
@@ -1974,7 +1974,7 @@ export const wordsAdvanced = [
   {
     "id": "beguile",
     "word": "Beguile",
-    "pronunciation": "bihg-AHYL",
+    "pronunciation": "bih-GAHYL",
     "deck": "advanced",
     "meanings": [
       {
@@ -1987,7 +1987,7 @@ export const wordsAdvanced = [
   {
     "id": "behemoth",
     "word": "Behemoth",
-    "pronunciation": "buhh-EEM-uhth",
+    "pronunciation": "buh-HEE-muhth",
     "deck": "advanced",
     "meanings": [
       {
@@ -2000,7 +2000,7 @@ export const wordsAdvanced = [
   {
     "id": "benevolent",
     "word": "Benevolent",
-    "pronunciation": "buhn-EHV-uhl-uhnt",
+    "pronunciation": "buh-NEHV-uh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2013,7 +2013,7 @@ export const wordsAdvanced = [
   {
     "id": "benign",
     "word": "Benign",
-    "pronunciation": "bihn-AHYN",
+    "pronunciation": "bih-NAHYN",
     "deck": "advanced",
     "meanings": [
       {
@@ -2026,7 +2026,7 @@ export const wordsAdvanced = [
   {
     "id": "bequeath",
     "word": "Bequeath",
-    "pronunciation": "bihk-WEETH",
+    "pronunciation": "bih-KWEETH",
     "deck": "advanced",
     "meanings": [
       {
@@ -2039,7 +2039,7 @@ export const wordsAdvanced = [
   {
     "id": "berate",
     "word": "Berate",
-    "pronunciation": "bihr-AYT",
+    "pronunciation": "bih-RAYT",
     "deck": "advanced",
     "meanings": [
       {
@@ -2065,7 +2065,7 @@ export const wordsAdvanced = [
   {
     "id": "beseech",
     "word": "Beseech",
-    "pronunciation": "bees-EECH",
+    "pronunciation": "bee-SEECH",
     "deck": "advanced",
     "meanings": [
       {
@@ -2148,7 +2148,7 @@ export const wordsAdvanced = [
   {
     "id": "boisterous",
     "word": "Boisterous",
-    "pronunciation": "BOYS-ter-uhs",
+    "pronunciation": "BOY-ster-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -2187,7 +2187,7 @@ export const wordsAdvanced = [
   {
     "id": "bourgeois",
     "word": "Bourgeois",
-    "pronunciation": "buur-ZHWAH",
+    "pronunciation": "buurzh-WAH",
     "deck": "advanced",
     "meanings": [
       {
@@ -2200,7 +2200,7 @@ export const wordsAdvanced = [
   {
     "id": "brazen",
     "word": "Brazen",
-    "pronunciation": "BRAYZ-uhn",
+    "pronunciation": "BRAY-zuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -2244,7 +2244,7 @@ export const wordsAdvanced = [
   {
     "id": "burnish",
     "word": "Burnish",
-    "pronunciation": "BERN-ihsh",
+    "pronunciation": "BER-nihsh",
     "deck": "advanced",
     "meanings": [
       {
@@ -2275,7 +2275,7 @@ export const wordsAdvanced = [
   {
     "id": "cacophony",
     "word": "Cacophony",
-    "pronunciation": "kak-AHF-uhn-ee",
+    "pronunciation": "ka-KAH-fuh-nee",
     "deck": "advanced",
     "meanings": [
       {
@@ -2288,7 +2288,7 @@ export const wordsAdvanced = [
   {
     "id": "cadence",
     "word": "Cadence",
-    "pronunciation": "KAYD-uhns",
+    "pronunciation": "KAY-duhns",
     "deck": "advanced",
     "meanings": [
       {
@@ -2301,7 +2301,7 @@ export const wordsAdvanced = [
   {
     "id": "cajole",
     "word": "Cajole",
-    "pronunciation": "kuhj-OHL",
+    "pronunciation": "kuh-JOHL",
     "deck": "advanced",
     "meanings": [
       {
@@ -2314,7 +2314,7 @@ export const wordsAdvanced = [
   {
     "id": "calamity",
     "word": "Calamity",
-    "pronunciation": "kuhl-AM-uht-ee",
+    "pronunciation": "kuh-LAM-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -2327,7 +2327,7 @@ export const wordsAdvanced = [
   {
     "id": "calibrate",
     "word": "Calibrate",
-    "pronunciation": "KAL-uhb-rayt",
+    "pronunciation": "KAL-uh-brayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2366,7 +2366,7 @@ export const wordsAdvanced = [
   {
     "id": "camaraderie",
     "word": "Camaraderie",
-    "pronunciation": "kahm-er-AHD-er-ee",
+    "pronunciation": "kah-mer-AH-der-ee",
     "deck": "advanced",
     "meanings": [
       {
@@ -2423,7 +2423,7 @@ export const wordsAdvanced = [
   {
     "id": "capacious",
     "word": "Capacious",
-    "pronunciation": "kuhp-AYSH-uhs",
+    "pronunciation": "kuh-PAY-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -2436,7 +2436,7 @@ export const wordsAdvanced = [
   {
     "id": "capitulate",
     "word": "Capitulate",
-    "pronunciation": "kuhp-IHCH-ool-iht",
+    "pronunciation": "kuh-PIHCH-oo-liht",
     "deck": "advanced",
     "meanings": [
       {
@@ -2449,7 +2449,7 @@ export const wordsAdvanced = [
   {
     "id": "capricious",
     "word": "Capricious",
-    "pronunciation": "kuhp-RIHSH-uhs",
+    "pronunciation": "kuh-PRIHSH-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -2462,7 +2462,7 @@ export const wordsAdvanced = [
   {
     "id": "captivate",
     "word": "Captivate",
-    "pronunciation": "KAP-tihv-ayt",
+    "pronunciation": "KAP-tih-vayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2501,7 +2501,7 @@ export const wordsAdvanced = [
   {
     "id": "catalog",
     "word": "Catalog",
-    "pronunciation": "KAT-uhl-awg",
+    "pronunciation": "KAT-uh-lawg",
     "deck": "advanced",
     "meanings": [
       {
@@ -2519,7 +2519,7 @@ export const wordsAdvanced = [
   {
     "id": "catalyze",
     "word": "Catalyze",
-    "pronunciation": "KAT-uhl-ahyz",
+    "pronunciation": "KAT-uh-lahyz",
     "deck": "advanced",
     "meanings": [
       {
@@ -2532,7 +2532,7 @@ export const wordsAdvanced = [
   {
     "id": "caucus",
     "word": "Caucus",
-    "pronunciation": "KAWK-uhs",
+    "pronunciation": "KAW-kuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -2545,7 +2545,7 @@ export const wordsAdvanced = [
   {
     "id": "caustic",
     "word": "Caustic",
-    "pronunciation": "KAHS-tihk",
+    "pronunciation": "KAH-stihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -2558,7 +2558,7 @@ export const wordsAdvanced = [
   {
     "id": "cavort",
     "word": "Cavort",
-    "pronunciation": "kuhv-AWRT",
+    "pronunciation": "kuh-VAWRT",
     "deck": "advanced",
     "meanings": [
       {
@@ -2589,7 +2589,7 @@ export const wordsAdvanced = [
   {
     "id": "cerebral",
     "word": "Cerebral",
-    "pronunciation": "SEHR-uhb-ruhl",
+    "pronunciation": "SEHR-uh-bruhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -2615,7 +2615,7 @@ export const wordsAdvanced = [
   {
     "id": "chastise",
     "word": "Chastise",
-    "pronunciation": "chas-TAHYZ",
+    "pronunciation": "cha-STAHYZ",
     "deck": "advanced",
     "meanings": [
       {
@@ -2654,7 +2654,7 @@ export const wordsAdvanced = [
   {
     "id": "choreography",
     "word": "Choreography",
-    "pronunciation": "kawr-ee-AHG-ruhf-ee",
+    "pronunciation": "kaw-ree-AH-gruh-fee",
     "deck": "advanced",
     "meanings": [
       {
@@ -2667,7 +2667,7 @@ export const wordsAdvanced = [
   {
     "id": "chronicle",
     "word": "Chronicle",
-    "pronunciation": "KRAHN-ihk-uhl",
+    "pronunciation": "KRAH-nih-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -2685,7 +2685,7 @@ export const wordsAdvanced = [
   {
     "id": "chronological",
     "word": "Chronological",
-    "pronunciation": "krahn-uhl-AHJ-ihk-uhl",
+    "pronunciation": "krah-nuh-LAH-jih-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -2698,7 +2698,7 @@ export const wordsAdvanced = [
   {
     "id": "circuitous",
     "word": "Circuitous",
-    "pronunciation": "serk-YOO-iht-uhs",
+    "pronunciation": "ser-KYOO-ih-tuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -2724,7 +2724,7 @@ export const wordsAdvanced = [
   {
     "id": "circumscribed",
     "word": "Circumscribed",
-    "pronunciation": "serk-uhm-SKRAHYBD",
+    "pronunciation": "ser-kuhm-SKRAHYBD",
     "deck": "advanced",
     "meanings": [
       {
@@ -2737,7 +2737,7 @@ export const wordsAdvanced = [
   {
     "id": "circumspect",
     "word": "Circumspect",
-    "pronunciation": "SERK-uhm-spehkt",
+    "pronunciation": "SER-kuhm-spehkt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2750,7 +2750,7 @@ export const wordsAdvanced = [
   {
     "id": "circumvent",
     "word": "Circumvent",
-    "pronunciation": "serk-uhm-VEHNT",
+    "pronunciation": "ser-kuhm-VEHNT",
     "deck": "advanced",
     "meanings": [
       {
@@ -2838,7 +2838,7 @@ export const wordsAdvanced = [
   {
     "id": "clergy",
     "word": "Clergy",
-    "pronunciation": "KLERJ-ee",
+    "pronunciation": "KLER-jee",
     "deck": "advanced",
     "meanings": [
       {
@@ -2864,7 +2864,7 @@ export const wordsAdvanced = [
   {
     "id": "coagulate",
     "word": "Coagulate",
-    "pronunciation": "koh-AG-yuhl-ayt",
+    "pronunciation": "koh-AG-yuh-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2877,7 +2877,7 @@ export const wordsAdvanced = [
   {
     "id": "coalesce",
     "word": "Coalesce",
-    "pronunciation": "koh-uhl-EHS",
+    "pronunciation": "koh-uh-LEHS",
     "deck": "advanced",
     "meanings": [
       {
@@ -2890,7 +2890,7 @@ export const wordsAdvanced = [
   {
     "id": "cobbler",
     "word": "Cobbler",
-    "pronunciation": "KAHB-ler",
+    "pronunciation": "KAH-bler",
     "deck": "advanced",
     "meanings": [
       {
@@ -2916,7 +2916,7 @@ export const wordsAdvanced = [
   {
     "id": "cogent",
     "word": "Cogent",
-    "pronunciation": "KOHJ-uhnt",
+    "pronunciation": "KOH-juhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2929,7 +2929,7 @@ export const wordsAdvanced = [
   {
     "id": "cognizant",
     "word": "Cognizant",
-    "pronunciation": "KAHG-nuhz-uhnt",
+    "pronunciation": "KAHG-nuh-zuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2942,7 +2942,7 @@ export const wordsAdvanced = [
   {
     "id": "coherent",
     "word": "Coherent",
-    "pronunciation": "kohh-IHR-uhnt",
+    "pronunciation": "koh-HIHR-uhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -2955,7 +2955,7 @@ export const wordsAdvanced = [
   {
     "id": "collateral",
     "word": "Collateral",
-    "pronunciation": "kuhl-AT-er-uhl",
+    "pronunciation": "kuh-LAT-er-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -2973,7 +2973,7 @@ export const wordsAdvanced = [
   {
     "id": "colloquial",
     "word": "Colloquial",
-    "pronunciation": "kuhl-OHK-wee-uhl",
+    "pronunciation": "kuh-LOH-kwee-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -2986,7 +2986,7 @@ export const wordsAdvanced = [
   {
     "id": "collusion",
     "word": "Collusion",
-    "pronunciation": "kuhl-OOZH-uhn",
+    "pronunciation": "kuh-LOO-zhuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -2999,7 +2999,7 @@ export const wordsAdvanced = [
   {
     "id": "colossus",
     "word": "Colossus",
-    "pronunciation": "kuhl-AHS-uhs",
+    "pronunciation": "kuh-LAH-suhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -3025,7 +3025,7 @@ export const wordsAdvanced = [
   {
     "id": "commendation",
     "word": "Commendation",
-    "pronunciation": "kahm-uhn-DAYSH-uhn",
+    "pronunciation": "kah-muhn-DAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3038,7 +3038,7 @@ export const wordsAdvanced = [
   {
     "id": "commensurate",
     "word": "Commensurate",
-    "pronunciation": "kuhm-EHN-ser-uht",
+    "pronunciation": "kuh-MEHN-ser-uht",
     "deck": "advanced",
     "meanings": [
       {
@@ -3051,7 +3051,7 @@ export const wordsAdvanced = [
   {
     "id": "commodious",
     "word": "Commodious",
-    "pronunciation": "kuhm-OHD-ee-uhs",
+    "pronunciation": "kuh-MOH-dee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -3090,7 +3090,7 @@ export const wordsAdvanced = [
   {
     "id": "complacency",
     "word": "Complacency",
-    "pronunciation": "kuhm-PLAYS-uhn-see",
+    "pronunciation": "kuhm-PLAY-suhn-see",
     "deck": "advanced",
     "meanings": [
       {
@@ -3103,7 +3103,7 @@ export const wordsAdvanced = [
   {
     "id": "complement",
     "word": "Complement",
-    "pronunciation": "KAHM-pluhm-uhnt",
+    "pronunciation": "KAHM-pluh-muhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3142,7 +3142,7 @@ export const wordsAdvanced = [
   {
     "id": "compliment",
     "word": "Compliment",
-    "pronunciation": "KAHM-pluhm-ehnt",
+    "pronunciation": "KAHM-pluh-mehnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3178,7 +3178,7 @@ export const wordsAdvanced = [
   {
     "id": "comprehensive",
     "word": "Comprehensive",
-    "pronunciation": "kahm-preeh-EHN-sihv",
+    "pronunciation": "kahm-pree-HEHN-sihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -3204,7 +3204,7 @@ export const wordsAdvanced = [
   {
     "id": "compunction",
     "word": "Compunction",
-    "pronunciation": "kuhm-PUHNG-kshuhn",
+    "pronunciation": "kuhm-PUHNGK-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3230,7 +3230,7 @@ export const wordsAdvanced = [
   {
     "id": "conciliatory",
     "word": "Conciliatory",
-    "pronunciation": "kuhn-SIHL-ee-uht-awr-ee",
+    "pronunciation": "kuhn-SIHL-ee-uh-taw-ree",
     "deck": "advanced",
     "meanings": [
       {
@@ -3269,7 +3269,7 @@ export const wordsAdvanced = [
   {
     "id": "concomitant",
     "word": "Concomitant",
-    "pronunciation": "kahn-KAHM-uht-uhnt",
+    "pronunciation": "kahn-KAH-muh-tuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3295,7 +3295,7 @@ export const wordsAdvanced = [
   {
     "id": "condolence",
     "word": "Condolence",
-    "pronunciation": "kuhn-DOHL-uhns",
+    "pronunciation": "kuhn-DOH-luhns",
     "deck": "advanced",
     "meanings": [
       {
@@ -3347,7 +3347,7 @@ export const wordsAdvanced = [
   {
     "id": "confidant",
     "word": "Confidant",
-    "pronunciation": "KAHN-fuhd-ahnt",
+    "pronunciation": "KAHN-fuh-dahnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3360,7 +3360,7 @@ export const wordsAdvanced = [
   {
     "id": "conflagration",
     "word": "Conflagration",
-    "pronunciation": "kahn-fluhg-RAYSH-uhn",
+    "pronunciation": "kahn-fluh-GRAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3438,7 +3438,7 @@ export const wordsAdvanced = [
   {
     "id": "congregation",
     "word": "Congregation",
-    "pronunciation": "kahng-gruhg-AYSH-uhn",
+    "pronunciation": "kahng-gruh-GAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3451,7 +3451,7 @@ export const wordsAdvanced = [
   {
     "id": "congruity",
     "word": "Congruity",
-    "pronunciation": "kuhn-GROO-uht-ee",
+    "pronunciation": "kuhn-GROO-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -3464,7 +3464,7 @@ export const wordsAdvanced = [
   {
     "id": "connive",
     "word": "Connive",
-    "pronunciation": "kuhn-AHYV",
+    "pronunciation": "kuh-NAHYV",
     "deck": "advanced",
     "meanings": [
       {
@@ -3477,7 +3477,7 @@ export const wordsAdvanced = [
   {
     "id": "consecrate",
     "word": "Consecrate",
-    "pronunciation": "KAHN-suhk-rayt",
+    "pronunciation": "KAHN-suh-krayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3516,7 +3516,7 @@ export const wordsAdvanced = [
   {
     "id": "consolation",
     "word": "Consolation",
-    "pronunciation": "kahn-suhl-AYSH-uhn",
+    "pronunciation": "kahn-suh-LAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3529,7 +3529,7 @@ export const wordsAdvanced = [
   {
     "id": "consonant",
     "word": "Consonant",
-    "pronunciation": "KAHN-suhn-uhnt",
+    "pronunciation": "KAHN-suh-nuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3581,7 +3581,7 @@ export const wordsAdvanced = [
   {
     "id": "consummate",
     "word": "Consummate",
-    "pronunciation": "KAHN-suhm-uht",
+    "pronunciation": "KAHN-suh-muht",
     "deck": "advanced",
     "meanings": [
       {
@@ -3594,7 +3594,7 @@ export const wordsAdvanced = [
   {
     "id": "consumption",
     "word": "Consumption",
-    "pronunciation": "kuhn-SUHM-pshuhn",
+    "pronunciation": "kuhn-SUHMP-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3607,7 +3607,7 @@ export const wordsAdvanced = [
   {
     "id": "contemporaneous",
     "word": "Contemporaneous",
-    "pronunciation": "kuhn-tehm-per-AYN-ee-uhs",
+    "pronunciation": "kuhn-tehm-per-AY-nee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -3633,7 +3633,7 @@ export const wordsAdvanced = [
   {
     "id": "contravene",
     "word": "Contravene",
-    "pronunciation": "KAHN-truhv-een",
+    "pronunciation": "KAHN-truh-veen",
     "deck": "advanced",
     "meanings": [
       {
@@ -3659,7 +3659,7 @@ export const wordsAdvanced = [
   {
     "id": "contusion",
     "word": "Contusion",
-    "pronunciation": "kuhn-TOOZH-uhn",
+    "pronunciation": "kuhn-TOO-zhuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3672,7 +3672,7 @@ export const wordsAdvanced = [
   {
     "id": "conundrum",
     "word": "Conundrum",
-    "pronunciation": "kuhn-UHN-druhm",
+    "pronunciation": "kuh-NUHN-druhm",
     "deck": "advanced",
     "meanings": [
       {
@@ -3729,7 +3729,7 @@ export const wordsAdvanced = [
   {
     "id": "convoluted",
     "word": "Convoluted",
-    "pronunciation": "KAHN-vuhl-oot-uhd",
+    "pronunciation": "KAHN-vuh-loo-tuhd",
     "deck": "advanced",
     "meanings": [
       {
@@ -3742,7 +3742,7 @@ export const wordsAdvanced = [
   {
     "id": "copious",
     "word": "Copious",
-    "pronunciation": "KOHP-ee-uhs",
+    "pronunciation": "KOH-pee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -3768,7 +3768,7 @@ export const wordsAdvanced = [
   {
     "id": "coronation",
     "word": "Coronation",
-    "pronunciation": "kawr-uhn-AYSH-uhn",
+    "pronunciation": "kaw-ruh-NAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3794,7 +3794,7 @@ export const wordsAdvanced = [
   {
     "id": "corroborate",
     "word": "Corroborate",
-    "pronunciation": "ker-AHB-er-ayt",
+    "pronunciation": "ker-AH-ber-ayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3807,7 +3807,7 @@ export const wordsAdvanced = [
   {
     "id": "corrosive",
     "word": "Corrosive",
-    "pronunciation": "ker-OHS-ihv",
+    "pronunciation": "ker-OH-sihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -3820,7 +3820,7 @@ export const wordsAdvanced = [
   {
     "id": "cosmopolitan",
     "word": "Cosmopolitan",
-    "pronunciation": "kahz-muhp-AHL-uht-uhn",
+    "pronunciation": "kahz-muh-PAH-luh-tuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3877,7 +3877,7 @@ export const wordsAdvanced = [
   {
     "id": "covert",
     "word": "Covert",
-    "pronunciation": "KOHV-ert",
+    "pronunciation": "KOH-vert",
     "deck": "advanced",
     "meanings": [
       {
@@ -3890,7 +3890,7 @@ export const wordsAdvanced = [
   {
     "id": "credulity",
     "word": "Credulity",
-    "pronunciation": "krihd-OOL-uht-ee",
+    "pronunciation": "krih-DOO-luh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -3903,7 +3903,7 @@ export const wordsAdvanced = [
   {
     "id": "crescendo",
     "word": "Crescendo",
-    "pronunciation": "krihsh-EHN-doh",
+    "pronunciation": "krih-SHEHN-doh",
     "deck": "advanced",
     "meanings": [
       {
@@ -3916,7 +3916,7 @@ export const wordsAdvanced = [
   {
     "id": "criteria",
     "word": "Criteria",
-    "pronunciation": "krahyt-IHR-ee-uh",
+    "pronunciation": "krahy-TIHR-ee-uh",
     "deck": "advanced",
     "meanings": [
       {
@@ -3929,7 +3929,7 @@ export const wordsAdvanced = [
   {
     "id": "culmination",
     "word": "Culmination",
-    "pronunciation": "kuhl-muhn-AYSH-uhn",
+    "pronunciation": "kuhl-muh-NAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -3942,7 +3942,7 @@ export const wordsAdvanced = [
   {
     "id": "culpable",
     "word": "Culpable",
-    "pronunciation": "KUHL-puhb-uhl",
+    "pronunciation": "KUHL-puh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -3955,7 +3955,7 @@ export const wordsAdvanced = [
   {
     "id": "cultivate",
     "word": "Cultivate",
-    "pronunciation": "KUHL-tuhv-ayt",
+    "pronunciation": "KUHL-tuh-vayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -3968,7 +3968,7 @@ export const wordsAdvanced = [
   {
     "id": "cumulative",
     "word": "Cumulative",
-    "pronunciation": "KYOOM-yuhl-uht-ihv",
+    "pronunciation": "KYOO-myuh-luh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -3994,7 +3994,7 @@ export const wordsAdvanced = [
   {
     "id": "cupidity",
     "word": "Cupidity",
-    "pronunciation": "kyoop-IHD-iht-ee",
+    "pronunciation": "kyoo-PIHD-ih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -4007,7 +4007,7 @@ export const wordsAdvanced = [
   {
     "id": "cursory",
     "word": "Cursory",
-    "pronunciation": "KERS-er-ee",
+    "pronunciation": "KER-ser-ee",
     "deck": "advanced",
     "meanings": [
       {
@@ -4033,7 +4033,7 @@ export const wordsAdvanced = [
   {
     "id": "curtail",
     "word": "Curtail",
-    "pronunciation": "kert-AYL",
+    "pronunciation": "ker-TAYL",
     "deck": "advanced",
     "meanings": [
       {
@@ -4072,7 +4072,7 @@ export const wordsAdvanced = [
   {
     "id": "debacle",
     "word": "Debacle",
-    "pronunciation": "duhb-AHK-uhl",
+    "pronunciation": "duh-BAH-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -4085,7 +4085,7 @@ export const wordsAdvanced = [
   {
     "id": "debase",
     "word": "Debase",
-    "pronunciation": "duhb-AYS",
+    "pronunciation": "duh-BAYS",
     "deck": "advanced",
     "meanings": [
       {
@@ -4111,7 +4111,7 @@ export const wordsAdvanced = [
   {
     "id": "debunk",
     "word": "Debunk",
-    "pronunciation": "dihb-UHNGK",
+    "pronunciation": "dih-BUHNGK",
     "deck": "advanced",
     "meanings": [
       {
@@ -4137,7 +4137,7 @@ export const wordsAdvanced = [
   {
     "id": "decry",
     "word": "Decry",
-    "pronunciation": "dihk-RAHY",
+    "pronunciation": "dih-KRAHY",
     "deck": "advanced",
     "meanings": [
       {
@@ -4150,7 +4150,7 @@ export const wordsAdvanced = [
   {
     "id": "deface",
     "word": "Deface",
-    "pronunciation": "dihf-AYS",
+    "pronunciation": "dih-FAYS",
     "deck": "advanced",
     "meanings": [
       {
@@ -4163,7 +4163,7 @@ export const wordsAdvanced = [
   {
     "id": "defamatory",
     "word": "Defamatory",
-    "pronunciation": "dihf-AM-uht-awr-ee",
+    "pronunciation": "dih-FAM-uh-taw-ree",
     "deck": "advanced",
     "meanings": [
       {
@@ -4176,7 +4176,7 @@ export const wordsAdvanced = [
   {
     "id": "defer",
     "word": "Defer",
-    "pronunciation": "dihf-ER",
+    "pronunciation": "dih-FER",
     "deck": "advanced",
     "meanings": [
       {
@@ -4228,7 +4228,7 @@ export const wordsAdvanced = [
   {
     "id": "defunct",
     "word": "Defunct",
-    "pronunciation": "dihf-UHNGKT",
+    "pronunciation": "dih-FUHNGKT",
     "deck": "advanced",
     "meanings": [
       {
@@ -4241,7 +4241,7 @@ export const wordsAdvanced = [
   {
     "id": "delegate",
     "word": "Delegate",
-    "pronunciation": "DEHL-uhg-ayt",
+    "pronunciation": "DEHL-uh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4254,7 +4254,7 @@ export const wordsAdvanced = [
   {
     "id": "deleterious",
     "word": "Deleterious",
-    "pronunciation": "dehl-uht-IHR-ee-uhs",
+    "pronunciation": "dehl-uh-TIHR-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -4267,7 +4267,7 @@ export const wordsAdvanced = [
   {
     "id": "deliberate",
     "word": "Deliberate",
-    "pronunciation": "dihl-IHB-er-uht",
+    "pronunciation": "dih-LIHB-er-uht",
     "deck": "advanced",
     "meanings": [
       {
@@ -4280,7 +4280,7 @@ export const wordsAdvanced = [
   {
     "id": "delineate",
     "word": "Delineate",
-    "pronunciation": "dihl-IHN-ee-ayt",
+    "pronunciation": "dih-LIHN-ee-ayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4293,7 +4293,7 @@ export const wordsAdvanced = [
   {
     "id": "demagogue",
     "word": "Demagogue",
-    "pronunciation": "DEHM-uhg-ahg",
+    "pronunciation": "DEHM-uh-gahg",
     "deck": "advanced",
     "meanings": [
       {
@@ -4306,7 +4306,7 @@ export const wordsAdvanced = [
   {
     "id": "demarcation",
     "word": "Demarcation",
-    "pronunciation": "deem-ahr-KAYSH-uhn",
+    "pronunciation": "dee-mahr-KAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -4319,7 +4319,7 @@ export const wordsAdvanced = [
   {
     "id": "demean",
     "word": "Demean",
-    "pronunciation": "dihm-EEN",
+    "pronunciation": "dih-MEEN",
     "deck": "advanced",
     "meanings": [
       {
@@ -4332,7 +4332,7 @@ export const wordsAdvanced = [
   {
     "id": "demure",
     "word": "Demure",
-    "pronunciation": "dihm-YUUR",
+    "pronunciation": "dih-MYUUR",
     "deck": "advanced",
     "meanings": [
       {
@@ -4345,7 +4345,7 @@ export const wordsAdvanced = [
   {
     "id": "denigrate",
     "word": "Denigrate",
-    "pronunciation": "DEHN-uhg-rayt",
+    "pronunciation": "DEHN-uh-grayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4358,7 +4358,7 @@ export const wordsAdvanced = [
   {
     "id": "denounce",
     "word": "Denounce",
-    "pronunciation": "dihn-OWNS",
+    "pronunciation": "dih-NOWNS",
     "deck": "advanced",
     "meanings": [
       {
@@ -4371,7 +4371,7 @@ export const wordsAdvanced = [
   {
     "id": "deplore",
     "word": "Deplore",
-    "pronunciation": "dihp-LAWR",
+    "pronunciation": "dih-PLAWR",
     "deck": "advanced",
     "meanings": [
       {
@@ -4384,7 +4384,7 @@ export const wordsAdvanced = [
   {
     "id": "depravity",
     "word": "Depravity",
-    "pronunciation": "dihp-RAV-uht-ee",
+    "pronunciation": "dih-PRAV-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -4397,7 +4397,7 @@ export const wordsAdvanced = [
   {
     "id": "deprecate",
     "word": "Deprecate",
-    "pronunciation": "DEHP-ruhk-ayt",
+    "pronunciation": "DEHP-ruh-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4410,7 +4410,7 @@ export const wordsAdvanced = [
   {
     "id": "derelict",
     "word": "Derelict",
-    "pronunciation": "DEHR-uhl-ihkt",
+    "pronunciation": "DEHR-uh-lihkt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4423,7 +4423,7 @@ export const wordsAdvanced = [
   {
     "id": "deride",
     "word": "Deride",
-    "pronunciation": "dihr-AHYD",
+    "pronunciation": "dih-RAHYD",
     "deck": "advanced",
     "meanings": [
       {
@@ -4436,7 +4436,7 @@ export const wordsAdvanced = [
   {
     "id": "derivative",
     "word": "Derivative",
-    "pronunciation": "der-IHV-uht-ihv",
+    "pronunciation": "der-IHV-uh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -4449,7 +4449,7 @@ export const wordsAdvanced = [
   {
     "id": "desecrate",
     "word": "Desecrate",
-    "pronunciation": "dehz-uhk-RAYT",
+    "pronunciation": "deh-zuh-KRAYT",
     "deck": "advanced",
     "meanings": [
       {
@@ -4462,7 +4462,7 @@ export const wordsAdvanced = [
   {
     "id": "desiccated",
     "word": "Desiccated",
-    "pronunciation": "DEHS-uhk-ayt-uhd",
+    "pronunciation": "DEHS-uh-kay-tuhd",
     "deck": "advanced",
     "meanings": [
       {
@@ -4475,7 +4475,7 @@ export const wordsAdvanced = [
   {
     "id": "desolate",
     "word": "Desolate",
-    "pronunciation": "DEHS-uhl-uht",
+    "pronunciation": "DEHS-uh-luht",
     "deck": "advanced",
     "meanings": [
       {
@@ -4488,7 +4488,7 @@ export const wordsAdvanced = [
   {
     "id": "despondent",
     "word": "Despondent",
-    "pronunciation": "dihs-PAHN-duhnt",
+    "pronunciation": "dih-SPAHN-duhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4514,7 +4514,7 @@ export const wordsAdvanced = [
   {
     "id": "destitute",
     "word": "Destitute",
-    "pronunciation": "DEHS-tuht-oot",
+    "pronunciation": "DEHS-tuh-toot",
     "deck": "advanced",
     "meanings": [
       {
@@ -4527,7 +4527,7 @@ export const wordsAdvanced = [
   {
     "id": "deter",
     "word": "Deter",
-    "pronunciation": "diht-ER",
+    "pronunciation": "dih-TER",
     "deck": "advanced",
     "meanings": [
       {
@@ -4540,7 +4540,7 @@ export const wordsAdvanced = [
   {
     "id": "devious",
     "word": "Devious",
-    "pronunciation": "DEEV-ee-uhs",
+    "pronunciation": "DEE-vee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -4553,7 +4553,7 @@ export const wordsAdvanced = [
   {
     "id": "dialect",
     "word": "Dialect",
-    "pronunciation": "DAHY-uhl-ehkt",
+    "pronunciation": "DAHY-uh-lehkt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4566,7 +4566,7 @@ export const wordsAdvanced = [
   {
     "id": "diaphanous",
     "word": "Diaphanous",
-    "pronunciation": "dahy-AF-uhn-ihs",
+    "pronunciation": "dahy-AF-uh-nihs",
     "deck": "advanced",
     "meanings": [
       {
@@ -4579,7 +4579,7 @@ export const wordsAdvanced = [
   {
     "id": "didactic",
     "word": "Didactic",
-    "pronunciation": "dahyd-AK-tihk",
+    "pronunciation": "dahy-DAK-tihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -4610,7 +4610,7 @@ export const wordsAdvanced = [
   {
     "id": "diffuse",
     "word": "Diffuse",
-    "pronunciation": "dihf-YOOS",
+    "pronunciation": "dih-FYOOS",
     "deck": "advanced",
     "meanings": [
       {
@@ -4628,7 +4628,7 @@ export const wordsAdvanced = [
   {
     "id": "dilatory",
     "word": "Dilatory",
-    "pronunciation": "DIHL-uht-awr-ee",
+    "pronunciation": "DIHL-uh-taw-ree",
     "deck": "advanced",
     "meanings": [
       {
@@ -4641,7 +4641,7 @@ export const wordsAdvanced = [
   {
     "id": "diligent",
     "word": "Diligent",
-    "pronunciation": "DIHL-ihj-uhnt",
+    "pronunciation": "DIHL-ih-juhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4654,7 +4654,7 @@ export const wordsAdvanced = [
   {
     "id": "diminutive",
     "word": "Diminutive",
-    "pronunciation": "dihm-IHN-yuht-ihv",
+    "pronunciation": "dih-MIHN-yuh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -4680,7 +4680,7 @@ export const wordsAdvanced = [
   {
     "id": "disaffected",
     "word": "Disaffected",
-    "pronunciation": "dihs-uhf-EHK-tihd",
+    "pronunciation": "dihs-uh-FEHK-tihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -4693,7 +4693,7 @@ export const wordsAdvanced = [
   {
     "id": "disavow",
     "word": "Disavow",
-    "pronunciation": "dihs-uhv-OW",
+    "pronunciation": "dihs-uh-VOW",
     "deck": "advanced",
     "meanings": [
       {
@@ -4706,7 +4706,7 @@ export const wordsAdvanced = [
   {
     "id": "discern",
     "word": "Discern",
-    "pronunciation": "dihs-ERN",
+    "pronunciation": "dih-SERN",
     "deck": "advanced",
     "meanings": [
       {
@@ -4745,7 +4745,7 @@ export const wordsAdvanced = [
   {
     "id": "discordant",
     "word": "Discordant",
-    "pronunciation": "dihs-KAWR-duhnt",
+    "pronunciation": "dih-SKAWR-duhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4758,7 +4758,7 @@ export const wordsAdvanced = [
   {
     "id": "discrepancy",
     "word": "Discrepancy",
-    "pronunciation": "dihs-KREHP-uhn-see",
+    "pronunciation": "dih-SKREHP-uhn-see",
     "deck": "advanced",
     "meanings": [
       {
@@ -4771,7 +4771,7 @@ export const wordsAdvanced = [
   {
     "id": "discretion",
     "word": "Discretion",
-    "pronunciation": "dihs-KREHSH-uhn",
+    "pronunciation": "dih-SKREHSH-uhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -4784,7 +4784,7 @@ export const wordsAdvanced = [
   {
     "id": "discursive",
     "word": "Discursive",
-    "pronunciation": "dihs-KERS-ihv",
+    "pronunciation": "dih-SKER-sihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -4841,7 +4841,7 @@ export const wordsAdvanced = [
   {
     "id": "disparage",
     "word": "Disparage",
-    "pronunciation": "dihs-PEHR-ihj",
+    "pronunciation": "dih-SPEHR-ihj",
     "deck": "advanced",
     "meanings": [
       {
@@ -4867,7 +4867,7 @@ export const wordsAdvanced = [
   {
     "id": "dispatch",
     "word": "Dispatch",
-    "pronunciation": "dihs-PACH",
+    "pronunciation": "dih-SPACH",
     "deck": "advanced",
     "meanings": [
       {
@@ -4880,7 +4880,7 @@ export const wordsAdvanced = [
   {
     "id": "dispel",
     "word": "Dispel",
-    "pronunciation": "dihs-PEHL",
+    "pronunciation": "dih-SPEHL",
     "deck": "advanced",
     "meanings": [
       {
@@ -4893,7 +4893,7 @@ export const wordsAdvanced = [
   {
     "id": "disperse",
     "word": "Disperse",
-    "pronunciation": "dihs-PERS",
+    "pronunciation": "dih-SPERS",
     "deck": "advanced",
     "meanings": [
       {
@@ -4906,7 +4906,7 @@ export const wordsAdvanced = [
   {
     "id": "disrepute",
     "word": "Disrepute",
-    "pronunciation": "dihs-rihp-YOOT",
+    "pronunciation": "dihs-rih-PYOOT",
     "deck": "advanced",
     "meanings": [
       {
@@ -4919,7 +4919,7 @@ export const wordsAdvanced = [
   {
     "id": "dissemble",
     "word": "Dissemble",
-    "pronunciation": "dihs-EHM-buhl",
+    "pronunciation": "dih-SEHM-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -4932,7 +4932,7 @@ export const wordsAdvanced = [
   {
     "id": "disseminate",
     "word": "Disseminate",
-    "pronunciation": "dihs-EHM-uhn-ayt",
+    "pronunciation": "dih-SEHM-uh-nayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4945,7 +4945,7 @@ export const wordsAdvanced = [
   {
     "id": "dissent",
     "word": "Dissent",
-    "pronunciation": "dihs-EHNT",
+    "pronunciation": "dih-SEHNT",
     "deck": "advanced",
     "meanings": [
       {
@@ -4963,7 +4963,7 @@ export const wordsAdvanced = [
   {
     "id": "dissipate",
     "word": "Dissipate",
-    "pronunciation": "DIHS-uhp-ayt",
+    "pronunciation": "DIHS-uh-payt",
     "deck": "advanced",
     "meanings": [
       {
@@ -4981,7 +4981,7 @@ export const wordsAdvanced = [
   {
     "id": "dissonance",
     "word": "Dissonance",
-    "pronunciation": "DIHS-uhn-uhns",
+    "pronunciation": "DIHS-uh-nuhns",
     "deck": "advanced",
     "meanings": [
       {
@@ -4994,7 +4994,7 @@ export const wordsAdvanced = [
   {
     "id": "dissuade",
     "word": "Dissuade",
-    "pronunciation": "dihs-WAYD",
+    "pronunciation": "dih-SWAYD",
     "deck": "advanced",
     "meanings": [
       {
@@ -5007,7 +5007,7 @@ export const wordsAdvanced = [
   {
     "id": "distend",
     "word": "Distend",
-    "pronunciation": "dihs-TEHND",
+    "pronunciation": "dih-STEHND",
     "deck": "advanced",
     "meanings": [
       {
@@ -5033,7 +5033,7 @@ export const wordsAdvanced = [
   {
     "id": "divine",
     "word": "Divine",
-    "pronunciation": "dihv-AHYN",
+    "pronunciation": "dih-VAHYN",
     "deck": "advanced",
     "meanings": [
       {
@@ -5046,7 +5046,7 @@ export const wordsAdvanced = [
   {
     "id": "divisive",
     "word": "Divisive",
-    "pronunciation": "dihv-AHYS-ihv",
+    "pronunciation": "dih-VAHY-sihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -5059,7 +5059,7 @@ export const wordsAdvanced = [
   {
     "id": "divulge",
     "word": "Divulge",
-    "pronunciation": "dihv-UHLJ",
+    "pronunciation": "dih-VUHLJ",
     "deck": "advanced",
     "meanings": [
       {
@@ -5072,7 +5072,7 @@ export const wordsAdvanced = [
   {
     "id": "docile",
     "word": "Docile",
-    "pronunciation": "DAHS-uhl",
+    "pronunciation": "DAH-suhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -5124,7 +5124,7 @@ export const wordsAdvanced = [
   {
     "id": "dubious",
     "word": "Dubious",
-    "pronunciation": "DOOB-ee-uhs",
+    "pronunciation": "DOO-bee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -5137,7 +5137,7 @@ export const wordsAdvanced = [
   {
     "id": "duplicity",
     "word": "Duplicity",
-    "pronunciation": "doop-LIHS-iht-ee",
+    "pronunciation": "doo-PLIHS-ih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5163,7 +5163,7 @@ export const wordsAdvanced = [
   {
     "id": "dynamic",
     "word": "Dynamic",
-    "pronunciation": "dahyn-AM-ihk",
+    "pronunciation": "dahy-NAM-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -5189,7 +5189,7 @@ export const wordsAdvanced = [
   {
     "id": "eclectic",
     "word": "Eclectic",
-    "pronunciation": "ihk-LEHK-tihk",
+    "pronunciation": "ih-KLEHK-tihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -5215,7 +5215,7 @@ export const wordsAdvanced = [
   {
     "id": "edict",
     "word": "Edict",
-    "pronunciation": "EED-ihkt",
+    "pronunciation": "EE-dihkt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5228,7 +5228,7 @@ export const wordsAdvanced = [
   {
     "id": "efface",
     "word": "Efface",
-    "pronunciation": "ihf-AYS",
+    "pronunciation": "ih-FAYS",
     "deck": "advanced",
     "meanings": [
       {
@@ -5241,7 +5241,7 @@ export const wordsAdvanced = [
   {
     "id": "effervescent",
     "word": "Effervescent",
-    "pronunciation": "ehf-erv-EHS-uhnt",
+    "pronunciation": "ehf-er-VEHS-uhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5254,7 +5254,7 @@ export const wordsAdvanced = [
   {
     "id": "efficacious",
     "word": "Efficacious",
-    "pronunciation": "ehf-uhk-AYSH-uhs",
+    "pronunciation": "ehf-uh-KAY-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -5267,7 +5267,7 @@ export const wordsAdvanced = [
   {
     "id": "effrontery",
     "word": "Effrontery",
-    "pronunciation": "ihf-RUHN-ter-ee",
+    "pronunciation": "ih-FRUHN-ter-ee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5293,7 +5293,7 @@ export const wordsAdvanced = [
   {
     "id": "egregious",
     "word": "Egregious",
-    "pronunciation": "ihg-REEJ-uhs",
+    "pronunciation": "ih-GREE-juhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -5306,7 +5306,7 @@ export const wordsAdvanced = [
   {
     "id": "elaborate",
     "word": "Elaborate",
-    "pronunciation": "ihl-AB-ruht",
+    "pronunciation": "ih-LAB-ruht",
     "deck": "advanced",
     "meanings": [
       {
@@ -5319,7 +5319,7 @@ export const wordsAdvanced = [
   {
     "id": "elated",
     "word": "Elated",
-    "pronunciation": "ihl-AYT-uhd",
+    "pronunciation": "ih-LAY-tuhd",
     "deck": "advanced",
     "meanings": [
       {
@@ -5332,7 +5332,7 @@ export const wordsAdvanced = [
   {
     "id": "elegy",
     "word": "Elegy",
-    "pronunciation": "EHL-uhj-ee",
+    "pronunciation": "EHL-uh-jee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5345,7 +5345,7 @@ export const wordsAdvanced = [
   {
     "id": "elicit",
     "word": "Elicit",
-    "pronunciation": "ihl-IHS-iht",
+    "pronunciation": "ih-LIHS-iht",
     "deck": "advanced",
     "meanings": [
       {
@@ -5358,7 +5358,7 @@ export const wordsAdvanced = [
   {
     "id": "eloquent",
     "word": "Eloquent",
-    "pronunciation": "EHL-uhk-wuhnt",
+    "pronunciation": "EHL-uh-kwuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5371,7 +5371,7 @@ export const wordsAdvanced = [
   {
     "id": "elucidate",
     "word": "Elucidate",
-    "pronunciation": "ihl-OOS-uhd-ayt",
+    "pronunciation": "ih-LOO-suh-dayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5384,7 +5384,7 @@ export const wordsAdvanced = [
   {
     "id": "elude",
     "word": "Elude",
-    "pronunciation": "ihl-OOD",
+    "pronunciation": "ih-LOOD",
     "deck": "advanced",
     "meanings": [
       {
@@ -5397,7 +5397,7 @@ export const wordsAdvanced = [
   {
     "id": "emaciated",
     "word": "Emaciated",
-    "pronunciation": "ihm-AYSH-ee-ayt-ihd",
+    "pronunciation": "ih-MAY-shee-ay-tihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -5454,7 +5454,7 @@ export const wordsAdvanced = [
   {
     "id": "eminent",
     "word": "Eminent",
-    "pronunciation": "EHM-uhn-uhnt",
+    "pronunciation": "EHM-uh-nuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5498,7 +5498,7 @@ export const wordsAdvanced = [
   {
     "id": "empathy",
     "word": "Empathy",
-    "pronunciation": "EHM-puhth-ee",
+    "pronunciation": "EHM-puh-thee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5511,7 +5511,7 @@ export const wordsAdvanced = [
   {
     "id": "empirical",
     "word": "Empirical",
-    "pronunciation": "ehm-PIHR-ihk-uhl",
+    "pronunciation": "ehm-PIHR-ih-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -5529,7 +5529,7 @@ export const wordsAdvanced = [
   {
     "id": "emulate",
     "word": "Emulate",
-    "pronunciation": "EHM-yuhl-ayt",
+    "pronunciation": "EHM-yuh-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5542,7 +5542,7 @@ export const wordsAdvanced = [
   {
     "id": "enamor",
     "word": "Enamor",
-    "pronunciation": "ehn-AM-er",
+    "pronunciation": "eh-NAM-er",
     "deck": "advanced",
     "meanings": [
       {
@@ -5633,7 +5633,7 @@ export const wordsAdvanced = [
   {
     "id": "enmity",
     "word": "Enmity",
-    "pronunciation": "EHN-muht-ee",
+    "pronunciation": "EHN-muh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5646,7 +5646,7 @@ export const wordsAdvanced = [
   {
     "id": "ennui",
     "word": "Ennui",
-    "pronunciation": "ehn-OO-ee",
+    "pronunciation": "eh-NOO-ee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5685,7 +5685,7 @@ export const wordsAdvanced = [
   {
     "id": "ephemeral",
     "word": "Ephemeral",
-    "pronunciation": "ihf-EHM-er-uhl",
+    "pronunciation": "ih-FEHM-er-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -5698,7 +5698,7 @@ export const wordsAdvanced = [
   {
     "id": "epistolary",
     "word": "Epistolary",
-    "pronunciation": "ihp-IHS-tuhl-ehr-ee",
+    "pronunciation": "ih-PIHS-tuh-lehr-ee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5711,7 +5711,7 @@ export const wordsAdvanced = [
   {
     "id": "epitome",
     "word": "Epitome",
-    "pronunciation": "ihp-IHT-uhm-ee",
+    "pronunciation": "ih-PIHT-uh-mee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5724,7 +5724,7 @@ export const wordsAdvanced = [
   {
     "id": "equanimity",
     "word": "Equanimity",
-    "pronunciation": "eek-wuhn-IHM-iht-ee",
+    "pronunciation": "ee-kwuh-NIHM-ih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5737,7 +5737,7 @@ export const wordsAdvanced = [
   {
     "id": "equivocal",
     "word": "Equivocal",
-    "pronunciation": "ihk-WIHV-uhk-uhl",
+    "pronunciation": "ih-KWIHV-uh-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -5750,7 +5750,7 @@ export const wordsAdvanced = [
   {
     "id": "erudite",
     "word": "Erudite",
-    "pronunciation": "EHR-uhd-ahyt",
+    "pronunciation": "EHR-uh-dahyt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5776,7 +5776,7 @@ export const wordsAdvanced = [
   {
     "id": "esoteric",
     "word": "Esoteric",
-    "pronunciation": "ehs-uht-EHR-ihk",
+    "pronunciation": "ehs-uh-TEHR-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -5789,7 +5789,7 @@ export const wordsAdvanced = [
   {
     "id": "espouse",
     "word": "Espouse",
-    "pronunciation": "ihs-POWZ",
+    "pronunciation": "ih-SPOWZ",
     "deck": "advanced",
     "meanings": [
       {
@@ -5802,7 +5802,7 @@ export const wordsAdvanced = [
   {
     "id": "ethereal",
     "word": "Ethereal",
-    "pronunciation": "ihth-IHR-ee-uhl",
+    "pronunciation": "ih-THIHR-ee-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -5815,7 +5815,7 @@ export const wordsAdvanced = [
   {
     "id": "etymology",
     "word": "Etymology",
-    "pronunciation": "eht-uhm-AHL-uhj-ee",
+    "pronunciation": "eht-uh-MAH-luh-jee",
     "deck": "advanced",
     "meanings": [
       {
@@ -5828,7 +5828,7 @@ export const wordsAdvanced = [
   {
     "id": "euphoric",
     "word": "Euphoric",
-    "pronunciation": "yoof-AWR-ihk",
+    "pronunciation": "yoo-FAW-rihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -5841,7 +5841,7 @@ export const wordsAdvanced = [
   {
     "id": "evanescent",
     "word": "Evanescent",
-    "pronunciation": "ehv-uhn-EHS-uhnt",
+    "pronunciation": "ehv-uh-NEHS-uhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5854,7 +5854,7 @@ export const wordsAdvanced = [
   {
     "id": "evince",
     "word": "Evince",
-    "pronunciation": "ihv-IHNS",
+    "pronunciation": "ih-VIHNS",
     "deck": "advanced",
     "meanings": [
       {
@@ -5867,7 +5867,7 @@ export const wordsAdvanced = [
   {
     "id": "exacerbate",
     "word": "Exacerbate",
-    "pronunciation": "ihg-ZAS-erb-ayt",
+    "pronunciation": "ihg-ZAS-er-bayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5906,7 +5906,7 @@ export const wordsAdvanced = [
   {
     "id": "excavate",
     "word": "Excavate",
-    "pronunciation": "EHK-skuhv-ayt",
+    "pronunciation": "EHK-skuh-vayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5932,7 +5932,7 @@ export const wordsAdvanced = [
   {
     "id": "excursion",
     "word": "Excursion",
-    "pronunciation": "ihk-SKERZH-uhn",
+    "pronunciation": "ihk-SKER-zhuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -5945,7 +5945,7 @@ export const wordsAdvanced = [
   {
     "id": "execrable",
     "word": "Execrable",
-    "pronunciation": "ehg-ZEHK-ruhb-uhl",
+    "pronunciation": "ehg-ZEHK-ruh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -5971,7 +5971,7 @@ export const wordsAdvanced = [
   {
     "id": "exigent",
     "word": "Exigent",
-    "pronunciation": "EHK-sihj-uhnt",
+    "pronunciation": "EHK-sih-juhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5984,7 +5984,7 @@ export const wordsAdvanced = [
   {
     "id": "exonerate",
     "word": "Exonerate",
-    "pronunciation": "ihg-ZAHN-er-ayt",
+    "pronunciation": "ihg-ZAH-ner-ayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -5997,7 +5997,7 @@ export const wordsAdvanced = [
   {
     "id": "exorbitant",
     "word": "Exorbitant",
-    "pronunciation": "ihg-ZAWR-biht-uhnt",
+    "pronunciation": "ihg-ZAWR-bih-tuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -6010,7 +6010,7 @@ export const wordsAdvanced = [
   {
     "id": "expedient",
     "word": "Expedient",
-    "pronunciation": "ihk-SPEED-ee-uhnt",
+    "pronunciation": "ihk-SPEE-dee-uhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -6088,7 +6088,7 @@ export const wordsAdvanced = [
   {
     "id": "extraneous",
     "word": "Extraneous",
-    "pronunciation": "ehk-STRAYN-ee-uhs",
+    "pronunciation": "ehk-STRAY-nee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6101,7 +6101,7 @@ export const wordsAdvanced = [
   {
     "id": "extricate",
     "word": "Extricate",
-    "pronunciation": "EHK-struhk-ayt",
+    "pronunciation": "EHK-struh-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -6127,7 +6127,7 @@ export const wordsAdvanced = [
   {
     "id": "fabricate",
     "word": "Fabricate",
-    "pronunciation": "FAB-ruhk-ayt",
+    "pronunciation": "FAB-ruh-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -6140,7 +6140,7 @@ export const wordsAdvanced = [
   {
     "id": "facade",
     "word": "Facade",
-    "pronunciation": "fuhs-AHD",
+    "pronunciation": "fuh-SAHD",
     "deck": "advanced",
     "meanings": [
       {
@@ -6176,7 +6176,7 @@ export const wordsAdvanced = [
   {
     "id": "fallacious",
     "word": "Fallacious",
-    "pronunciation": "fuhl-AYSH-uhs",
+    "pronunciation": "fuh-LAY-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6189,7 +6189,7 @@ export const wordsAdvanced = [
   {
     "id": "fastidious",
     "word": "Fastidious",
-    "pronunciation": "fas-TIHD-ee-uhs",
+    "pronunciation": "fa-STIHD-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6215,7 +6215,7 @@ export const wordsAdvanced = [
   {
     "id": "fatuous",
     "word": "Fatuous",
-    "pronunciation": "FACH-uhw-uhs",
+    "pronunciation": "FACH-uh-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6241,7 +6241,7 @@ export const wordsAdvanced = [
   {
     "id": "felicitous",
     "word": "Felicitous",
-    "pronunciation": "fihl-IHS-uht-uhs",
+    "pronunciation": "fih-LIHS-uh-tuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6272,7 +6272,7 @@ export const wordsAdvanced = [
   {
     "id": "fervent",
     "word": "Fervent",
-    "pronunciation": "FERV-uhnt",
+    "pronunciation": "FER-vuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -6324,7 +6324,7 @@ export const wordsAdvanced = [
   {
     "id": "fidelity",
     "word": "Fidelity",
-    "pronunciation": "fuhd-EHL-uht-ee",
+    "pronunciation": "fuh-DEHL-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -6337,7 +6337,7 @@ export const wordsAdvanced = [
   {
     "id": "figurative",
     "word": "Figurative",
-    "pronunciation": "FIHG-yer-uht-ihv",
+    "pronunciation": "FIHG-yer-uh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -6350,7 +6350,7 @@ export const wordsAdvanced = [
   {
     "id": "flabbergasted",
     "word": "Flabbergasted",
-    "pronunciation": "FLAB-erg-as-tihd",
+    "pronunciation": "FLAB-er-gas-tihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -6376,7 +6376,7 @@ export const wordsAdvanced = [
   {
     "id": "flagrant",
     "word": "Flagrant",
-    "pronunciation": "FLAYG-ruhnt",
+    "pronunciation": "FLAY-gruhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -6389,7 +6389,7 @@ export const wordsAdvanced = [
   {
     "id": "florid",
     "word": "Florid",
-    "pronunciation": "FLAWR-uhd",
+    "pronunciation": "FLAW-ruhd",
     "deck": "advanced",
     "meanings": [
       {
@@ -6428,7 +6428,7 @@ export const wordsAdvanced = [
   {
     "id": "forage",
     "word": "Forage",
-    "pronunciation": "FAWR-ihj",
+    "pronunciation": "FAW-rihj",
     "deck": "advanced",
     "meanings": [
       {
@@ -6467,7 +6467,7 @@ export const wordsAdvanced = [
   {
     "id": "forlorn",
     "word": "Forlorn",
-    "pronunciation": "ferl-AWRN",
+    "pronunciation": "fer-LAWRN",
     "deck": "advanced",
     "meanings": [
       {
@@ -6493,7 +6493,7 @@ export const wordsAdvanced = [
   {
     "id": "fortitude",
     "word": "Fortitude",
-    "pronunciation": "FAWR-tiht-ood",
+    "pronunciation": "FAWR-tih-tood",
     "deck": "advanced",
     "meanings": [
       {
@@ -6506,7 +6506,7 @@ export const wordsAdvanced = [
   {
     "id": "fortuitous",
     "word": "Fortuitous",
-    "pronunciation": "fawr-TOO-iht-uhs",
+    "pronunciation": "fawr-TOO-ih-tuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6519,7 +6519,7 @@ export const wordsAdvanced = [
   {
     "id": "forum",
     "word": "Forum",
-    "pronunciation": "FAWR-uhm",
+    "pronunciation": "FAW-ruhm",
     "deck": "advanced",
     "meanings": [
       {
@@ -6532,7 +6532,7 @@ export const wordsAdvanced = [
   {
     "id": "foster",
     "word": "Foster",
-    "pronunciation": "FAHS-ter",
+    "pronunciation": "FAH-ster",
     "deck": "advanced",
     "meanings": [
       {
@@ -6571,7 +6571,7 @@ export const wordsAdvanced = [
   {
     "id": "frenetic",
     "word": "Frenetic",
-    "pronunciation": "fruhn-EHT-ihk",
+    "pronunciation": "fruh-NEHT-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -6584,7 +6584,7 @@ export const wordsAdvanced = [
   {
     "id": "frivolous",
     "word": "Frivolous",
-    "pronunciation": "FRIHV-uhl-uhs",
+    "pronunciation": "FRIHV-uh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6597,7 +6597,7 @@ export const wordsAdvanced = [
   {
     "id": "frugal",
     "word": "Frugal",
-    "pronunciation": "FROOG-uhl",
+    "pronunciation": "FROO-guhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -6610,7 +6610,7 @@ export const wordsAdvanced = [
   {
     "id": "furtive",
     "word": "Furtive",
-    "pronunciation": "FERT-ihv",
+    "pronunciation": "FER-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -6636,7 +6636,7 @@ export const wordsAdvanced = [
   {
     "id": "garrulous",
     "word": "Garrulous",
-    "pronunciation": "GEHR-uhl-uhs",
+    "pronunciation": "GEHR-uh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6662,7 +6662,7 @@ export const wordsAdvanced = [
   {
     "id": "gluttony",
     "word": "Gluttony",
-    "pronunciation": "GLUHT-uhn-ee",
+    "pronunciation": "GLUHT-uh-nee",
     "deck": "advanced",
     "meanings": [
       {
@@ -6727,7 +6727,7 @@ export const wordsAdvanced = [
   {
     "id": "gratuitous",
     "word": "Gratuitous",
-    "pronunciation": "gruht-OO-uht-uhs",
+    "pronunciation": "gruh-TOO-uh-tuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6740,7 +6740,7 @@ export const wordsAdvanced = [
   {
     "id": "gregarious",
     "word": "Gregarious",
-    "pronunciation": "gruhg-EHR-ee-uhs",
+    "pronunciation": "gruh-GEHR-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6753,7 +6753,7 @@ export const wordsAdvanced = [
   {
     "id": "grievous",
     "word": "Grievous",
-    "pronunciation": "GREEV-uhs",
+    "pronunciation": "GREE-vuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6862,7 +6862,7 @@ export const wordsAdvanced = [
   {
     "id": "haughty",
     "word": "Haughty",
-    "pronunciation": "HAWT-ee",
+    "pronunciation": "HAW-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -6888,7 +6888,7 @@ export const wordsAdvanced = [
   {
     "id": "hegemony",
     "word": "Hegemony",
-    "pronunciation": "heej-EHM-uhn-ee",
+    "pronunciation": "hee-JEHM-uh-nee",
     "deck": "advanced",
     "meanings": [
       {
@@ -6901,7 +6901,7 @@ export const wordsAdvanced = [
   {
     "id": "heinous",
     "word": "Heinous",
-    "pronunciation": "HAYN-uhs",
+    "pronunciation": "HAY-nuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6914,7 +6914,7 @@ export const wordsAdvanced = [
   {
     "id": "heterogeneous",
     "word": "Heterogeneous",
-    "pronunciation": "heht-er-uhj-EEN-yuhs",
+    "pronunciation": "heht-er-uh-JEEN-yuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6927,7 +6927,7 @@ export const wordsAdvanced = [
   {
     "id": "hiatus",
     "word": "Hiatus",
-    "pronunciation": "hahy-AYT-uhs",
+    "pronunciation": "hahy-AY-tuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -6953,7 +6953,7 @@ export const wordsAdvanced = [
   {
     "id": "hypocrisy",
     "word": "Hypocrisy",
-    "pronunciation": "hihp-AHK-ruhs-ee",
+    "pronunciation": "hih-PAH-kruh-see",
     "deck": "advanced",
     "meanings": [
       {
@@ -6966,7 +6966,7 @@ export const wordsAdvanced = [
   {
     "id": "hypothetical",
     "word": "Hypothetical",
-    "pronunciation": "hahyp-uhth-EHT-uhk-uhl",
+    "pronunciation": "hahy-puh-THEHT-uh-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -6979,7 +6979,7 @@ export const wordsAdvanced = [
   {
     "id": "iconoclast",
     "word": "Iconoclast",
-    "pronunciation": "ahyk-AHN-uhk-last",
+    "pronunciation": "ahy-KAH-nuh-klast",
     "deck": "advanced",
     "meanings": [
       {
@@ -6992,7 +6992,7 @@ export const wordsAdvanced = [
   {
     "id": "idiosyncratic",
     "word": "Idiosyncratic",
-    "pronunciation": "ihd-ee-ohs-ihn-KRAT-ihk",
+    "pronunciation": "ihd-ee-oh-sihn-KRAT-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -7005,7 +7005,7 @@ export const wordsAdvanced = [
   {
     "id": "idolatrous",
     "word": "Idolatrous",
-    "pronunciation": "ahyd-AHL-uht-ruhs",
+    "pronunciation": "ahy-DAH-luh-truhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -7018,7 +7018,7 @@ export const wordsAdvanced = [
   {
     "id": "ignominious",
     "word": "Ignominious",
-    "pronunciation": "ihg-nuhm-IHN-ee-uhs",
+    "pronunciation": "ihg-nuh-MIHN-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -7057,7 +7057,7 @@ export const wordsAdvanced = [
   {
     "id": "immutable",
     "word": "Immutable",
-    "pronunciation": "ihm-YOOT-uhb-uhl",
+    "pronunciation": "ihm-YOO-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7083,7 +7083,7 @@ export const wordsAdvanced = [
   {
     "id": "impeccable",
     "word": "Impeccable",
-    "pronunciation": "ihm-PEHK-uhb-uhl",
+    "pronunciation": "ihm-PEHK-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7109,7 +7109,7 @@ export const wordsAdvanced = [
   {
     "id": "imperative",
     "word": "Imperative",
-    "pronunciation": "ihm-PEHR-uht-ihv",
+    "pronunciation": "ihm-PEHR-uh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -7140,7 +7140,7 @@ export const wordsAdvanced = [
   {
     "id": "impertinent",
     "word": "Impertinent",
-    "pronunciation": "ihm-PERT-uhn-uhnt",
+    "pronunciation": "ihm-PER-tuh-nuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7153,7 +7153,7 @@ export const wordsAdvanced = [
   {
     "id": "impervious",
     "word": "Impervious",
-    "pronunciation": "ihm-PERV-ee-uhs",
+    "pronunciation": "ihm-PER-vee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -7197,7 +7197,7 @@ export const wordsAdvanced = [
   {
     "id": "implacable",
     "word": "Implacable",
-    "pronunciation": "ihm-PLAK-uhb-uhl",
+    "pronunciation": "ihm-PLAK-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7210,7 +7210,7 @@ export const wordsAdvanced = [
   {
     "id": "implement",
     "word": "Implement",
-    "pronunciation": "IHM-pluhm-uhnt",
+    "pronunciation": "IHM-pluh-muhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7228,7 +7228,7 @@ export const wordsAdvanced = [
   {
     "id": "implicate",
     "word": "Implicate",
-    "pronunciation": "IHM-plihk-ayt",
+    "pronunciation": "IHM-plih-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7254,7 +7254,7 @@ export const wordsAdvanced = [
   {
     "id": "impregnable",
     "word": "Impregnable",
-    "pronunciation": "ihm-PREHG-nuhb-uhl",
+    "pronunciation": "ihm-PREHG-nuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7306,7 +7306,7 @@ export const wordsAdvanced = [
   {
     "id": "inarticulate",
     "word": "Inarticulate",
-    "pronunciation": "ihn-ahr-TIHK-yuhl-uht",
+    "pronunciation": "ihn-ahr-TIHK-yuh-luht",
     "deck": "advanced",
     "meanings": [
       {
@@ -7337,7 +7337,7 @@ export const wordsAdvanced = [
   {
     "id": "incendiary",
     "word": "Incendiary",
-    "pronunciation": "ihn-SEHN-dee-ehr-ee",
+    "pronunciation": "ihn-SEHN-dee-eh-ree",
     "deck": "advanced",
     "meanings": [
       {
@@ -7381,7 +7381,7 @@ export const wordsAdvanced = [
   {
     "id": "incisive",
     "word": "Incisive",
-    "pronunciation": "ihn-SAHYS-ihv",
+    "pronunciation": "ihn-SAHY-sihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -7394,7 +7394,7 @@ export const wordsAdvanced = [
   {
     "id": "inclination",
     "word": "Inclination",
-    "pronunciation": "ihn-kluhn-AYSH-uhn",
+    "pronunciation": "ihn-kluh-NAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -7407,7 +7407,7 @@ export const wordsAdvanced = [
   {
     "id": "incontrovertible",
     "word": "Incontrovertible",
-    "pronunciation": "ihng-kahn-trohv-ERT-ihb-uhl",
+    "pronunciation": "ihng-kahn-troh-VER-tih-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7420,7 +7420,7 @@ export const wordsAdvanced = [
   {
     "id": "incorrigible",
     "word": "Incorrigible",
-    "pronunciation": "ihn-KAHR-uhj-uhb-uhl",
+    "pronunciation": "ihn-KAH-ruh-juh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7433,7 +7433,7 @@ export const wordsAdvanced = [
   {
     "id": "increment",
     "word": "Increment",
-    "pronunciation": "IHN-kruhm-uhnt",
+    "pronunciation": "IHN-kruh-muhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7464,7 +7464,7 @@ export const wordsAdvanced = [
   {
     "id": "indefatigable",
     "word": "Indefatigable",
-    "pronunciation": "ihn-dihf-AT-ihg-uhb-uhl",
+    "pronunciation": "ihn-dih-FAT-ih-guh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7477,7 +7477,7 @@ export const wordsAdvanced = [
   {
     "id": "indigenous",
     "word": "Indigenous",
-    "pronunciation": "ihn-DIHJ-uhn-uhs",
+    "pronunciation": "ihn-DIHJ-uh-nuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -7490,7 +7490,7 @@ export const wordsAdvanced = [
   {
     "id": "indigent",
     "word": "Indigent",
-    "pronunciation": "IHN-dihj-uhnt",
+    "pronunciation": "IHN-dih-juhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7503,7 +7503,7 @@ export const wordsAdvanced = [
   {
     "id": "indignation",
     "word": "Indignation",
-    "pronunciation": "ihn-dihg-NAYSH-uhn",
+    "pronunciation": "ihn-dihg-NAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -7516,7 +7516,7 @@ export const wordsAdvanced = [
   {
     "id": "indolent",
     "word": "Indolent",
-    "pronunciation": "IHN-duhl-uhnt",
+    "pronunciation": "IHN-duh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7529,7 +7529,7 @@ export const wordsAdvanced = [
   {
     "id": "indomitable",
     "word": "Indomitable",
-    "pronunciation": "ihn-DAHM-uht-uhb-uhl",
+    "pronunciation": "ihn-DAH-muh-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7555,7 +7555,7 @@ export const wordsAdvanced = [
   {
     "id": "ineffable",
     "word": "Ineffable",
-    "pronunciation": "ihn-EHF-uhb-uhl",
+    "pronunciation": "ihn-EHF-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7581,7 +7581,7 @@ export const wordsAdvanced = [
   {
     "id": "inexorable",
     "word": "Inexorable",
-    "pronunciation": "ihn-EHK-ser-uhb-uhl",
+    "pronunciation": "ihn-EHK-ser-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7594,7 +7594,7 @@ export const wordsAdvanced = [
   {
     "id": "inextricable",
     "word": "Inextricable",
-    "pronunciation": "ihn-EHK-strihk-uhb-uhl",
+    "pronunciation": "ihn-EHK-strih-kuhb-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7607,7 +7607,7 @@ export const wordsAdvanced = [
   {
     "id": "infamy",
     "word": "Infamy",
-    "pronunciation": "IHN-fuhm-ee",
+    "pronunciation": "IHN-fuh-mee",
     "deck": "advanced",
     "meanings": [
       {
@@ -7620,7 +7620,7 @@ export const wordsAdvanced = [
   {
     "id": "infusion",
     "word": "Infusion",
-    "pronunciation": "ihn-FYOOZH-uhn",
+    "pronunciation": "ihn-FYOO-zhuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -7672,7 +7672,7 @@ export const wordsAdvanced = [
   {
     "id": "inimical",
     "word": "Inimical",
-    "pronunciation": "ihn-IHM-ihk-uhl",
+    "pronunciation": "ihn-IHM-ih-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7685,7 +7685,7 @@ export const wordsAdvanced = [
   {
     "id": "iniquity",
     "word": "Iniquity",
-    "pronunciation": "ihn-IHK-wiht-ee",
+    "pronunciation": "ihn-IHK-wih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -7698,7 +7698,7 @@ export const wordsAdvanced = [
   {
     "id": "injunction",
     "word": "Injunction",
-    "pronunciation": "ihn-JUHNG-kshuhn",
+    "pronunciation": "ihn-JUHNGK-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -7724,7 +7724,7 @@ export const wordsAdvanced = [
   {
     "id": "innocuous",
     "word": "Innocuous",
-    "pronunciation": "ihn-AHK-yoo-uhs",
+    "pronunciation": "ihn-AH-kyoo-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -7737,7 +7737,7 @@ export const wordsAdvanced = [
   {
     "id": "innovate",
     "word": "Innovate",
-    "pronunciation": "IHN-uhv-ayt",
+    "pronunciation": "IHN-uh-vayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7763,7 +7763,7 @@ export const wordsAdvanced = [
   {
     "id": "inoculate",
     "word": "Inoculate",
-    "pronunciation": "ihn-AHK-yuhl-ayt",
+    "pronunciation": "ihn-AH-kyuh-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7776,7 +7776,7 @@ export const wordsAdvanced = [
   {
     "id": "inquisitor",
     "word": "Inquisitor",
-    "pronunciation": "ihn-KWIHZ-uht-er",
+    "pronunciation": "ihn-KWIHZ-uh-ter",
     "deck": "advanced",
     "meanings": [
       {
@@ -7789,7 +7789,7 @@ export const wordsAdvanced = [
   {
     "id": "insatiable",
     "word": "Insatiable",
-    "pronunciation": "ihn-SAYSH-uhb-uhl",
+    "pronunciation": "ihn-SAY-shuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7841,7 +7841,7 @@ export const wordsAdvanced = [
   {
     "id": "insolent",
     "word": "Insolent",
-    "pronunciation": "IHN-suhl-uhnt",
+    "pronunciation": "IHN-suh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7854,7 +7854,7 @@ export const wordsAdvanced = [
   {
     "id": "instigate",
     "word": "Instigate",
-    "pronunciation": "IHN-stuhg-ayt",
+    "pronunciation": "IHN-stuh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7867,7 +7867,7 @@ export const wordsAdvanced = [
   {
     "id": "insular",
     "word": "Insular",
-    "pronunciation": "IHN-suhl-er",
+    "pronunciation": "IHN-suh-ler",
     "deck": "advanced",
     "meanings": [
       {
@@ -7880,7 +7880,7 @@ export const wordsAdvanced = [
   {
     "id": "insurgent",
     "word": "Insurgent",
-    "pronunciation": "ihn-SERJ-uhnt",
+    "pronunciation": "ihn-SER-juhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -7893,7 +7893,7 @@ export const wordsAdvanced = [
   {
     "id": "integral",
     "word": "Integral",
-    "pronunciation": "IHN-tuhg-ruhl",
+    "pronunciation": "IHN-tuh-gruhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7906,7 +7906,7 @@ export const wordsAdvanced = [
   {
     "id": "interject",
     "word": "Interject",
-    "pronunciation": "ihn-terj-EHKT",
+    "pronunciation": "ihn-ter-JEHKT",
     "deck": "advanced",
     "meanings": [
       {
@@ -7919,7 +7919,7 @@ export const wordsAdvanced = [
   {
     "id": "interlocutor",
     "word": "Interlocutor",
-    "pronunciation": "ihn-terl-AHK-yuht-er",
+    "pronunciation": "ihn-ter-LAH-kyuh-ter",
     "deck": "advanced",
     "meanings": [
       {
@@ -7932,7 +7932,7 @@ export const wordsAdvanced = [
   {
     "id": "interminable",
     "word": "Interminable",
-    "pronunciation": "ihn-TERM-uhn-uhb-uhl",
+    "pronunciation": "ihn-TER-muh-nuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7945,7 +7945,7 @@ export const wordsAdvanced = [
   {
     "id": "intimation",
     "word": "Intimation",
-    "pronunciation": "ihn-tuhm-AYSH-uhn",
+    "pronunciation": "ihn-tuh-MAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -7958,7 +7958,7 @@ export const wordsAdvanced = [
   {
     "id": "intractable",
     "word": "Intractable",
-    "pronunciation": "ihn-TRAK-tuhb-uhl",
+    "pronunciation": "ihn-TRAK-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -7971,7 +7971,7 @@ export const wordsAdvanced = [
   {
     "id": "intransigent",
     "word": "Intransigent",
-    "pronunciation": "ihn-TRAN-suhj-uhnt",
+    "pronunciation": "ihn-TRAN-suh-juhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8049,7 +8049,7 @@ export const wordsAdvanced = [
   {
     "id": "inviolable",
     "word": "Inviolable",
-    "pronunciation": "ihn-VAHY-uhl-uhb-uhl",
+    "pronunciation": "ihn-VAHY-uh-luh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -8062,7 +8062,7 @@ export const wordsAdvanced = [
   {
     "id": "irascible",
     "word": "Irascible",
-    "pronunciation": "ihr-AS-ihb-uhl",
+    "pronunciation": "ihr-AS-ih-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -8075,7 +8075,7 @@ export const wordsAdvanced = [
   {
     "id": "iridescent",
     "word": "Iridescent",
-    "pronunciation": "ihr-uhd-EHS-uhnt",
+    "pronunciation": "ihr-uh-DEHS-uhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8101,7 +8101,7 @@ export const wordsAdvanced = [
   {
     "id": "irrevocable",
     "word": "Irrevocable",
-    "pronunciation": "ihr-EHV-uhk-uhb-uhl",
+    "pronunciation": "ihr-EHV-uh-kuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -8114,7 +8114,7 @@ export const wordsAdvanced = [
   {
     "id": "jubilant",
     "word": "Jubilant",
-    "pronunciation": "JOOB-uhl-uhnt",
+    "pronunciation": "JOO-buh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8127,7 +8127,7 @@ export const wordsAdvanced = [
   {
     "id": "judicious",
     "word": "Judicious",
-    "pronunciation": "jood-IHSH-uhs",
+    "pronunciation": "joo-DIHSH-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8140,7 +8140,7 @@ export const wordsAdvanced = [
   {
     "id": "juxtaposition",
     "word": "Juxtaposition",
-    "pronunciation": "juhk-stuhp-uhz-IHSH-uhn",
+    "pronunciation": "juhk-stuh-puh-ZIHSH-uhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -8166,7 +8166,7 @@ export const wordsAdvanced = [
   {
     "id": "kudos",
     "word": "Kudos",
-    "pronunciation": "KOOD-ohs",
+    "pronunciation": "KOO-dohs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8179,7 +8179,7 @@ export const wordsAdvanced = [
   {
     "id": "laceration",
     "word": "Laceration",
-    "pronunciation": "las-er-AYSH-uhn",
+    "pronunciation": "las-er-AY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -8192,7 +8192,7 @@ export const wordsAdvanced = [
   {
     "id": "laconic",
     "word": "Laconic",
-    "pronunciation": "lahk-AHN-ihk",
+    "pronunciation": "lah-KAH-nihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -8218,7 +8218,7 @@ export const wordsAdvanced = [
   {
     "id": "larceny",
     "word": "Larceny",
-    "pronunciation": "LAHR-suhn-ee",
+    "pronunciation": "LAHR-suh-nee",
     "deck": "advanced",
     "meanings": [
       {
@@ -8244,7 +8244,7 @@ export const wordsAdvanced = [
   {
     "id": "latent",
     "word": "Latent",
-    "pronunciation": "LAYT-uhnt",
+    "pronunciation": "LAY-tuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8257,7 +8257,7 @@ export const wordsAdvanced = [
   {
     "id": "laudatory",
     "word": "Laudatory",
-    "pronunciation": "LAWD-uht-awr-ee",
+    "pronunciation": "LAW-duh-taw-ree",
     "deck": "advanced",
     "meanings": [
       {
@@ -8288,7 +8288,7 @@ export const wordsAdvanced = [
   {
     "id": "legerdemain",
     "word": "Legerdemain",
-    "pronunciation": "lehj-erd-uhm-AYN",
+    "pronunciation": "lehj-er-duh-MAYN",
     "deck": "advanced",
     "meanings": [
       {
@@ -8301,7 +8301,7 @@ export const wordsAdvanced = [
   {
     "id": "lenient",
     "word": "Lenient",
-    "pronunciation": "LEEN-ee-uhnt",
+    "pronunciation": "LEE-nee-uhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8314,7 +8314,7 @@ export const wordsAdvanced = [
   {
     "id": "lethargic",
     "word": "Lethargic",
-    "pronunciation": "luhth-AHR-jihk",
+    "pronunciation": "luh-THAHR-jihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -8327,7 +8327,7 @@ export const wordsAdvanced = [
   {
     "id": "liability",
     "word": "Liability",
-    "pronunciation": "lahy-uhb-IHL-iht-ee",
+    "pronunciation": "lahy-uh-BIHL-ih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -8345,7 +8345,7 @@ export const wordsAdvanced = [
   {
     "id": "libertarian",
     "word": "Libertarian",
-    "pronunciation": "lihb-ert-EHR-ee-uhn",
+    "pronunciation": "lihb-er-TEHR-ee-uhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -8358,7 +8358,7 @@ export const wordsAdvanced = [
   {
     "id": "licentious",
     "word": "Licentious",
-    "pronunciation": "lahys-EHN-chuhs",
+    "pronunciation": "lahy-SEHN-chuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8384,7 +8384,7 @@ export const wordsAdvanced = [
   {
     "id": "linchpin",
     "word": "Linchpin",
-    "pronunciation": "LIHN-chpihn",
+    "pronunciation": "LIHNCH-pihn",
     "deck": "advanced",
     "meanings": [
       {
@@ -8410,7 +8410,7 @@ export const wordsAdvanced = [
   {
     "id": "litigant",
     "word": "Litigant",
-    "pronunciation": "LIHT-ihg-uhnt",
+    "pronunciation": "LIHT-ih-guhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8423,7 +8423,7 @@ export const wordsAdvanced = [
   {
     "id": "lucid",
     "word": "Lucid",
-    "pronunciation": "LOOS-uhd",
+    "pronunciation": "LOO-suhd",
     "deck": "advanced",
     "meanings": [
       {
@@ -8436,7 +8436,7 @@ export const wordsAdvanced = [
   {
     "id": "luminous",
     "word": "Luminous",
-    "pronunciation": "LOOM-uhn-uhs",
+    "pronunciation": "LOO-muh-nuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8475,7 +8475,7 @@ export const wordsAdvanced = [
   {
     "id": "magnanimous",
     "word": "Magnanimous",
-    "pronunciation": "mag-NAN-uhm-uhs",
+    "pronunciation": "mag-NAN-uh-muhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8501,7 +8501,7 @@ export const wordsAdvanced = [
   {
     "id": "malevolent",
     "word": "Malevolent",
-    "pronunciation": "muhl-EHV-uhl-uhnt",
+    "pronunciation": "muh-LEHV-uh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8514,7 +8514,7 @@ export const wordsAdvanced = [
   {
     "id": "malleable",
     "word": "Malleable",
-    "pronunciation": "MAL-ee-uhb-uhl",
+    "pronunciation": "MAL-ee-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -8540,7 +8540,7 @@ export const wordsAdvanced = [
   {
     "id": "manifest",
     "word": "Manifest",
-    "pronunciation": "MAN-uhf-ehst",
+    "pronunciation": "MAN-uh-fehst",
     "deck": "advanced",
     "meanings": [
       {
@@ -8558,7 +8558,7 @@ export const wordsAdvanced = [
   {
     "id": "manifold",
     "word": "Manifold",
-    "pronunciation": "MAN-uhf-ohld",
+    "pronunciation": "MAN-uh-fohld",
     "deck": "advanced",
     "meanings": [
       {
@@ -8597,7 +8597,7 @@ export const wordsAdvanced = [
   {
     "id": "mawkish",
     "word": "Mawkish",
-    "pronunciation": "MAWK-ihsh",
+    "pronunciation": "MAW-kihsh",
     "deck": "advanced",
     "meanings": [
       {
@@ -8623,7 +8623,7 @@ export const wordsAdvanced = [
   {
     "id": "meager",
     "word": "Meager",
-    "pronunciation": "MEEG-er",
+    "pronunciation": "MEE-ger",
     "deck": "advanced",
     "meanings": [
       {
@@ -8649,7 +8649,7 @@ export const wordsAdvanced = [
   {
     "id": "mendacious",
     "word": "Mendacious",
-    "pronunciation": "mehn-DAYSH-uhs",
+    "pronunciation": "mehn-DAY-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8662,7 +8662,7 @@ export const wordsAdvanced = [
   {
     "id": "mercurial",
     "word": "Mercurial",
-    "pronunciation": "merk-YUUR-ee-uhl",
+    "pronunciation": "mer-KYUUR-ee-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -8675,7 +8675,7 @@ export const wordsAdvanced = [
   {
     "id": "meritorious",
     "word": "Meritorious",
-    "pronunciation": "mehr-uht-AWR-ee-uhs",
+    "pronunciation": "mehr-uh-TAW-ree-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8688,7 +8688,7 @@ export const wordsAdvanced = [
   {
     "id": "metamorphosis",
     "word": "Metamorphosis",
-    "pronunciation": "meht-uhm-AWR-fuhs-uhs",
+    "pronunciation": "meht-uh-MAWR-fuh-suhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8701,7 +8701,7 @@ export const wordsAdvanced = [
   {
     "id": "meticulous",
     "word": "Meticulous",
-    "pronunciation": "muht-IHK-yuhl-uhs",
+    "pronunciation": "muh-TIHK-yuh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8714,7 +8714,7 @@ export const wordsAdvanced = [
   {
     "id": "mitigate",
     "word": "Mitigate",
-    "pronunciation": "MIHT-uhg-ayt",
+    "pronunciation": "MIHT-uh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8727,7 +8727,7 @@ export const wordsAdvanced = [
   {
     "id": "moderate",
     "word": "Moderate",
-    "pronunciation": "MAHD-er-uht",
+    "pronunciation": "MAH-der-uht",
     "deck": "advanced",
     "meanings": [
       {
@@ -8745,7 +8745,7 @@ export const wordsAdvanced = [
   {
     "id": "modicum",
     "word": "Modicum",
-    "pronunciation": "MAHD-ihk-uhm",
+    "pronunciation": "MAH-dih-kuhm",
     "deck": "advanced",
     "meanings": [
       {
@@ -8758,7 +8758,7 @@ export const wordsAdvanced = [
   {
     "id": "modulate",
     "word": "Modulate",
-    "pronunciation": "MAWJ-yool-ayt",
+    "pronunciation": "MAWJ-yoo-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8771,7 +8771,7 @@ export const wordsAdvanced = [
   {
     "id": "mollify",
     "word": "Mollify",
-    "pronunciation": "MAHL-uhf-ahy",
+    "pronunciation": "MAH-luh-fahy",
     "deck": "advanced",
     "meanings": [
       {
@@ -8797,7 +8797,7 @@ export const wordsAdvanced = [
   {
     "id": "mores",
     "word": "Mores",
-    "pronunciation": "MAWR-ayz",
+    "pronunciation": "MAW-rayz",
     "deck": "advanced",
     "meanings": [
       {
@@ -8862,7 +8862,7 @@ export const wordsAdvanced = [
   {
     "id": "mutable",
     "word": "Mutable",
-    "pronunciation": "MYOOT-uhb-uhl",
+    "pronunciation": "MYOO-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -8888,7 +8888,7 @@ export const wordsAdvanced = [
   {
     "id": "nadir",
     "word": "Nadir",
-    "pronunciation": "NAYD-er",
+    "pronunciation": "NAY-der",
     "deck": "advanced",
     "meanings": [
       {
@@ -8901,7 +8901,7 @@ export const wordsAdvanced = [
   {
     "id": "nascent",
     "word": "Nascent",
-    "pronunciation": "NAYS-uhnt",
+    "pronunciation": "NAY-suhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8914,7 +8914,7 @@ export const wordsAdvanced = [
   {
     "id": "nebulous",
     "word": "Nebulous",
-    "pronunciation": "NEHB-yuhl-uhs",
+    "pronunciation": "NEHB-yuh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8927,7 +8927,7 @@ export const wordsAdvanced = [
   {
     "id": "nefarious",
     "word": "Nefarious",
-    "pronunciation": "nuhf-EHR-ee-uhs",
+    "pronunciation": "nuh-FEHR-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -8940,7 +8940,7 @@ export const wordsAdvanced = [
   {
     "id": "negligent",
     "word": "Negligent",
-    "pronunciation": "NEHG-luhj-uhnt",
+    "pronunciation": "NEHG-luh-juhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8953,7 +8953,7 @@ export const wordsAdvanced = [
   {
     "id": "neophyte",
     "word": "Neophyte",
-    "pronunciation": "NEE-uhf-ahyt",
+    "pronunciation": "NEE-uh-fahyt",
     "deck": "advanced",
     "meanings": [
       {
@@ -8966,7 +8966,7 @@ export const wordsAdvanced = [
   {
     "id": "nocturnal",
     "word": "Nocturnal",
-    "pronunciation": "nahk-TERN-uhl",
+    "pronunciation": "nahk-TER-nuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -8992,7 +8992,7 @@ export const wordsAdvanced = [
   {
     "id": "nomadic",
     "word": "Nomadic",
-    "pronunciation": "nohm-AD-ihk",
+    "pronunciation": "noh-MAD-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -9005,7 +9005,7 @@ export const wordsAdvanced = [
   {
     "id": "nominal",
     "word": "Nominal",
-    "pronunciation": "NAHM-uhn-uhl",
+    "pronunciation": "NAH-muh-nuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -9018,7 +9018,7 @@ export const wordsAdvanced = [
   {
     "id": "nonchalant",
     "word": "Nonchalant",
-    "pronunciation": "nahn-shuhl-AHNT",
+    "pronunciation": "nahn-shuh-LAHNT",
     "deck": "advanced",
     "meanings": [
       {
@@ -9031,7 +9031,7 @@ export const wordsAdvanced = [
   {
     "id": "nondescript",
     "word": "Nondescript",
-    "pronunciation": "NAHN-dihs-KRIHPT",
+    "pronunciation": "NAHN-dih-SKRIHPT",
     "deck": "advanced",
     "meanings": [
       {
@@ -9044,7 +9044,7 @@ export const wordsAdvanced = [
   {
     "id": "notorious",
     "word": "Notorious",
-    "pronunciation": "noht-AWR-ee-uhs",
+    "pronunciation": "noh-TAW-ree-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9057,7 +9057,7 @@ export const wordsAdvanced = [
   {
     "id": "novice",
     "word": "Novice",
-    "pronunciation": "NAHV-uhs",
+    "pronunciation": "NAH-vuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9096,7 +9096,7 @@ export const wordsAdvanced = [
   {
     "id": "nurture",
     "word": "Nurture",
-    "pronunciation": "NERCH-er",
+    "pronunciation": "NER-cher",
     "deck": "advanced",
     "meanings": [
       {
@@ -9122,7 +9122,7 @@ export const wordsAdvanced = [
   {
     "id": "obfuscate",
     "word": "Obfuscate",
-    "pronunciation": "AHB-fuhs-kayt",
+    "pronunciation": "AHB-fuh-skayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -9135,7 +9135,7 @@ export const wordsAdvanced = [
   {
     "id": "oblique",
     "word": "Oblique",
-    "pronunciation": "uhb-LEEK",
+    "pronunciation": "uh-BLEEK",
     "deck": "advanced",
     "meanings": [
       {
@@ -9148,7 +9148,7 @@ export const wordsAdvanced = [
   {
     "id": "oblivious",
     "word": "Oblivious",
-    "pronunciation": "uhb-LIHV-ee-uhs",
+    "pronunciation": "uh-BLIHV-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9174,7 +9174,7 @@ export const wordsAdvanced = [
   {
     "id": "obsequious",
     "word": "Obsequious",
-    "pronunciation": "uhb-SEEK-wee-uhs",
+    "pronunciation": "uhb-SEE-kwee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9187,7 +9187,7 @@ export const wordsAdvanced = [
   {
     "id": "obsolete",
     "word": "Obsolete",
-    "pronunciation": "AHB-suhl-eet",
+    "pronunciation": "AHB-suh-leet",
     "deck": "advanced",
     "meanings": [
       {
@@ -9200,7 +9200,7 @@ export const wordsAdvanced = [
   {
     "id": "obstinate",
     "word": "Obstinate",
-    "pronunciation": "AHB-stuhn-uht",
+    "pronunciation": "AHB-stuh-nuht",
     "deck": "advanced",
     "meanings": [
       {
@@ -9239,7 +9239,7 @@ export const wordsAdvanced = [
   {
     "id": "odious",
     "word": "Odious",
-    "pronunciation": "OHD-ee-uhs",
+    "pronunciation": "OH-dee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9265,7 +9265,7 @@ export const wordsAdvanced = [
   {
     "id": "ominous",
     "word": "Ominous",
-    "pronunciation": "AHM-uhn-uhs",
+    "pronunciation": "AH-muh-nuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9278,7 +9278,7 @@ export const wordsAdvanced = [
   {
     "id": "onerous",
     "word": "Onerous",
-    "pronunciation": "OHN-er-uhs",
+    "pronunciation": "OH-ner-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9291,7 +9291,7 @@ export const wordsAdvanced = [
   {
     "id": "opulent",
     "word": "Opulent",
-    "pronunciation": "AHP-yuhl-uhnt",
+    "pronunciation": "AH-pyuh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -9304,7 +9304,7 @@ export const wordsAdvanced = [
   {
     "id": "oration",
     "word": "Oration",
-    "pronunciation": "awr-AYSH-uhn",
+    "pronunciation": "aw-RAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -9330,7 +9330,7 @@ export const wordsAdvanced = [
   {
     "id": "orthodox",
     "word": "Orthodox",
-    "pronunciation": "AWR-thuhd-ahks",
+    "pronunciation": "AWR-thuh-dahks",
     "deck": "advanced",
     "meanings": [
       {
@@ -9343,7 +9343,7 @@ export const wordsAdvanced = [
   {
     "id": "oscillate",
     "word": "Oscillate",
-    "pronunciation": "AHS-uhl-ayt",
+    "pronunciation": "AH-suh-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -9356,7 +9356,7 @@ export const wordsAdvanced = [
   {
     "id": "ostensible",
     "word": "Ostensible",
-    "pronunciation": "ahs-TEHN-suhb-uhl",
+    "pronunciation": "ah-STEHN-suh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -9369,7 +9369,7 @@ export const wordsAdvanced = [
   {
     "id": "ostentatious",
     "word": "Ostentatious",
-    "pronunciation": "ahs-tuhn-TAYSH-uhs",
+    "pronunciation": "ah-stuhn-TAY-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9382,7 +9382,7 @@ export const wordsAdvanced = [
   {
     "id": "ostracism",
     "word": "Ostracism",
-    "pronunciation": "AWS-truhs-ihz-uhm",
+    "pronunciation": "AW-struh-sihz-uhm",
     "deck": "advanced",
     "meanings": [
       {
@@ -9395,7 +9395,7 @@ export const wordsAdvanced = [
   {
     "id": "pacific",
     "word": "Pacific",
-    "pronunciation": "puhs-IHF-ihk",
+    "pronunciation": "puh-SIHF-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -9408,7 +9408,7 @@ export const wordsAdvanced = [
   {
     "id": "palatable",
     "word": "Palatable",
-    "pronunciation": "PAL-uht-uhb-uhl",
+    "pronunciation": "PAL-uh-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -9460,7 +9460,7 @@ export const wordsAdvanced = [
   {
     "id": "panacea",
     "word": "Panacea",
-    "pronunciation": "pan-uhs-EE-uh",
+    "pronunciation": "pan-uh-SEE-uh",
     "deck": "advanced",
     "meanings": [
       {
@@ -9473,7 +9473,7 @@ export const wordsAdvanced = [
   {
     "id": "paradigm",
     "word": "Paradigm",
-    "pronunciation": "PEHR-uhd-ahym",
+    "pronunciation": "PEHR-uh-dahym",
     "deck": "advanced",
     "meanings": [
       {
@@ -9486,7 +9486,7 @@ export const wordsAdvanced = [
   {
     "id": "paradox",
     "word": "Paradox",
-    "pronunciation": "PEHR-uhd-ahks",
+    "pronunciation": "PEHR-uh-dahks",
     "deck": "advanced",
     "meanings": [
       {
@@ -9499,7 +9499,7 @@ export const wordsAdvanced = [
   {
     "id": "paragon",
     "word": "Paragon",
-    "pronunciation": "PEHR-uhg-ahn",
+    "pronunciation": "PEHR-uh-gahn",
     "deck": "advanced",
     "meanings": [
       {
@@ -9512,7 +9512,7 @@ export const wordsAdvanced = [
   {
     "id": "paramount",
     "word": "Paramount",
-    "pronunciation": "PEHR-uhm-ownt",
+    "pronunciation": "PEHR-uh-mownt",
     "deck": "advanced",
     "meanings": [
       {
@@ -9538,7 +9538,7 @@ export const wordsAdvanced = [
   {
     "id": "parody",
     "word": "Parody",
-    "pronunciation": "PEHR-uhd-ee",
+    "pronunciation": "PEHR-uh-dee",
     "deck": "advanced",
     "meanings": [
       {
@@ -9551,7 +9551,7 @@ export const wordsAdvanced = [
   {
     "id": "parsimony",
     "word": "Parsimony",
-    "pronunciation": "PAHR-suhm-ohn-ee",
+    "pronunciation": "PAHR-suh-moh-nee",
     "deck": "advanced",
     "meanings": [
       {
@@ -9564,7 +9564,7 @@ export const wordsAdvanced = [
   {
     "id": "partisan",
     "word": "Partisan",
-    "pronunciation": "PAHR-tuhz-uhn",
+    "pronunciation": "PAHR-tuh-zuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -9590,7 +9590,7 @@ export const wordsAdvanced = [
   {
     "id": "pathology",
     "word": "Pathology",
-    "pronunciation": "puhth-AHL-uhj-ee",
+    "pronunciation": "puh-THAH-luh-jee",
     "deck": "advanced",
     "meanings": [
       {
@@ -9603,7 +9603,7 @@ export const wordsAdvanced = [
   {
     "id": "pathos",
     "word": "Pathos",
-    "pronunciation": "PAYTH-ahs",
+    "pronunciation": "PAY-thahs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9616,7 +9616,7 @@ export const wordsAdvanced = [
   {
     "id": "paucity",
     "word": "Paucity",
-    "pronunciation": "PAWS-uht-ee",
+    "pronunciation": "PAW-suh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -9629,7 +9629,7 @@ export const wordsAdvanced = [
   {
     "id": "pejorative",
     "word": "Pejorative",
-    "pronunciation": "puhj-AWR-uht-ihv",
+    "pronunciation": "puh-JAW-ruh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -9668,7 +9668,7 @@ export const wordsAdvanced = [
   {
     "id": "penitent",
     "word": "Penitent",
-    "pronunciation": "PEHN-iht-ihnt",
+    "pronunciation": "PEHN-ih-tihnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -9681,7 +9681,7 @@ export const wordsAdvanced = [
   {
     "id": "penultimate",
     "word": "Penultimate",
-    "pronunciation": "pehn-UHL-tuhm-uht",
+    "pronunciation": "peh-NUHL-tuh-muht",
     "deck": "advanced",
     "meanings": [
       {
@@ -9694,7 +9694,7 @@ export const wordsAdvanced = [
   {
     "id": "penurious",
     "word": "Penurious",
-    "pronunciation": "pehn-YOOR-ee-uhs",
+    "pronunciation": "pehn-YOO-ree-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9720,7 +9720,7 @@ export const wordsAdvanced = [
   {
     "id": "perfunctory",
     "word": "Perfunctory",
-    "pronunciation": "perf-UHNG-kter-ee",
+    "pronunciation": "per-FUHNGK-ter-ee",
     "deck": "advanced",
     "meanings": [
       {
@@ -9733,7 +9733,7 @@ export const wordsAdvanced = [
   {
     "id": "permeate",
     "word": "Permeate",
-    "pronunciation": "PERM-ee-ayt",
+    "pronunciation": "PER-mee-ayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -9746,7 +9746,7 @@ export const wordsAdvanced = [
   {
     "id": "pernicious",
     "word": "Pernicious",
-    "pronunciation": "pern-IHSH-uhs",
+    "pronunciation": "per-NIHSH-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -9759,7 +9759,7 @@ export const wordsAdvanced = [
   {
     "id": "perplex",
     "word": "Perplex",
-    "pronunciation": "perp-LEHKS",
+    "pronunciation": "per-PLEHKS",
     "deck": "advanced",
     "meanings": [
       {
@@ -9811,7 +9811,7 @@ export const wordsAdvanced = [
   {
     "id": "perusal",
     "word": "Perusal",
-    "pronunciation": "per-OOZ-uhl",
+    "pronunciation": "per-OO-zuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -9824,7 +9824,7 @@ export const wordsAdvanced = [
   {
     "id": "pervasive",
     "word": "Pervasive",
-    "pronunciation": "perv-AYS-ihv",
+    "pronunciation": "per-VAY-sihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -9837,7 +9837,7 @@ export const wordsAdvanced = [
   {
     "id": "petulance",
     "word": "Petulance",
-    "pronunciation": "PEHCH-uhl-uhns",
+    "pronunciation": "PEHCH-uh-luhns",
     "deck": "advanced",
     "meanings": [
       {
@@ -9850,7 +9850,7 @@ export const wordsAdvanced = [
   {
     "id": "philanthropic",
     "word": "Philanthropic",
-    "pronunciation": "fihl-uhn-THRAHP-ihk",
+    "pronunciation": "fihl-uhn-THRAH-pihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -9889,7 +9889,7 @@ export const wordsAdvanced = [
   {
     "id": "pinnacle",
     "word": "Pinnacle",
-    "pronunciation": "PIHN-uhk-uhl",
+    "pronunciation": "PIHN-uh-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -9928,7 +9928,7 @@ export const wordsAdvanced = [
   {
     "id": "placate",
     "word": "Placate",
-    "pronunciation": "PLAYK-ayt",
+    "pronunciation": "PLAY-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -9954,7 +9954,7 @@ export const wordsAdvanced = [
   {
     "id": "platitude",
     "word": "Platitude",
-    "pronunciation": "PLAT-iht-ood",
+    "pronunciation": "PLAT-ih-tood",
     "deck": "advanced",
     "meanings": [
       {
@@ -9967,7 +9967,7 @@ export const wordsAdvanced = [
   {
     "id": "plaudits",
     "word": "Plaudits",
-    "pronunciation": "PLAWD-ihts",
+    "pronunciation": "PLAW-dihts",
     "deck": "advanced",
     "meanings": [
       {
@@ -9980,7 +9980,7 @@ export const wordsAdvanced = [
   {
     "id": "plausible",
     "word": "Plausible",
-    "pronunciation": "PLAWZ-uhb-uhl",
+    "pronunciation": "PLAW-zuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -10019,7 +10019,7 @@ export const wordsAdvanced = [
   {
     "id": "pliable",
     "word": "Pliable",
-    "pronunciation": "PLAHY-uhb-uhl",
+    "pronunciation": "PLAHY-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -10045,7 +10045,7 @@ export const wordsAdvanced = [
   {
     "id": "polemic",
     "word": "Polemic",
-    "pronunciation": "puhl-EHM-ihk",
+    "pronunciation": "puh-LEHM-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -10071,7 +10071,7 @@ export const wordsAdvanced = [
   {
     "id": "potable",
     "word": "Potable",
-    "pronunciation": "POHT-uhb-uhl",
+    "pronunciation": "POH-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -10084,7 +10084,7 @@ export const wordsAdvanced = [
   {
     "id": "potentate",
     "word": "Potentate",
-    "pronunciation": "POHT-uhn-tayt",
+    "pronunciation": "POH-tuhn-tayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10110,7 +10110,7 @@ export const wordsAdvanced = [
   {
     "id": "precipice",
     "word": "Precipice",
-    "pronunciation": "PREHS-uhp-uhs",
+    "pronunciation": "PREHS-uh-puhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -10123,7 +10123,7 @@ export const wordsAdvanced = [
   {
     "id": "preclude",
     "word": "Preclude",
-    "pronunciation": "prihk-LOOD",
+    "pronunciation": "prih-KLOOD",
     "deck": "advanced",
     "meanings": [
       {
@@ -10136,7 +10136,7 @@ export const wordsAdvanced = [
   {
     "id": "precocious",
     "word": "Precocious",
-    "pronunciation": "prihk-OHSH-uhs",
+    "pronunciation": "prih-KOH-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -10149,7 +10149,7 @@ export const wordsAdvanced = [
   {
     "id": "predilection",
     "word": "Predilection",
-    "pronunciation": "prehd-uhl-EHK-shuhn",
+    "pronunciation": "prehd-uh-LEHK-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -10162,7 +10162,7 @@ export const wordsAdvanced = [
   {
     "id": "preponderance",
     "word": "Preponderance",
-    "pronunciation": "preep-AHN-druhns",
+    "pronunciation": "pree-PAHN-druhns",
     "deck": "advanced",
     "meanings": [
       {
@@ -10214,7 +10214,7 @@ export const wordsAdvanced = [
   {
     "id": "prescribe",
     "word": "Prescribe",
-    "pronunciation": "pruhs-KRAHYB",
+    "pronunciation": "pruh-SKRAHYB",
     "deck": "advanced",
     "meanings": [
       {
@@ -10227,7 +10227,7 @@ export const wordsAdvanced = [
   {
     "id": "presumptuous",
     "word": "Presumptuous",
-    "pronunciation": "prihz-UHM-pchuhw-uhs",
+    "pronunciation": "prih-ZUHMP-chuh-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -10240,7 +10240,7 @@ export const wordsAdvanced = [
   {
     "id": "pretense",
     "word": "Pretense",
-    "pronunciation": "preet-EHNS",
+    "pronunciation": "pree-TEHNS",
     "deck": "advanced",
     "meanings": [
       {
@@ -10253,7 +10253,7 @@ export const wordsAdvanced = [
   {
     "id": "primeval",
     "word": "Primeval",
-    "pronunciation": "prahym-EEV-uhl",
+    "pronunciation": "prahy-MEE-vuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -10266,7 +10266,7 @@ export const wordsAdvanced = [
   {
     "id": "privation",
     "word": "Privation",
-    "pronunciation": "prahyv-AYSH-uhn",
+    "pronunciation": "prahy-VAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -10279,7 +10279,7 @@ export const wordsAdvanced = [
   {
     "id": "probity",
     "word": "Probity",
-    "pronunciation": "PROHB-uht-ee",
+    "pronunciation": "PROH-buh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -10292,7 +10292,7 @@ export const wordsAdvanced = [
   {
     "id": "proclivity",
     "word": "Proclivity",
-    "pronunciation": "prohk-LIHV-uht-ee",
+    "pronunciation": "proh-KLIHV-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -10305,7 +10305,7 @@ export const wordsAdvanced = [
   {
     "id": "procure",
     "word": "Procure",
-    "pronunciation": "prohk-YUUR",
+    "pronunciation": "proh-KYUUR",
     "deck": "advanced",
     "meanings": [
       {
@@ -10318,7 +10318,7 @@ export const wordsAdvanced = [
   {
     "id": "profane",
     "word": "Profane",
-    "pronunciation": "prohf-AYN",
+    "pronunciation": "proh-FAYN",
     "deck": "advanced",
     "meanings": [
       {
@@ -10331,7 +10331,7 @@ export const wordsAdvanced = [
   {
     "id": "profligate",
     "word": "Profligate",
-    "pronunciation": "PRAWF-lihg-ayt",
+    "pronunciation": "PRAW-flih-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10344,7 +10344,7 @@ export const wordsAdvanced = [
   {
     "id": "profuse",
     "word": "Profuse",
-    "pronunciation": "pruhf-YOOS",
+    "pronunciation": "pruh-FYOOS",
     "deck": "advanced",
     "meanings": [
       {
@@ -10357,7 +10357,7 @@ export const wordsAdvanced = [
   {
     "id": "promulgate",
     "word": "Promulgate",
-    "pronunciation": "prohm-UHL-gayt",
+    "pronunciation": "proh-MUHL-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10370,7 +10370,7 @@ export const wordsAdvanced = [
   {
     "id": "propagate",
     "word": "Propagate",
-    "pronunciation": "PRAHP-uhg-ayt",
+    "pronunciation": "PRAH-puh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10383,7 +10383,7 @@ export const wordsAdvanced = [
   {
     "id": "propensity",
     "word": "Propensity",
-    "pronunciation": "pruhp-EHN-siht-ee",
+    "pronunciation": "pruh-PEHN-sih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -10396,7 +10396,7 @@ export const wordsAdvanced = [
   {
     "id": "propitious",
     "word": "Propitious",
-    "pronunciation": "pruhp-IHSH-uhs",
+    "pronunciation": "pruh-PIHSH-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -10409,7 +10409,7 @@ export const wordsAdvanced = [
   {
     "id": "propriety",
     "word": "Propriety",
-    "pronunciation": "pruhp-RAHY-uht-ee",
+    "pronunciation": "pruh-PRAHY-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -10422,7 +10422,7 @@ export const wordsAdvanced = [
   {
     "id": "prosaic",
     "word": "Prosaic",
-    "pronunciation": "prohz-AY-ihk",
+    "pronunciation": "proh-ZAY-ihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -10435,7 +10435,7 @@ export const wordsAdvanced = [
   {
     "id": "proscribe",
     "word": "Proscribe",
-    "pronunciation": "prohs-KRAHYB",
+    "pronunciation": "proh-SKRAHYB",
     "deck": "advanced",
     "meanings": [
       {
@@ -10448,7 +10448,7 @@ export const wordsAdvanced = [
   {
     "id": "protean",
     "word": "Protean",
-    "pronunciation": "proht-EE-uhn",
+    "pronunciation": "proh-TEE-uhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -10474,7 +10474,7 @@ export const wordsAdvanced = [
   {
     "id": "prudence",
     "word": "Prudence",
-    "pronunciation": "PROOD-uhns",
+    "pronunciation": "PROO-duhns",
     "deck": "advanced",
     "meanings": [
       {
@@ -10500,7 +10500,7 @@ export const wordsAdvanced = [
   {
     "id": "puerile",
     "word": "Puerile",
-    "pronunciation": "pyoor-EEL",
+    "pronunciation": "pyoo-REEL",
     "deck": "advanced",
     "meanings": [
       {
@@ -10539,7 +10539,7 @@ export const wordsAdvanced = [
   {
     "id": "punctilious",
     "word": "Punctilious",
-    "pronunciation": "puhng-KTIHL-ee-uhs",
+    "pronunciation": "puhngk-TIHL-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -10565,7 +10565,7 @@ export const wordsAdvanced = [
   {
     "id": "punitive",
     "word": "Punitive",
-    "pronunciation": "PYOON-uht-ihv",
+    "pronunciation": "PYOO-nuh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -10578,7 +10578,7 @@ export const wordsAdvanced = [
   {
     "id": "putrid",
     "word": "Putrid",
-    "pronunciation": "PYOOT-rihd",
+    "pronunciation": "PYOO-trihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -10643,7 +10643,7 @@ export const wordsAdvanced = [
   {
     "id": "querulous",
     "word": "Querulous",
-    "pronunciation": "KWEHR-uhl-uhs",
+    "pronunciation": "KWEHR-uh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -10656,7 +10656,7 @@ export const wordsAdvanced = [
   {
     "id": "quixotic",
     "word": "Quixotic",
-    "pronunciation": "kwihk-SAHT-ihk",
+    "pronunciation": "kwihk-SAH-tihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -10721,7 +10721,7 @@ export const wordsAdvanced = [
   {
     "id": "rapport",
     "word": "Rapport",
-    "pronunciation": "rap-AWR",
+    "pronunciation": "ra-PAWR",
     "deck": "advanced",
     "meanings": [
       {
@@ -10747,7 +10747,7 @@ export const wordsAdvanced = [
   {
     "id": "raucous",
     "word": "Raucous",
-    "pronunciation": "RAWK-uhs",
+    "pronunciation": "RAW-kuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -10773,7 +10773,7 @@ export const wordsAdvanced = [
   {
     "id": "rebuke",
     "word": "Rebuke",
-    "pronunciation": "reeb-YOOK",
+    "pronunciation": "ree-BYOOK",
     "deck": "advanced",
     "meanings": [
       {
@@ -10786,7 +10786,7 @@ export const wordsAdvanced = [
   {
     "id": "recalcitrant",
     "word": "Recalcitrant",
-    "pronunciation": "rihk-AL-siht-ruhnt",
+    "pronunciation": "rih-KAL-sih-truhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10799,7 +10799,7 @@ export const wordsAdvanced = [
   {
     "id": "recapitulate",
     "word": "Recapitulate",
-    "pronunciation": "reek-uhp-IHCH-uhl-ayt",
+    "pronunciation": "ree-kuh-PIHCH-uh-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10812,7 +10812,7 @@ export const wordsAdvanced = [
   {
     "id": "reciprocate",
     "word": "Reciprocate",
-    "pronunciation": "rihs-IHP-ruhk-ayt",
+    "pronunciation": "rih-SIHP-ruh-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10825,7 +10825,7 @@ export const wordsAdvanced = [
   {
     "id": "reclusive",
     "word": "Reclusive",
-    "pronunciation": "rihk-LOOS-ihv",
+    "pronunciation": "rih-KLOO-sihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -10856,7 +10856,7 @@ export const wordsAdvanced = [
   {
     "id": "rectitude",
     "word": "Rectitude",
-    "pronunciation": "REHK-tiht-ood",
+    "pronunciation": "REHK-tih-tood",
     "deck": "advanced",
     "meanings": [
       {
@@ -10869,7 +10869,7 @@ export const wordsAdvanced = [
   {
     "id": "redoubtable",
     "word": "Redoubtable",
-    "pronunciation": "reed-OWT-uhb-uhl",
+    "pronunciation": "ree-DOW-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -10900,7 +10900,7 @@ export const wordsAdvanced = [
   {
     "id": "refurbish",
     "word": "Refurbish",
-    "pronunciation": "reef-ERB-ihsh",
+    "pronunciation": "ree-FER-bihsh",
     "deck": "advanced",
     "meanings": [
       {
@@ -10913,7 +10913,7 @@ export const wordsAdvanced = [
   {
     "id": "refute",
     "word": "Refute",
-    "pronunciation": "rihf-YOOT",
+    "pronunciation": "rih-FYOOT",
     "deck": "advanced",
     "meanings": [
       {
@@ -10926,7 +10926,7 @@ export const wordsAdvanced = [
   {
     "id": "regurgitate",
     "word": "Regurgitate",
-    "pronunciation": "rihg-ERJ-uht-ayt",
+    "pronunciation": "rihg-ER-juh-tayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10944,7 +10944,7 @@ export const wordsAdvanced = [
   {
     "id": "relegate",
     "word": "Relegate",
-    "pronunciation": "REHL-uhg-ayt",
+    "pronunciation": "REHL-uh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -10975,7 +10975,7 @@ export const wordsAdvanced = [
   {
     "id": "remedial",
     "word": "Remedial",
-    "pronunciation": "rihm-EED-ee-uhl",
+    "pronunciation": "rih-MEE-dee-uhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -10988,7 +10988,7 @@ export const wordsAdvanced = [
   {
     "id": "remiss",
     "word": "Remiss",
-    "pronunciation": "reem-IHS",
+    "pronunciation": "ree-MIHS",
     "deck": "advanced",
     "meanings": [
       {
@@ -11001,7 +11001,7 @@ export const wordsAdvanced = [
   {
     "id": "renovate",
     "word": "Renovate",
-    "pronunciation": "REHN-uhv-ayt",
+    "pronunciation": "REHN-uh-vayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11019,7 +11019,7 @@ export const wordsAdvanced = [
   {
     "id": "renown",
     "word": "Renown",
-    "pronunciation": "rihn-OWN",
+    "pronunciation": "rih-NOWN",
     "deck": "advanced",
     "meanings": [
       {
@@ -11032,7 +11032,7 @@ export const wordsAdvanced = [
   {
     "id": "renunciation",
     "word": "Renunciation",
-    "pronunciation": "rihn-uhn-see-AYSH-uhn",
+    "pronunciation": "rih-nuhn-see-AY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -11045,7 +11045,7 @@ export const wordsAdvanced = [
   {
     "id": "repentant",
     "word": "Repentant",
-    "pronunciation": "rihp-EHN-tuhnt",
+    "pronunciation": "rih-PEHN-tuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11058,7 +11058,7 @@ export const wordsAdvanced = [
   {
     "id": "replete",
     "word": "Replete",
-    "pronunciation": "reep-LEET",
+    "pronunciation": "ree-PLEET",
     "deck": "advanced",
     "meanings": [
       {
@@ -11071,7 +11071,7 @@ export const wordsAdvanced = [
   {
     "id": "repose",
     "word": "Repose",
-    "pronunciation": "reep-OHZ",
+    "pronunciation": "ree-POHZ",
     "deck": "advanced",
     "meanings": [
       {
@@ -11084,7 +11084,7 @@ export const wordsAdvanced = [
   {
     "id": "reprehensible",
     "word": "Reprehensible",
-    "pronunciation": "rehp-rihh-EHN-suhb-uhl",
+    "pronunciation": "rehp-rih-HEHN-suh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -11097,7 +11097,7 @@ export const wordsAdvanced = [
   {
     "id": "reprieve",
     "word": "Reprieve",
-    "pronunciation": "reep-REEV",
+    "pronunciation": "ree-PREEV",
     "deck": "advanced",
     "meanings": [
       {
@@ -11110,7 +11110,7 @@ export const wordsAdvanced = [
   {
     "id": "reproach",
     "word": "Reproach",
-    "pronunciation": "reep-ROHCH",
+    "pronunciation": "ree-PROHCH",
     "deck": "advanced",
     "meanings": [
       {
@@ -11123,7 +11123,7 @@ export const wordsAdvanced = [
   {
     "id": "reprobate",
     "word": "Reprobate",
-    "pronunciation": "REHP-rawb-ayt",
+    "pronunciation": "REHP-raw-bayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11149,7 +11149,7 @@ export const wordsAdvanced = [
   {
     "id": "repudiate",
     "word": "Repudiate",
-    "pronunciation": "reep-YOOD-ee-ayt",
+    "pronunciation": "ree-PYOO-dee-ayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11162,7 +11162,7 @@ export const wordsAdvanced = [
   {
     "id": "repulse",
     "word": "Repulse",
-    "pronunciation": "reep-UHLS",
+    "pronunciation": "ree-PUHLS",
     "deck": "advanced",
     "meanings": [
       {
@@ -11180,7 +11180,7 @@ export const wordsAdvanced = [
   {
     "id": "reputable",
     "word": "Reputable",
-    "pronunciation": "REHP-yuht-uhb-uhl",
+    "pronunciation": "REHP-yuh-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -11193,7 +11193,7 @@ export const wordsAdvanced = [
   {
     "id": "requisition",
     "word": "Requisition",
-    "pronunciation": "rehk-wuhz-IHSH-uhn",
+    "pronunciation": "rehk-wuh-ZIHSH-uhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -11206,7 +11206,7 @@ export const wordsAdvanced = [
   {
     "id": "rescind",
     "word": "Rescind",
-    "pronunciation": "rihs-IHND",
+    "pronunciation": "rih-SIHND",
     "deck": "advanced",
     "meanings": [
       {
@@ -11237,7 +11237,7 @@ export const wordsAdvanced = [
   {
     "id": "resilient",
     "word": "Resilient",
-    "pronunciation": "rihz-IHL-yuhnt",
+    "pronunciation": "rih-ZIHL-yuhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11250,7 +11250,7 @@ export const wordsAdvanced = [
   {
     "id": "resolute",
     "word": "Resolute",
-    "pronunciation": "REHZ-uhl-oot",
+    "pronunciation": "REHZ-uh-loot",
     "deck": "advanced",
     "meanings": [
       {
@@ -11263,7 +11263,7 @@ export const wordsAdvanced = [
   {
     "id": "resolve",
     "word": "Resolve",
-    "pronunciation": "reez-AHLV",
+    "pronunciation": "ree-ZAHLV",
     "deck": "advanced",
     "meanings": [
       {
@@ -11294,7 +11294,7 @@ export const wordsAdvanced = [
   {
     "id": "resplendent",
     "word": "Resplendent",
-    "pronunciation": "rees-PLEHN-duhnt",
+    "pronunciation": "ree-SPLEHN-duhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11307,7 +11307,7 @@ export const wordsAdvanced = [
   {
     "id": "restitution",
     "word": "Restitution",
-    "pronunciation": "rehs-tiht-OOSH-uhn",
+    "pronunciation": "rehs-tih-TOO-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -11333,7 +11333,7 @@ export const wordsAdvanced = [
   {
     "id": "retract",
     "word": "Retract",
-    "pronunciation": "reet-RAKT",
+    "pronunciation": "ree-TRAKT",
     "deck": "advanced",
     "meanings": [
       {
@@ -11359,7 +11359,7 @@ export const wordsAdvanced = [
   {
     "id": "revere",
     "word": "Revere",
-    "pronunciation": "rihv-IHR",
+    "pronunciation": "rih-VIHR",
     "deck": "advanced",
     "meanings": [
       {
@@ -11372,7 +11372,7 @@ export const wordsAdvanced = [
   {
     "id": "revoke",
     "word": "Revoke",
-    "pronunciation": "rihv-OHK",
+    "pronunciation": "rih-VOHK",
     "deck": "advanced",
     "meanings": [
       {
@@ -11385,7 +11385,7 @@ export const wordsAdvanced = [
   {
     "id": "rhapsodize",
     "word": "Rhapsodize",
-    "pronunciation": "RAP-suhd-ahyz",
+    "pronunciation": "RAP-suh-dahyz",
     "deck": "advanced",
     "meanings": [
       {
@@ -11398,7 +11398,7 @@ export const wordsAdvanced = [
   {
     "id": "ribald",
     "word": "Ribald",
-    "pronunciation": "RAHYB-ahld",
+    "pronunciation": "RAHY-bahld",
     "deck": "advanced",
     "meanings": [
       {
@@ -11424,7 +11424,7 @@ export const wordsAdvanced = [
   {
     "id": "ruminate",
     "word": "Ruminate",
-    "pronunciation": "ROOM-ihn-ayt",
+    "pronunciation": "ROO-mih-nayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11463,7 +11463,7 @@ export const wordsAdvanced = [
   {
     "id": "sacrosanct",
     "word": "Sacrosanct",
-    "pronunciation": "SAK-rohs-angkt",
+    "pronunciation": "SAK-roh-sangkt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11489,7 +11489,7 @@ export const wordsAdvanced = [
   {
     "id": "salient",
     "word": "Salient",
-    "pronunciation": "SAYL-ee-uhnt",
+    "pronunciation": "SAY-lee-uhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11528,7 +11528,7 @@ export const wordsAdvanced = [
   {
     "id": "sanctimonious",
     "word": "Sanctimonious",
-    "pronunciation": "sang-ktuhm-OHN-ee-uhs",
+    "pronunciation": "sangk-tuh-MOH-nee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -11567,7 +11567,7 @@ export const wordsAdvanced = [
   {
     "id": "scathing",
     "word": "Scathing",
-    "pronunciation": "SKAYTH-ihng",
+    "pronunciation": "SKAY-thihng",
     "deck": "advanced",
     "meanings": [
       {
@@ -11593,7 +11593,7 @@ export const wordsAdvanced = [
   {
     "id": "scrupulous",
     "word": "Scrupulous",
-    "pronunciation": "SKROOP-yuhl-uhs",
+    "pronunciation": "SKROO-pyuh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -11606,7 +11606,7 @@ export const wordsAdvanced = [
   {
     "id": "scurrilous",
     "word": "Scurrilous",
-    "pronunciation": "SKER-uhl-uhs",
+    "pronunciation": "SKER-uh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -11645,7 +11645,7 @@ export const wordsAdvanced = [
   {
     "id": "seminal",
     "word": "Seminal",
-    "pronunciation": "SEHM-uhn-uhl",
+    "pronunciation": "SEHM-uh-nuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -11658,7 +11658,7 @@ export const wordsAdvanced = [
   {
     "id": "sensual",
     "word": "Sensual",
-    "pronunciation": "SEHN-shuhw-uhl",
+    "pronunciation": "SEHN-shuh-wuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -11671,7 +11671,7 @@ export const wordsAdvanced = [
   {
     "id": "sensuous",
     "word": "Sensuous",
-    "pronunciation": "SEHN-shuhw-uhs",
+    "pronunciation": "SEHN-shuh-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -11684,7 +11684,7 @@ export const wordsAdvanced = [
   {
     "id": "serendipity",
     "word": "Serendipity",
-    "pronunciation": "sehr-uhn-DIHP-iht-ee",
+    "pronunciation": "sehr-uhn-DIHP-ih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -11710,7 +11710,7 @@ export const wordsAdvanced = [
   {
     "id": "servile",
     "word": "Servile",
-    "pronunciation": "SERV-uhl",
+    "pronunciation": "SER-vuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -11736,7 +11736,7 @@ export const wordsAdvanced = [
   {
     "id": "sobriety",
     "word": "Sobriety",
-    "pronunciation": "suhb-RAHY-uht-ee",
+    "pronunciation": "suh-BRAHY-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -11749,7 +11749,7 @@ export const wordsAdvanced = [
   {
     "id": "solicitous",
     "word": "Solicitous",
-    "pronunciation": "suhl-IHS-uht-uhs",
+    "pronunciation": "suh-LIHS-uh-tuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -11775,7 +11775,7 @@ export const wordsAdvanced = [
   {
     "id": "soluble",
     "word": "Soluble",
-    "pronunciation": "SAHL-yuhb-uhl",
+    "pronunciation": "SAHL-yuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -11806,7 +11806,7 @@ export const wordsAdvanced = [
   {
     "id": "somnolent",
     "word": "Somnolent",
-    "pronunciation": "SAHM-nuhl-uhnt",
+    "pronunciation": "SAHM-nuh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11819,7 +11819,7 @@ export const wordsAdvanced = [
   {
     "id": "sophomoric",
     "word": "Sophomoric",
-    "pronunciation": "sahf-ohm-AHR-ihk",
+    "pronunciation": "sah-foh-MAH-rihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -11845,7 +11845,7 @@ export const wordsAdvanced = [
   {
     "id": "speculative",
     "word": "Speculative",
-    "pronunciation": "SPEHK-yuhl-uht-ihv",
+    "pronunciation": "SPEHK-yuh-luh-tihv",
     "deck": "advanced",
     "meanings": [
       {
@@ -11923,7 +11923,7 @@ export const wordsAdvanced = [
   {
     "id": "stolid",
     "word": "Stolid",
-    "pronunciation": "STAHL-uhd",
+    "pronunciation": "STAH-luhd",
     "deck": "advanced",
     "meanings": [
       {
@@ -11949,7 +11949,7 @@ export const wordsAdvanced = [
   {
     "id": "strident",
     "word": "Strident",
-    "pronunciation": "STRAHYD-uhnt",
+    "pronunciation": "STRAHY-duhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11975,7 +11975,7 @@ export const wordsAdvanced = [
   {
     "id": "subjugate",
     "word": "Subjugate",
-    "pronunciation": "SUHB-juhg-ayt",
+    "pronunciation": "SUHB-juh-gayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -11988,7 +11988,7 @@ export const wordsAdvanced = [
   {
     "id": "sublime",
     "word": "Sublime",
-    "pronunciation": "suhb-LAHYM",
+    "pronunciation": "suh-BLAHYM",
     "deck": "advanced",
     "meanings": [
       {
@@ -12027,7 +12027,7 @@ export const wordsAdvanced = [
   {
     "id": "superfluous",
     "word": "Superfluous",
-    "pronunciation": "SOOP-erf-lwuhs",
+    "pronunciation": "SOO-perfl-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12040,7 +12040,7 @@ export const wordsAdvanced = [
   {
     "id": "surfeit",
     "word": "Surfeit",
-    "pronunciation": "SERF-uht",
+    "pronunciation": "SER-fuht",
     "deck": "advanced",
     "meanings": [
       {
@@ -12053,7 +12053,7 @@ export const wordsAdvanced = [
   {
     "id": "surmise",
     "word": "Surmise",
-    "pronunciation": "serm-AHYZ",
+    "pronunciation": "ser-MAHYZ",
     "deck": "advanced",
     "meanings": [
       {
@@ -12079,7 +12079,7 @@ export const wordsAdvanced = [
   {
     "id": "surrogate",
     "word": "Surrogate",
-    "pronunciation": "SER-uhg-uht",
+    "pronunciation": "SER-uh-guht",
     "deck": "advanced",
     "meanings": [
       {
@@ -12131,7 +12131,7 @@ export const wordsAdvanced = [
   {
     "id": "taciturn",
     "word": "Taciturn",
-    "pronunciation": "TAS-iht-ern",
+    "pronunciation": "TAS-ih-tern",
     "deck": "advanced",
     "meanings": [
       {
@@ -12157,7 +12157,7 @@ export const wordsAdvanced = [
   {
     "id": "tantamount",
     "word": "Tantamount",
-    "pronunciation": "TAN-tuhm-ownt",
+    "pronunciation": "TAN-tuh-mownt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12170,7 +12170,7 @@ export const wordsAdvanced = [
   {
     "id": "tedious",
     "word": "Tedious",
-    "pronunciation": "TEED-ee-uhs",
+    "pronunciation": "TEE-dee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12183,7 +12183,7 @@ export const wordsAdvanced = [
   {
     "id": "temerity",
     "word": "Temerity",
-    "pronunciation": "tuhm-EHR-uht-ee",
+    "pronunciation": "tuh-MEHR-uh-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -12209,7 +12209,7 @@ export const wordsAdvanced = [
   {
     "id": "tenable",
     "word": "Tenable",
-    "pronunciation": "TEHN-uhb-uhl",
+    "pronunciation": "TEHN-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -12222,7 +12222,7 @@ export const wordsAdvanced = [
   {
     "id": "tenuous",
     "word": "Tenuous",
-    "pronunciation": "TEHN-yuhw-uhs",
+    "pronunciation": "TEHN-yuh-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12261,7 +12261,7 @@ export const wordsAdvanced = [
   {
     "id": "tirade",
     "word": "Tirade",
-    "pronunciation": "tahyr-AYD",
+    "pronunciation": "tahy-RAYD",
     "deck": "advanced",
     "meanings": [
       {
@@ -12313,7 +12313,7 @@ export const wordsAdvanced = [
   {
     "id": "torrid",
     "word": "Torrid",
-    "pronunciation": "TAWR-uhd",
+    "pronunciation": "TAW-ruhd",
     "deck": "advanced",
     "meanings": [
       {
@@ -12326,7 +12326,7 @@ export const wordsAdvanced = [
   {
     "id": "tortuous",
     "word": "Tortuous",
-    "pronunciation": "TAWR-chuhw-uhs",
+    "pronunciation": "TAWR-chuh-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12339,7 +12339,7 @@ export const wordsAdvanced = [
   {
     "id": "tractable",
     "word": "Tractable",
-    "pronunciation": "TRAK-tuhb-uhl",
+    "pronunciation": "TRAK-tuh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -12365,7 +12365,7 @@ export const wordsAdvanced = [
   {
     "id": "transgress",
     "word": "Transgress",
-    "pronunciation": "tran-ZGREHS",
+    "pronunciation": "tranz-GREHS",
     "deck": "advanced",
     "meanings": [
       {
@@ -12404,7 +12404,7 @@ export const wordsAdvanced = [
   {
     "id": "travesty",
     "word": "Travesty",
-    "pronunciation": "TRAV-uhs-tee",
+    "pronunciation": "TRAV-uh-stee",
     "deck": "advanced",
     "meanings": [
       {
@@ -12417,7 +12417,7 @@ export const wordsAdvanced = [
   {
     "id": "tremulous",
     "word": "Tremulous",
-    "pronunciation": "TREHM-yuhl-uhs",
+    "pronunciation": "TREHM-yuh-luhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12443,7 +12443,7 @@ export const wordsAdvanced = [
   {
     "id": "trepidation",
     "word": "Trepidation",
-    "pronunciation": "trehp-ihd-AYSH-uhn",
+    "pronunciation": "trehp-ih-DAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -12469,7 +12469,7 @@ export const wordsAdvanced = [
   {
     "id": "truculent",
     "word": "Truculent",
-    "pronunciation": "TRUHK-yuhl-uhnt",
+    "pronunciation": "TRUHK-yuh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12495,7 +12495,7 @@ export const wordsAdvanced = [
   {
     "id": "turgid",
     "word": "Turgid",
-    "pronunciation": "TERJ-ihd",
+    "pronunciation": "TER-jihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -12508,7 +12508,7 @@ export const wordsAdvanced = [
   {
     "id": "turpitude",
     "word": "Turpitude",
-    "pronunciation": "TERP-iht-ood",
+    "pronunciation": "TER-pih-tood",
     "deck": "advanced",
     "meanings": [
       {
@@ -12521,7 +12521,7 @@ export const wordsAdvanced = [
   {
     "id": "ubiquitous",
     "word": "Ubiquitous",
-    "pronunciation": "yoob-IHK-wiht-uhs",
+    "pronunciation": "yoo-BIHK-wih-tuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12560,7 +12560,7 @@ export const wordsAdvanced = [
   {
     "id": "unctuous",
     "word": "Unctuous",
-    "pronunciation": "UHNG-chwuhs",
+    "pronunciation": "UHNGCH-wuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12573,7 +12573,7 @@ export const wordsAdvanced = [
   {
     "id": "undulate",
     "word": "Undulate",
-    "pronunciation": "UHN-juhl-ayt",
+    "pronunciation": "UHN-juh-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12599,7 +12599,7 @@ export const wordsAdvanced = [
   {
     "id": "usurp",
     "word": "Usurp",
-    "pronunciation": "yoos-ERP",
+    "pronunciation": "yoo-SERP",
     "deck": "advanced",
     "meanings": [
       {
@@ -12612,7 +12612,7 @@ export const wordsAdvanced = [
   {
     "id": "utilitarian",
     "word": "Utilitarian",
-    "pronunciation": "yoot-ihl-uht-EHR-ee-uhn",
+    "pronunciation": "yoo-tihl-uh-TEHR-ee-uhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -12625,7 +12625,7 @@ export const wordsAdvanced = [
   {
     "id": "utopia",
     "word": "Utopia",
-    "pronunciation": "yoot-OHP-ee-uh",
+    "pronunciation": "yoo-TOH-pee-uh",
     "deck": "advanced",
     "meanings": [
       {
@@ -12638,7 +12638,7 @@ export const wordsAdvanced = [
   {
     "id": "vacillate",
     "word": "Vacillate",
-    "pronunciation": "VAS-uhl-ayt",
+    "pronunciation": "VAS-uh-layt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12664,7 +12664,7 @@ export const wordsAdvanced = [
   {
     "id": "validate",
     "word": "Validate",
-    "pronunciation": "VAL-uhd-ayt",
+    "pronunciation": "VAL-uh-dayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12690,7 +12690,7 @@ export const wordsAdvanced = [
   {
     "id": "variegated",
     "word": "Variegated",
-    "pronunciation": "VEHR-ihg-ayt-ihd",
+    "pronunciation": "VEHR-ih-gay-tihd",
     "deck": "advanced",
     "meanings": [
       {
@@ -12703,7 +12703,7 @@ export const wordsAdvanced = [
   {
     "id": "vehemently",
     "word": "Vehemently",
-    "pronunciation": "VEE-uhm-uhn-tlee",
+    "pronunciation": "VEE-uh-muhnt-lee",
     "deck": "advanced",
     "meanings": [
       {
@@ -12716,7 +12716,7 @@ export const wordsAdvanced = [
   {
     "id": "veneer",
     "word": "Veneer",
-    "pronunciation": "vuhn-IHR",
+    "pronunciation": "vuh-NIHR",
     "deck": "advanced",
     "meanings": [
       {
@@ -12729,7 +12729,7 @@ export const wordsAdvanced = [
   {
     "id": "venerable",
     "word": "Venerable",
-    "pronunciation": "VEHN-er-uhb-uhl",
+    "pronunciation": "VEHN-er-uh-buhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -12755,7 +12755,7 @@ export const wordsAdvanced = [
   {
     "id": "veracity",
     "word": "Veracity",
-    "pronunciation": "ver-AS-iht-ee",
+    "pronunciation": "ver-AS-ih-tee",
     "deck": "advanced",
     "meanings": [
       {
@@ -12781,7 +12781,7 @@ export const wordsAdvanced = [
   {
     "id": "verdant",
     "word": "Verdant",
-    "pronunciation": "VERD-uhnt",
+    "pronunciation": "VER-duhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12820,7 +12820,7 @@ export const wordsAdvanced = [
   {
     "id": "vicarious",
     "word": "Vicarious",
-    "pronunciation": "vahyk-EHR-ee-uhs",
+    "pronunciation": "vahy-KEHR-ee-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12833,7 +12833,7 @@ export const wordsAdvanced = [
   {
     "id": "vicissitude",
     "word": "Vicissitude",
-    "pronunciation": "vihs-IHS-iht-ood",
+    "pronunciation": "vihs-IHS-ih-tood",
     "deck": "advanced",
     "meanings": [
       {
@@ -12846,7 +12846,7 @@ export const wordsAdvanced = [
   {
     "id": "vigilant",
     "word": "Vigilant",
-    "pronunciation": "VIHJ-uhl-uhnt",
+    "pronunciation": "VIHJ-uh-luhnt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12859,7 +12859,7 @@ export const wordsAdvanced = [
   {
     "id": "vilify",
     "word": "Vilify",
-    "pronunciation": "VIHL-ihf-ahy",
+    "pronunciation": "VIHL-ih-fahy",
     "deck": "advanced",
     "meanings": [
       {
@@ -12872,7 +12872,7 @@ export const wordsAdvanced = [
   {
     "id": "vindicate",
     "word": "Vindicate",
-    "pronunciation": "VIHN-duhk-ayt",
+    "pronunciation": "VIHN-duh-kayt",
     "deck": "advanced",
     "meanings": [
       {
@@ -12898,7 +12898,7 @@ export const wordsAdvanced = [
   {
     "id": "virtuoso",
     "word": "Virtuoso",
-    "pronunciation": "verch-oo-OHS-oh",
+    "pronunciation": "ver-choo-OH-soh",
     "deck": "advanced",
     "meanings": [
       {
@@ -12924,7 +12924,7 @@ export const wordsAdvanced = [
   {
     "id": "vitriolic",
     "word": "Vitriolic",
-    "pronunciation": "viht-ree-AHL-ihk",
+    "pronunciation": "viht-ree-AH-lihk",
     "deck": "advanced",
     "meanings": [
       {
@@ -12950,7 +12950,7 @@ export const wordsAdvanced = [
   {
     "id": "vivacious",
     "word": "Vivacious",
-    "pronunciation": "vuhv-AYSH-uhs",
+    "pronunciation": "vuh-VAY-shuhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12963,7 +12963,7 @@ export const wordsAdvanced = [
   {
     "id": "vocation",
     "word": "Vocation",
-    "pronunciation": "vohk-AYSH-uhn",
+    "pronunciation": "voh-KAY-shuhn",
     "deck": "advanced",
     "meanings": [
       {
@@ -12976,7 +12976,7 @@ export const wordsAdvanced = [
   {
     "id": "vociferous",
     "word": "Vociferous",
-    "pronunciation": "vohs-IHF-er-uhs",
+    "pronunciation": "voh-SIHF-er-uhs",
     "deck": "advanced",
     "meanings": [
       {
@@ -12989,7 +12989,7 @@ export const wordsAdvanced = [
   {
     "id": "wallow",
     "word": "Wallow",
-    "pronunciation": "WAHL-oh",
+    "pronunciation": "WAH-loh",
     "deck": "advanced",
     "meanings": [
       {
@@ -13028,7 +13028,7 @@ export const wordsAdvanced = [
   {
     "id": "whimsical",
     "word": "Whimsical",
-    "pronunciation": "WIHM-zihk-uhl",
+    "pronunciation": "WIHM-zih-kuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -13041,7 +13041,7 @@ export const wordsAdvanced = [
   {
     "id": "wily",
     "word": "Wily",
-    "pronunciation": "WAHYL-ee",
+    "pronunciation": "WAHY-lee",
     "deck": "advanced",
     "meanings": [
       {
@@ -13067,7 +13067,7 @@ export const wordsAdvanced = [
   {
     "id": "wistful",
     "word": "Wistful",
-    "pronunciation": "WIHS-tfuhl",
+    "pronunciation": "WIHST-fuhl",
     "deck": "advanced",
     "meanings": [
       {
@@ -13080,7 +13080,7 @@ export const wordsAdvanced = [
   {
     "id": "wizened",
     "word": "Wizened",
-    "pronunciation": "WAHYZ-uhnd",
+    "pronunciation": "WAHY-zuhnd",
     "deck": "advanced",
     "meanings": [
       {
@@ -13132,7 +13132,7 @@ export const wordsAdvanced = [
   {
     "id": "zenith",
     "word": "Zenith",
-    "pronunciation": "ZEEN-uhth",
+    "pronunciation": "ZEE-nuhth",
     "deck": "advanced",
     "meanings": [
       {

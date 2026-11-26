@@ -1,10 +1,8 @@
 """Shared ARPAbet-to-simple-phonetic-spelling conversion, backed by the
-CMU Pronouncing Dictionary bundled with the locally installed ko_speech_tools
-package. No network access or pip install required.
+CMU Pronouncing Dictionary: the copy bundled with ko_speech_tools if that is
+installed, otherwise the `cmudict` package (`pip install cmudict`).
 """
 import re
-
-from ko_speech_tools.g2p.cmudict import CMUDict
 
 VOWELS = {
     "AA", "AE", "AH", "AO", "AW", "AY", "EH", "ER", "EY",
@@ -21,7 +19,31 @@ SIMPLE = {
     "Y": "y", "Z": "z", "ZH": "zh",
 }
 
-_dict = CMUDict()
+# Consonant sequences an English syllable can start with.
+ONSETS = {(c,) for c in "B CH D DH F G HH JH K L M N P R S SH T TH V W Y Z ZH".split()}
+ONSETS |= {tuple(c.split()) for c in (
+    "P R,B R,T R,D R,K R,G R,F R,TH R,SH R,P L,B L,K L,G L,F L,S L,"
+    "S P,S T,S K,S M,S N,S F,S W,K W,G W,T W,D W,TH W,S P R,S T R,S K R,S P L,S K W,"
+    "P Y,B Y,F Y,V Y,K Y,G Y,M Y,HH Y,S P Y,S K Y"
+).split(",")}
+
+# Short vowels. When stressed they take the following consonant ("LEHV-uhl", not "LEH-vuhl").
+CHECKED_VOWELS = {"AE", "AH", "EH", "IH", "UH"}
+
+_dict = None
+
+
+def _dictionary():
+    """word -> list of space-separated ARPAbet strings, loaded on first use."""
+    global _dict
+    if _dict is None:
+        try:
+            from ko_speech_tools.g2p.cmudict import CMUDict
+            _dict = CMUDict()
+        except ImportError:
+            import cmudict
+            _dict = {word: [" ".join(p) for p in prons] for word, prons in cmudict.dict().items()}
+    return _dict
 
 
 def _strip_stress(phoneme):
@@ -47,9 +69,14 @@ def pronounce(word, overrides=None):
     key = word.lower()
     if overrides and key in overrides:
         return overrides[key]
-    if key not in _dict:
+    dictionary = _dictionary()
+    if key not in dictionary:
         return None
-    phonemes = _dict[key][0].split()
+    return respell(dictionary[key][0].split())
+
+
+def respell(phonemes):
+    """Spell a list of ARPAbet phonemes as syllables, stressed one in capitals."""
     vowel_idx = [i for i, p in enumerate(phonemes) if _strip_stress(p)[0] in VOWELS]
     if not vowel_idx:
         return _syllable_to_text(phonemes)
@@ -60,12 +87,14 @@ def pronounce(word, overrides=None):
         if k == len(vowel_idx) - 1:
             end = len(phonemes)
         else:
-            next_vi = vowel_idx[k + 1]
-            consonants_between = next_vi - vi - 1
-            if consonants_between <= 1:
-                end = vi + 1 + consonants_between
-            else:
-                end = vi + 2
+            cluster = [_strip_stress(p)[0] for p in phonemes[vi + 1:vowel_idx[k + 1]]]
+            # Give the next syllable as many consonants as can start one.
+            coda = next(n for n in range(len(cluster) + 1)
+                        if n == len(cluster) or tuple(cluster[n:]) in ONSETS)
+            vowel, stress = _strip_stress(phonemes[vi])
+            if cluster and coda == 0 and vowel in CHECKED_VOWELS and stress != "0":
+                coda = 1
+            end = vi + 1 + coda
         bounds.append((prev, end))
         prev = end
 

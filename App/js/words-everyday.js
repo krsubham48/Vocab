@@ -3,7 +3,7 @@ export const wordsEveryday = [
   {
     "id": "overwhelmed",
     "word": "Overwhelmed",
-    "pronunciation": "ohv-erw-EHLMD",
+    "pronunciation": "oh-ver-WEHLMD",
     "deck": "everyday",
     "meanings": [
       {
@@ -34,7 +34,7 @@ export const wordsEveryday = [
   {
     "id": "anxious",
     "word": "Anxious",
-    "pronunciation": "ANG-kshuhs",
+    "pronunciation": "ANGK-shuhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -86,7 +86,7 @@ export const wordsEveryday = [
   {
     "id": "nervous",
     "word": "Nervous",
-    "pronunciation": "NERV-uhs",
+    "pronunciation": "NER-vuhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -125,7 +125,7 @@ export const wordsEveryday = [
   {
     "id": "arrogant",
     "word": "Arrogant",
-    "pronunciation": "EHR-uhg-uhnt",
+    "pronunciation": "EHR-uh-guhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -138,7 +138,7 @@ export const wordsEveryday = [
   {
     "id": "optimistic",
     "word": "Optimistic",
-    "pronunciation": "ahp-tuhm-IHS-tihk",
+    "pronunciation": "ahp-tuh-MIHS-tihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -151,7 +151,7 @@ export const wordsEveryday = [
   {
     "id": "pessimistic",
     "word": "Pessimistic",
-    "pronunciation": "pehs-uhm-IHS-tihk",
+    "pronunciation": "pehs-uh-MIHS-tihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -164,7 +164,7 @@ export const wordsEveryday = [
   {
     "id": "cautious",
     "word": "Cautious",
-    "pronunciation": "KAWSH-uhs",
+    "pronunciation": "KAW-shuhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -190,7 +190,7 @@ export const wordsEveryday = [
   {
     "id": "determined",
     "word": "Determined",
-    "pronunciation": "diht-ERM-uhnd",
+    "pronunciation": "dih-TER-muhnd",
     "deck": "everyday",
     "meanings": [
       {
@@ -203,7 +203,7 @@ export const wordsEveryday = [
   {
     "id": "flexible",
     "word": "Flexible",
-    "pronunciation": "FLEHK-suhb-uhl",
+    "pronunciation": "FLEHK-suh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -216,7 +216,7 @@ export const wordsEveryday = [
   {
     "id": "independent",
     "word": "Independent",
-    "pronunciation": "ihn-dihp-EHN-duhnt",
+    "pronunciation": "ihn-dih-PEHN-duhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -242,7 +242,7 @@ export const wordsEveryday = [
   {
     "id": "patient",
     "word": "Patient",
-    "pronunciation": "PAYSH-uhnt",
+    "pronunciation": "PAY-shuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -255,7 +255,7 @@ export const wordsEveryday = [
   {
     "id": "polite",
     "word": "Polite",
-    "pronunciation": "puhl-AHYT",
+    "pronunciation": "puh-LAHYT",
     "deck": "everyday",
     "meanings": [
       {
@@ -307,7 +307,7 @@ export const wordsEveryday = [
   {
     "id": "tolerant",
     "word": "Tolerant",
-    "pronunciation": "TAHL-er-uhnt",
+    "pronunciation": "TAH-ler-uhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -359,7 +359,7 @@ export const wordsEveryday = [
   {
     "id": "relieved",
     "word": "Relieved",
-    "pronunciation": "rihl-EEVD",
+    "pronunciation": "rih-LEEVD",
     "deck": "everyday",
     "meanings": [
       {
@@ -372,7 +372,7 @@ export const wordsEveryday = [
   {
     "id": "suspicious",
     "word": "Suspicious",
-    "pronunciation": "suhs-PIHSH-uhs",
+    "pronunciation": "suh-SPIHSH-uhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -385,7 +385,7 @@ export const wordsEveryday = [
   {
     "id": "reluctant",
     "word": "Reluctant",
-    "pronunciation": "rihl-UHK-tuhnt",
+    "pronunciation": "rih-LUHK-tuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -411,7 +411,7 @@ export const wordsEveryday = [
   {
     "id": "exhausted",
     "word": "Exhausted",
-    "pronunciation": "ihg-ZAWS-tihd",
+    "pronunciation": "ihg-ZAW-stihd",
     "deck": "everyday",
     "meanings": [
       {
@@ -424,7 +424,7 @@ export const wordsEveryday = [
   {
     "id": "hesitant",
     "word": "Hesitant",
-    "pronunciation": "HEHZ-iht-uhnt",
+    "pronunciation": "HEHZ-ih-tuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -463,7 +463,7 @@ export const wordsEveryday = [
   {
     "id": "motivated",
     "word": "Motivated",
-    "pronunciation": "MOHT-uhv-ayt-uhd",
+    "pronunciation": "MOH-tuh-vay-tuhd",
     "deck": "everyday",
     "meanings": [
       {
@@ -476,7 +476,7 @@ export const wordsEveryday = [
   {
     "id": "sympathetic",
     "word": "Sympathetic",
-    "pronunciation": "sihm-puhth-EHT-ihk",
+    "pronunciation": "sihm-puh-THEHT-ihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -489,7 +489,7 @@ export const wordsEveryday = [
   {
     "id": "confident",
     "word": "Confident",
-    "pronunciation": "KAHN-fuhd-uhnt",
+    "pronunciation": "KAHN-fuh-duhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -515,7 +515,7 @@ export const wordsEveryday = [
   {
     "id": "frustrated",
     "word": "Frustrated",
-    "pronunciation": "FRUHS-trayt-uhd",
+    "pronunciation": "FRUHS-tray-tuhd",
     "deck": "everyday",
     "meanings": [
       {
@@ -528,7 +528,7 @@ export const wordsEveryday = [
   {
     "id": "reliable",
     "word": "Reliable",
-    "pronunciation": "rihl-AHY-uhb-uhl",
+    "pronunciation": "rih-LAHY-uh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -541,7 +541,7 @@ export const wordsEveryday = [
   {
     "id": "genuine",
     "word": "Genuine",
-    "pronunciation": "JEHN-yuhw-uhn",
+    "pronunciation": "JEHN-yuh-wuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -554,7 +554,7 @@ export const wordsEveryday = [
   {
     "id": "insecure",
     "word": "Insecure",
-    "pronunciation": "IHN-suhk-yer",
+    "pronunciation": "IHN-suh-kyer",
     "deck": "everyday",
     "meanings": [
       {
@@ -580,7 +580,7 @@ export const wordsEveryday = [
   {
     "id": "irritable",
     "word": "Irritable",
-    "pronunciation": "IHR-uht-uhb-uhl",
+    "pronunciation": "IHR-uh-tuh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -593,7 +593,7 @@ export const wordsEveryday = [
   {
     "id": "crisis",
     "word": "Crisis",
-    "pronunciation": "KRAHYS-uhs",
+    "pronunciation": "KRAHY-suhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -606,7 +606,7 @@ export const wordsEveryday = [
   {
     "id": "controversy",
     "word": "Controversy",
-    "pronunciation": "KAHN-truhv-ers-ee",
+    "pronunciation": "KAHN-truh-ver-see",
     "deck": "everyday",
     "meanings": [
       {
@@ -632,7 +632,7 @@ export const wordsEveryday = [
   {
     "id": "protest",
     "word": "Protest",
-    "pronunciation": "PROHT-ehst",
+    "pronunciation": "PROH-tehst",
     "deck": "everyday",
     "meanings": [
       {
@@ -650,7 +650,7 @@ export const wordsEveryday = [
   {
     "id": "negotiation",
     "word": "Negotiation",
-    "pronunciation": "nihg-ohsh-ee-AYSH-uhn",
+    "pronunciation": "nih-goh-shee-AY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -676,7 +676,7 @@ export const wordsEveryday = [
   {
     "id": "consequence",
     "word": "Consequence",
-    "pronunciation": "KAHN-suhk-wuhns",
+    "pronunciation": "KAHN-suh-kwuhns",
     "deck": "everyday",
     "meanings": [
       {
@@ -689,7 +689,7 @@ export const wordsEveryday = [
   {
     "id": "evidence",
     "word": "Evidence",
-    "pronunciation": "EHV-uhd-uhns",
+    "pronunciation": "EHV-uh-duhns",
     "deck": "everyday",
     "meanings": [
       {
@@ -702,7 +702,7 @@ export const wordsEveryday = [
   {
     "id": "investigation",
     "word": "Investigation",
-    "pronunciation": "ihn-vehs-tuhg-AYSH-uhn",
+    "pronunciation": "ihn-vehs-tuh-GAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -715,7 +715,7 @@ export const wordsEveryday = [
   {
     "id": "announcement",
     "word": "Announcement",
-    "pronunciation": "uhn-OWN-smuhnt",
+    "pronunciation": "uh-NOWN-smuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -741,7 +741,7 @@ export const wordsEveryday = [
   {
     "id": "incident",
     "word": "Incident",
-    "pronunciation": "IHN-suhd-uhnt",
+    "pronunciation": "IHN-suh-duhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -754,7 +754,7 @@ export const wordsEveryday = [
   {
     "id": "initiative",
     "word": "Initiative",
-    "pronunciation": "ihn-IHSH-uht-ihv",
+    "pronunciation": "ihn-IHSH-uh-tihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -772,7 +772,7 @@ export const wordsEveryday = [
   {
     "id": "strategy",
     "word": "Strategy",
-    "pronunciation": "STRAT-uhj-ee",
+    "pronunciation": "STRAT-uh-jee",
     "deck": "everyday",
     "meanings": [
       {
@@ -785,7 +785,7 @@ export const wordsEveryday = [
   {
     "id": "policy",
     "word": "Policy",
-    "pronunciation": "PAHL-uhs-ee",
+    "pronunciation": "PAH-luh-see",
     "deck": "everyday",
     "meanings": [
       {
@@ -798,7 +798,7 @@ export const wordsEveryday = [
   {
     "id": "reform",
     "word": "Reform",
-    "pronunciation": "ruhf-AWRM",
+    "pronunciation": "ruh-FAWRM",
     "deck": "everyday",
     "meanings": [
       {
@@ -829,7 +829,7 @@ export const wordsEveryday = [
   {
     "id": "candidate",
     "word": "Candidate",
-    "pronunciation": "KAN-duhd-ayt",
+    "pronunciation": "KAN-duh-dayt",
     "deck": "everyday",
     "meanings": [
       {
@@ -842,7 +842,7 @@ export const wordsEveryday = [
   {
     "id": "majority",
     "word": "Majority",
-    "pronunciation": "muhj-AWR-uht-ee",
+    "pronunciation": "muh-JAW-ruh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -855,7 +855,7 @@ export const wordsEveryday = [
   {
     "id": "minority",
     "word": "Minority",
-    "pronunciation": "mahyn-AWR-uht-ee",
+    "pronunciation": "mahy-NAW-ruh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -868,7 +868,7 @@ export const wordsEveryday = [
   {
     "id": "coalition",
     "word": "Coalition",
-    "pronunciation": "koh-uhl-IHSH-uhn",
+    "pronunciation": "koh-uh-LIHSH-uhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -881,7 +881,7 @@ export const wordsEveryday = [
   {
     "id": "legislation",
     "word": "Legislation",
-    "pronunciation": "lehj-uhs-LAYSH-uhn",
+    "pronunciation": "lehj-uh-SLAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -894,7 +894,7 @@ export const wordsEveryday = [
   {
     "id": "treaty",
     "word": "Treaty",
-    "pronunciation": "TREET-ee",
+    "pronunciation": "TREE-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -907,7 +907,7 @@ export const wordsEveryday = [
   {
     "id": "accountable",
     "word": "Accountable",
-    "pronunciation": "uhk-OWN-tuhb-uhl",
+    "pronunciation": "uh-KOWN-tuh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -946,7 +946,7 @@ export const wordsEveryday = [
   {
     "id": "accusation",
     "word": "Accusation",
-    "pronunciation": "ak-yuhz-AYSH-uhn",
+    "pronunciation": "ak-yuh-ZAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -959,7 +959,7 @@ export const wordsEveryday = [
   {
     "id": "allegation",
     "word": "Allegation",
-    "pronunciation": "al-uhg-AYSH-uhn",
+    "pronunciation": "al-uh-GAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -972,7 +972,7 @@ export const wordsEveryday = [
   {
     "id": "testimony",
     "word": "Testimony",
-    "pronunciation": "TEHS-tuhm-ohn-ee",
+    "pronunciation": "TEHS-tuh-moh-nee",
     "deck": "everyday",
     "meanings": [
       {
@@ -985,7 +985,7 @@ export const wordsEveryday = [
   {
     "id": "verdict",
     "word": "Verdict",
-    "pronunciation": "VERD-ihkt",
+    "pronunciation": "VER-dihkt",
     "deck": "everyday",
     "meanings": [
       {
@@ -998,7 +998,7 @@ export const wordsEveryday = [
   {
     "id": "custody",
     "word": "Custody",
-    "pronunciation": "KUHS-tuhd-ee",
+    "pronunciation": "KUHS-tuh-dee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1011,7 +1011,7 @@ export const wordsEveryday = [
   {
     "id": "petition",
     "word": "Petition",
-    "pronunciation": "puht-IHSH-uhn",
+    "pronunciation": "puh-TIHSH-uhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1024,7 +1024,7 @@ export const wordsEveryday = [
   {
     "id": "advocate",
     "word": "Advocate",
-    "pronunciation": "AD-vuhk-uht",
+    "pronunciation": "AD-vuh-kuht",
     "deck": "everyday",
     "meanings": [
       {
@@ -1042,7 +1042,7 @@ export const wordsEveryday = [
   {
     "id": "lawsuit",
     "word": "Lawsuit",
-    "pronunciation": "LAWS-oot",
+    "pronunciation": "LAW-soot",
     "deck": "everyday",
     "meanings": [
       {
@@ -1055,7 +1055,7 @@ export const wordsEveryday = [
   {
     "id": "compensation",
     "word": "Compensation",
-    "pronunciation": "kahm-puhn-SAYSH-uhn",
+    "pronunciation": "kahm-puhn-SAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1068,7 +1068,7 @@ export const wordsEveryday = [
   {
     "id": "regulation",
     "word": "Regulation",
-    "pronunciation": "rehg-yuhl-AYSH-uhn",
+    "pronunciation": "rehg-yuh-LAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1081,7 +1081,7 @@ export const wordsEveryday = [
   {
     "id": "violation",
     "word": "Violation",
-    "pronunciation": "vahy-uhl-AYSH-uhn",
+    "pronunciation": "vahy-uh-LAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1094,7 +1094,7 @@ export const wordsEveryday = [
   {
     "id": "negotiate",
     "word": "Negotiate",
-    "pronunciation": "nuhg-OHSH-ee-ayt",
+    "pronunciation": "nuh-GOH-shee-ayt",
     "deck": "everyday",
     "meanings": [
       {
@@ -1107,7 +1107,7 @@ export const wordsEveryday = [
   {
     "id": "controversial",
     "word": "Controversial",
-    "pronunciation": "kahn-truhv-ERSH-uhl",
+    "pronunciation": "kahn-truh-VER-shuhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -1133,7 +1133,7 @@ export const wordsEveryday = [
   {
     "id": "ceasefire",
     "word": "Ceasefire",
-    "pronunciation": "SEES-FAHY-er",
+    "pronunciation": "SEE-SFAHY-er",
     "deck": "everyday",
     "meanings": [
       {
@@ -1146,7 +1146,7 @@ export const wordsEveryday = [
   {
     "id": "sanction",
     "word": "Sanction",
-    "pronunciation": "SANG-kshuhn",
+    "pronunciation": "SANGK-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1159,7 +1159,7 @@ export const wordsEveryday = [
   {
     "id": "insurgency",
     "word": "Insurgency",
-    "pronunciation": "ihn-SERJ-uhn-see",
+    "pronunciation": "ihn-SER-juhn-see",
     "deck": "everyday",
     "meanings": [
       {
@@ -1172,7 +1172,7 @@ export const wordsEveryday = [
   {
     "id": "displacement",
     "word": "Displacement",
-    "pronunciation": "dihs-PLAYS-muhnt",
+    "pronunciation": "dih-SPLAY-smuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -1185,7 +1185,7 @@ export const wordsEveryday = [
   {
     "id": "economy",
     "word": "Economy",
-    "pronunciation": "ihk-AHN-uhm-ee",
+    "pronunciation": "ih-KAH-nuh-mee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1198,7 +1198,7 @@ export const wordsEveryday = [
   {
     "id": "inflation",
     "word": "Inflation",
-    "pronunciation": "ihn-FLAYSH-uhn",
+    "pronunciation": "ihn-FLAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1229,7 +1229,7 @@ export const wordsEveryday = [
   {
     "id": "revenue",
     "word": "Revenue",
-    "pronunciation": "REHV-uhn-oo",
+    "pronunciation": "REHV-uh-noo",
     "deck": "everyday",
     "meanings": [
       {
@@ -1242,7 +1242,7 @@ export const wordsEveryday = [
   {
     "id": "investment",
     "word": "Investment",
-    "pronunciation": "ihn-VEHS-tmuhnt",
+    "pronunciation": "ihn-VEHST-muhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -1255,7 +1255,7 @@ export const wordsEveryday = [
   {
     "id": "unemployment",
     "word": "Unemployment",
-    "pronunciation": "uhn-ihm-PLOYM-uhnt",
+    "pronunciation": "uhn-ihm-PLOY-muhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -1268,7 +1268,7 @@ export const wordsEveryday = [
   {
     "id": "recession",
     "word": "Recession",
-    "pronunciation": "rihs-EHSH-uhn",
+    "pronunciation": "rih-SEHSH-uhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1281,7 +1281,7 @@ export const wordsEveryday = [
   {
     "id": "merger",
     "word": "Merger",
-    "pronunciation": "MERJ-er",
+    "pronunciation": "MER-jer",
     "deck": "everyday",
     "meanings": [
       {
@@ -1307,7 +1307,7 @@ export const wordsEveryday = [
   {
     "id": "innovation",
     "word": "Innovation",
-    "pronunciation": "ihn-uhv-AYSH-uhn",
+    "pronunciation": "ihn-uh-VAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1320,7 +1320,7 @@ export const wordsEveryday = [
   {
     "id": "deficit",
     "word": "Deficit",
-    "pronunciation": "DEHF-uhs-uht",
+    "pronunciation": "DEHF-uh-suht",
     "deck": "everyday",
     "meanings": [
       {
@@ -1333,7 +1333,7 @@ export const wordsEveryday = [
   {
     "id": "surplus",
     "word": "Surplus",
-    "pronunciation": "SERP-luhs",
+    "pronunciation": "SER-pluhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -1372,7 +1372,7 @@ export const wordsEveryday = [
   {
     "id": "monopoly",
     "word": "Monopoly",
-    "pronunciation": "muhn-AHP-uhl-ee",
+    "pronunciation": "muh-NAH-puh-lee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1385,7 +1385,7 @@ export const wordsEveryday = [
   {
     "id": "entrepreneur",
     "word": "Entrepreneur",
-    "pronunciation": "ahn-truhp-ruhn-ER",
+    "pronunciation": "ahn-truh-pruh-NER",
     "deck": "everyday",
     "meanings": [
       {
@@ -1424,7 +1424,7 @@ export const wordsEveryday = [
   {
     "id": "recruitment",
     "word": "Recruitment",
-    "pronunciation": "ruhk-ROOT-muhnt",
+    "pronunciation": "ruh-KROOT-muhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -1437,7 +1437,7 @@ export const wordsEveryday = [
   {
     "id": "productivity",
     "word": "Productivity",
-    "pronunciation": "prohd-uhk-TIHV-uht-ee",
+    "pronunciation": "proh-duhk-TIHV-uh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1450,7 +1450,7 @@ export const wordsEveryday = [
   {
     "id": "turnover",
     "word": "Turnover",
-    "pronunciation": "TERN-ohv-er",
+    "pronunciation": "TER-noh-ver",
     "deck": "everyday",
     "meanings": [
       {
@@ -1463,7 +1463,7 @@ export const wordsEveryday = [
   {
     "id": "commodity",
     "word": "Commodity",
-    "pronunciation": "kuhm-AHD-uht-ee",
+    "pronunciation": "kuh-MAH-duh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1476,7 +1476,7 @@ export const wordsEveryday = [
   {
     "id": "efficient",
     "word": "Efficient",
-    "pronunciation": "ihf-IHSH-uhnt",
+    "pronunciation": "ih-FIHSH-uhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -1489,7 +1489,7 @@ export const wordsEveryday = [
   {
     "id": "subsidy",
     "word": "Subsidy",
-    "pronunciation": "SUHB-sihd-ee",
+    "pronunciation": "SUHB-sih-dee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1554,7 +1554,7 @@ export const wordsEveryday = [
   {
     "id": "device",
     "word": "Device",
-    "pronunciation": "dihv-AHYS",
+    "pronunciation": "dih-VAHYS",
     "deck": "everyday",
     "meanings": [
       {
@@ -1585,7 +1585,7 @@ export const wordsEveryday = [
   {
     "id": "feature",
     "word": "Feature",
-    "pronunciation": "FEECH-er",
+    "pronunciation": "FEE-cher",
     "deck": "everyday",
     "meanings": [
       {
@@ -1616,7 +1616,7 @@ export const wordsEveryday = [
   {
     "id": "privacy",
     "word": "Privacy",
-    "pronunciation": "PRAHYV-uhs-ee",
+    "pronunciation": "PRAHY-vuh-see",
     "deck": "everyday",
     "meanings": [
       {
@@ -1629,7 +1629,7 @@ export const wordsEveryday = [
   {
     "id": "security",
     "word": "Security",
-    "pronunciation": "sihk-YUUR-uht-ee",
+    "pronunciation": "sih-KYUUR-uh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1707,7 +1707,7 @@ export const wordsEveryday = [
   {
     "id": "interface",
     "word": "Interface",
-    "pronunciation": "IHN-terf-ays",
+    "pronunciation": "IHN-ter-fays",
     "deck": "everyday",
     "meanings": [
       {
@@ -1746,7 +1746,7 @@ export const wordsEveryday = [
   {
     "id": "automation",
     "word": "Automation",
-    "pronunciation": "awt-uhm-AYSH-uhn",
+    "pronunciation": "aw-tuh-MAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1759,7 +1759,7 @@ export const wordsEveryday = [
   {
     "id": "artificial",
     "word": "Artificial",
-    "pronunciation": "ahr-tuhf-IHSH-uhl",
+    "pronunciation": "ahr-tuh-FIHSH-uhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -1772,7 +1772,7 @@ export const wordsEveryday = [
   {
     "id": "renewable",
     "word": "Renewable",
-    "pronunciation": "reen-OO-uhb-uhl",
+    "pronunciation": "ree-NOO-uh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -1785,7 +1785,7 @@ export const wordsEveryday = [
   {
     "id": "sustainable",
     "word": "Sustainable",
-    "pronunciation": "suhs-TAYN-uhb-uhl",
+    "pronunciation": "suh-STAY-nuh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -1798,7 +1798,7 @@ export const wordsEveryday = [
   {
     "id": "emission",
     "word": "Emission",
-    "pronunciation": "ihm-IHSH-uhn",
+    "pronunciation": "ih-MIHSH-uhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1811,7 +1811,7 @@ export const wordsEveryday = [
   {
     "id": "pollution",
     "word": "Pollution",
-    "pronunciation": "puhl-OOSH-uhn",
+    "pronunciation": "puh-LOO-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1824,7 +1824,7 @@ export const wordsEveryday = [
   {
     "id": "deforestation",
     "word": "Deforestation",
-    "pronunciation": "dihf-awr-ihs-TAYSH-uhn",
+    "pronunciation": "dih-faw-rih-STAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1850,7 +1850,7 @@ export const wordsEveryday = [
   {
     "id": "habitat",
     "word": "Habitat",
-    "pronunciation": "HAB-uht-at",
+    "pronunciation": "HAB-uh-tat",
     "deck": "everyday",
     "meanings": [
       {
@@ -1863,7 +1863,7 @@ export const wordsEveryday = [
   {
     "id": "ecosystem",
     "word": "Ecosystem",
-    "pronunciation": "EEK-ohs-ihs-tuhm",
+    "pronunciation": "EE-koh-sihs-tuhm",
     "deck": "everyday",
     "meanings": [
       {
@@ -1876,7 +1876,7 @@ export const wordsEveryday = [
   {
     "id": "extinction",
     "word": "Extinction",
-    "pronunciation": "ihk-STIHNG-kshuhn",
+    "pronunciation": "ihk-STIHNGK-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1902,7 +1902,7 @@ export const wordsEveryday = [
   {
     "id": "diagnosis",
     "word": "Diagnosis",
-    "pronunciation": "dahy-uhg-NOHS-uhs",
+    "pronunciation": "dahy-uhg-NOH-suhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -1928,7 +1928,7 @@ export const wordsEveryday = [
   {
     "id": "chronic",
     "word": "Chronic",
-    "pronunciation": "KRAHN-ihk",
+    "pronunciation": "KRAH-nihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -1941,7 +1941,7 @@ export const wordsEveryday = [
   {
     "id": "allergic",
     "word": "Allergic",
-    "pronunciation": "uhl-ERJ-ihk",
+    "pronunciation": "uh-LER-jihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -1954,7 +1954,7 @@ export const wordsEveryday = [
   {
     "id": "nutrition",
     "word": "Nutrition",
-    "pronunciation": "noot-RIHSH-uhn",
+    "pronunciation": "noo-TRIHSH-uhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -1967,7 +1967,7 @@ export const wordsEveryday = [
   {
     "id": "hygiene",
     "word": "Hygiene",
-    "pronunciation": "HAHYJ-een",
+    "pronunciation": "HAHY-jeen",
     "deck": "everyday",
     "meanings": [
       {
@@ -1980,7 +1980,7 @@ export const wordsEveryday = [
   {
     "id": "therapy",
     "word": "Therapy",
-    "pronunciation": "THEHR-uhp-ee",
+    "pronunciation": "THEHR-uh-pee",
     "deck": "everyday",
     "meanings": [
       {
@@ -1993,7 +1993,7 @@ export const wordsEveryday = [
   {
     "id": "prescription",
     "word": "Prescription",
-    "pronunciation": "pruhs-KRIHP-shuhn",
+    "pronunciation": "pruh-SKRIHP-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -2006,7 +2006,7 @@ export const wordsEveryday = [
   {
     "id": "obesity",
     "word": "Obesity",
-    "pronunciation": "ohb-EES-uht-ee",
+    "pronunciation": "oh-BEE-suh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -2019,7 +2019,7 @@ export const wordsEveryday = [
   {
     "id": "depression",
     "word": "Depression",
-    "pronunciation": "dihp-REHSH-uhn",
+    "pronunciation": "dih-PREHSH-uhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -2045,7 +2045,7 @@ export const wordsEveryday = [
   {
     "id": "fatigue",
     "word": "Fatigue",
-    "pronunciation": "fuht-EEG",
+    "pronunciation": "fuh-TEEG",
     "deck": "everyday",
     "meanings": [
       {
@@ -2058,7 +2058,7 @@ export const wordsEveryday = [
   {
     "id": "contagious",
     "word": "Contagious",
-    "pronunciation": "kuhn-TAYJ-uhs",
+    "pronunciation": "kuhn-TAY-juhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -2084,7 +2084,7 @@ export const wordsEveryday = [
   {
     "id": "antibiotic",
     "word": "Antibiotic",
-    "pronunciation": "an-teeb-ahy-AHT-ihk",
+    "pronunciation": "an-tee-bahy-AH-tihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -2097,7 +2097,7 @@ export const wordsEveryday = [
   {
     "id": "infrastructure",
     "word": "Infrastructure",
-    "pronunciation": "ihn-fruhs-TRUHK-cher",
+    "pronunciation": "ihn-fruh-STRUHK-cher",
     "deck": "everyday",
     "meanings": [
       {
@@ -2110,7 +2110,7 @@ export const wordsEveryday = [
   {
     "id": "biometric",
     "word": "Biometric",
-    "pronunciation": "bahy-uhm-EHT-ruhk",
+    "pronunciation": "bahy-uh-MEHT-ruhk",
     "deck": "everyday",
     "meanings": [
       {
@@ -2123,7 +2123,7 @@ export const wordsEveryday = [
   {
     "id": "symptom",
     "word": "Symptom",
-    "pronunciation": "SIHM-ptuhm",
+    "pronunciation": "SIHMP-tuhm",
     "deck": "everyday",
     "meanings": [
       {
@@ -2136,7 +2136,7 @@ export const wordsEveryday = [
   {
     "id": "dosage",
     "word": "Dosage",
-    "pronunciation": "DOHS-uhj",
+    "pronunciation": "DOH-suhj",
     "deck": "everyday",
     "meanings": [
       {
@@ -2149,7 +2149,7 @@ export const wordsEveryday = [
   {
     "id": "acquaintance",
     "word": "Acquaintance",
-    "pronunciation": "uhk-WAYN-tuhns",
+    "pronunciation": "uh-KWAYN-tuhns",
     "deck": "everyday",
     "meanings": [
       {
@@ -2175,7 +2175,7 @@ export const wordsEveryday = [
   {
     "id": "rumor",
     "word": "Rumor",
-    "pronunciation": "ROOM-er",
+    "pronunciation": "ROO-mer",
     "deck": "everyday",
     "meanings": [
       {
@@ -2188,7 +2188,7 @@ export const wordsEveryday = [
   {
     "id": "gossip",
     "word": "Gossip",
-    "pronunciation": "GAHS-uhp",
+    "pronunciation": "GAH-suhp",
     "deck": "everyday",
     "meanings": [
       {
@@ -2206,7 +2206,7 @@ export const wordsEveryday = [
   {
     "id": "apology",
     "word": "Apology",
-    "pronunciation": "uhp-AHL-uhj-ee",
+    "pronunciation": "uh-PAH-luh-jee",
     "deck": "everyday",
     "meanings": [
       {
@@ -2219,7 +2219,7 @@ export const wordsEveryday = [
   {
     "id": "compliment",
     "word": "Compliment",
-    "pronunciation": "KAHM-pluhm-ehnt",
+    "pronunciation": "KAHM-pluh-mehnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -2245,7 +2245,7 @@ export const wordsEveryday = [
   {
     "id": "awkward",
     "word": "Awkward",
-    "pronunciation": "AHK-werd",
+    "pronunciation": "AH-kwerd",
     "deck": "everyday",
     "meanings": [
       {
@@ -2284,7 +2284,7 @@ export const wordsEveryday = [
   {
     "id": "tactless",
     "word": "Tactless",
-    "pronunciation": "TAK-tluhs",
+    "pronunciation": "TAKT-luhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -2297,7 +2297,7 @@ export const wordsEveryday = [
   {
     "id": "diplomatic",
     "word": "Diplomatic",
-    "pronunciation": "dihp-luhm-AT-ihk",
+    "pronunciation": "dihp-luh-MAT-ihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -2323,7 +2323,7 @@ export const wordsEveryday = [
   {
     "id": "supportive",
     "word": "Supportive",
-    "pronunciation": "suhp-AWR-tihv",
+    "pronunciation": "suh-PAWR-tihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -2336,7 +2336,7 @@ export const wordsEveryday = [
   {
     "id": "dependable",
     "word": "Dependable",
-    "pronunciation": "dihp-EHN-duhb-uhl",
+    "pronunciation": "dih-PEHN-duh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -2349,7 +2349,7 @@ export const wordsEveryday = [
   {
     "id": "trustworthy",
     "word": "Trustworthy",
-    "pronunciation": "TRUHS-twerth-ee",
+    "pronunciation": "TRUHS-twer-thee",
     "deck": "everyday",
     "meanings": [
       {
@@ -2362,7 +2362,7 @@ export const wordsEveryday = [
   {
     "id": "affectionate",
     "word": "Affectionate",
-    "pronunciation": "uhf-EHK-shuhn-uht",
+    "pronunciation": "uh-FEHK-shuh-nuht",
     "deck": "everyday",
     "meanings": [
       {
@@ -2375,7 +2375,7 @@ export const wordsEveryday = [
   {
     "id": "possessive",
     "word": "Possessive",
-    "pronunciation": "puhz-EHS-ihv",
+    "pronunciation": "puh-ZEHS-ihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -2414,7 +2414,7 @@ export const wordsEveryday = [
   {
     "id": "introvert",
     "word": "Introvert",
-    "pronunciation": "IHN-trohv-ert",
+    "pronunciation": "IHN-troh-vert",
     "deck": "everyday",
     "meanings": [
       {
@@ -2427,7 +2427,7 @@ export const wordsEveryday = [
   {
     "id": "extrovert",
     "word": "Extrovert",
-    "pronunciation": "EHK-struhv-ert",
+    "pronunciation": "EHK-struh-vert",
     "deck": "everyday",
     "meanings": [
       {
@@ -2440,7 +2440,7 @@ export const wordsEveryday = [
   {
     "id": "empathetic",
     "word": "Empathetic",
-    "pronunciation": "ehm-puhth-EHT-ihk",
+    "pronunciation": "ehm-puh-THEHT-ihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -2453,7 +2453,7 @@ export const wordsEveryday = [
   {
     "id": "assertive",
     "word": "Assertive",
-    "pronunciation": "uhs-ERT-ihv",
+    "pronunciation": "uh-SER-tihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -2466,7 +2466,7 @@ export const wordsEveryday = [
   {
     "id": "compromise",
     "word": "Compromise",
-    "pronunciation": "KAHM-pruhm-ahyz",
+    "pronunciation": "KAHM-pruh-mahyz",
     "deck": "everyday",
     "meanings": [
       {
@@ -2510,7 +2510,7 @@ export const wordsEveryday = [
   {
     "id": "betrayal",
     "word": "Betrayal",
-    "pronunciation": "biht-RAY-uhl",
+    "pronunciation": "bih-TRAY-uhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -2523,7 +2523,7 @@ export const wordsEveryday = [
   {
     "id": "infatuation",
     "word": "Infatuation",
-    "pronunciation": "ihn-fach-oo-AYSH-uhn",
+    "pronunciation": "ihn-fach-oo-AY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -2536,7 +2536,7 @@ export const wordsEveryday = [
   {
     "id": "commitment",
     "word": "Commitment",
-    "pronunciation": "kuhm-IHT-muhnt",
+    "pronunciation": "kuh-MIHT-muhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -2562,7 +2562,7 @@ export const wordsEveryday = [
   {
     "id": "nostalgia",
     "word": "Nostalgia",
-    "pronunciation": "naws-TAL-juh",
+    "pronunciation": "naw-STAL-juh",
     "deck": "everyday",
     "meanings": [
       {
@@ -2575,7 +2575,7 @@ export const wordsEveryday = [
   {
     "id": "anticipation",
     "word": "Anticipation",
-    "pronunciation": "an-tihs-uhp-AYSH-uhn",
+    "pronunciation": "an-tihs-uh-PAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -2601,7 +2601,7 @@ export const wordsEveryday = [
   {
     "id": "estranged",
     "word": "Estranged",
-    "pronunciation": "ehs-TRAYNJD",
+    "pronunciation": "eh-STRAYNJD",
     "deck": "everyday",
     "meanings": [
       {
@@ -2614,7 +2614,7 @@ export const wordsEveryday = [
   {
     "id": "celebrity",
     "word": "Celebrity",
-    "pronunciation": "suhl-EHB-riht-ee",
+    "pronunciation": "suh-LEHB-rih-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -2653,7 +2653,7 @@ export const wordsEveryday = [
   {
     "id": "critique",
     "word": "Critique",
-    "pronunciation": "kruht-EEK",
+    "pronunciation": "kruh-TEEK",
     "deck": "everyday",
     "meanings": [
       {
@@ -2684,7 +2684,7 @@ export const wordsEveryday = [
   {
     "id": "parody",
     "word": "Parody",
-    "pronunciation": "PEHR-uhd-ee",
+    "pronunciation": "PEHR-uh-dee",
     "deck": "everyday",
     "meanings": [
       {
@@ -2697,7 +2697,7 @@ export const wordsEveryday = [
   {
     "id": "adaptation",
     "word": "Adaptation",
-    "pronunciation": "ad-uhp-TAYSH-uhn",
+    "pronunciation": "ad-uhp-TAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -2710,7 +2710,7 @@ export const wordsEveryday = [
   {
     "id": "sequel",
     "word": "Sequel",
-    "pronunciation": "SEEK-wuhl",
+    "pronunciation": "SEE-kwuhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -2749,7 +2749,7 @@ export const wordsEveryday = [
   {
     "id": "narrative",
     "word": "Narrative",
-    "pronunciation": "NAR-uht-ihv",
+    "pronunciation": "NAR-uh-tihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -2762,7 +2762,7 @@ export const wordsEveryday = [
   {
     "id": "soundtrack",
     "word": "Soundtrack",
-    "pronunciation": "SOWN-dtrak",
+    "pronunciation": "SOWND-trak",
     "deck": "everyday",
     "meanings": [
       {
@@ -2819,7 +2819,7 @@ export const wordsEveryday = [
   {
     "id": "editorial",
     "word": "Editorial",
-    "pronunciation": "ehd-uht-AWR-ee-uhl",
+    "pronunciation": "ehd-uh-TAW-ree-uhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -2832,7 +2832,7 @@ export const wordsEveryday = [
   {
     "id": "censorship",
     "word": "Censorship",
-    "pronunciation": "SEHN-sersh-ihp",
+    "pronunciation": "SEHN-ser-shihp",
     "deck": "everyday",
     "meanings": [
       {
@@ -2845,7 +2845,7 @@ export const wordsEveryday = [
   {
     "id": "propaganda",
     "word": "Propaganda",
-    "pronunciation": "prahp-uhg-AN-duh",
+    "pronunciation": "prah-puh-GAN-duh",
     "deck": "everyday",
     "meanings": [
       {
@@ -2858,7 +2858,7 @@ export const wordsEveryday = [
   {
     "id": "stereotype",
     "word": "Stereotype",
-    "pronunciation": "STEHR-ee-uht-ahyp",
+    "pronunciation": "STEHR-ee-uh-tahyp",
     "deck": "everyday",
     "meanings": [
       {
@@ -2871,7 +2871,7 @@ export const wordsEveryday = [
   {
     "id": "discrimination",
     "word": "Discrimination",
-    "pronunciation": "dihs-krihm-uhn-AYSH-uhn",
+    "pronunciation": "dih-skrihm-uh-NAY-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -2884,7 +2884,7 @@ export const wordsEveryday = [
   {
     "id": "diversity",
     "word": "Diversity",
-    "pronunciation": "dihv-ERS-iht-ee",
+    "pronunciation": "dih-VER-sih-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -2897,7 +2897,7 @@ export const wordsEveryday = [
   {
     "id": "heritage",
     "word": "Heritage",
-    "pronunciation": "HEHR-uht-uhj",
+    "pronunciation": "HEHR-uh-tuhj",
     "deck": "everyday",
     "meanings": [
       {
@@ -2910,7 +2910,7 @@ export const wordsEveryday = [
   {
     "id": "tradition",
     "word": "Tradition",
-    "pronunciation": "truhd-IHSH-uhn",
+    "pronunciation": "truh-DIHSH-uhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -2949,7 +2949,7 @@ export const wordsEveryday = [
   {
     "id": "authentic",
     "word": "Authentic",
-    "pronunciation": "uhth-EHN-tihk",
+    "pronunciation": "uh-THEHN-tihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -2988,7 +2988,7 @@ export const wordsEveryday = [
   {
     "id": "viral",
     "word": "Viral",
-    "pronunciation": "VAHYR-uhl",
+    "pronunciation": "VAHY-ruhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3001,7 +3001,7 @@ export const wordsEveryday = [
   {
     "id": "phenomenon",
     "word": "Phenomenon",
-    "pronunciation": "fuhn-AHM-uhn-ahn",
+    "pronunciation": "fuh-NAH-muh-nahn",
     "deck": "everyday",
     "meanings": [
       {
@@ -3027,7 +3027,7 @@ export const wordsEveryday = [
   {
     "id": "paradox",
     "word": "Paradox",
-    "pronunciation": "PEHR-uhd-ahks",
+    "pronunciation": "PEHR-uh-dahks",
     "deck": "everyday",
     "meanings": [
       {
@@ -3040,7 +3040,7 @@ export const wordsEveryday = [
   {
     "id": "irony",
     "word": "Irony",
-    "pronunciation": "AHYR-uhn-ee",
+    "pronunciation": "AHY-ruh-nee",
     "deck": "everyday",
     "meanings": [
       {
@@ -3053,7 +3053,7 @@ export const wordsEveryday = [
   {
     "id": "coincidence",
     "word": "Coincidence",
-    "pronunciation": "koh-IHN-sihd-uhns",
+    "pronunciation": "koh-IHN-sih-duhns",
     "deck": "everyday",
     "meanings": [
       {
@@ -3066,7 +3066,7 @@ export const wordsEveryday = [
   {
     "id": "assumption",
     "word": "Assumption",
-    "pronunciation": "uhs-UHM-pshuhn",
+    "pronunciation": "uh-SUHMP-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -3079,7 +3079,7 @@ export const wordsEveryday = [
   {
     "id": "perception",
     "word": "Perception",
-    "pronunciation": "pers-EHP-shuhn",
+    "pronunciation": "per-SEHP-shuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -3092,7 +3092,7 @@ export const wordsEveryday = [
   {
     "id": "priority",
     "word": "Priority",
-    "pronunciation": "prahy-AWR-uht-ee",
+    "pronunciation": "prahy-AW-ruh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -3105,7 +3105,7 @@ export const wordsEveryday = [
   {
     "id": "perspective",
     "word": "Perspective",
-    "pronunciation": "pers-PEHK-tihv",
+    "pronunciation": "per-SPEHK-tihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -3118,7 +3118,7 @@ export const wordsEveryday = [
   {
     "id": "mindset",
     "word": "Mindset",
-    "pronunciation": "MAHYN-dseht",
+    "pronunciation": "MAHYND-seht",
     "deck": "everyday",
     "meanings": [
       {
@@ -3131,7 +3131,7 @@ export const wordsEveryday = [
   {
     "id": "motive",
     "word": "Motive",
-    "pronunciation": "MOHT-ihv",
+    "pronunciation": "MOH-tihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -3170,7 +3170,7 @@ export const wordsEveryday = [
   {
     "id": "dilemma",
     "word": "Dilemma",
-    "pronunciation": "dihl-EHM-uh",
+    "pronunciation": "dih-LEHM-uh",
     "deck": "everyday",
     "meanings": [
       {
@@ -3235,7 +3235,7 @@ export const wordsEveryday = [
   {
     "id": "versatile",
     "word": "Versatile",
-    "pronunciation": "VERS-uht-uhl",
+    "pronunciation": "VER-suh-tuhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3248,7 +3248,7 @@ export const wordsEveryday = [
   {
     "id": "feasible",
     "word": "Feasible",
-    "pronunciation": "FEEZ-uhb-uhl",
+    "pronunciation": "FEE-zuh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3261,7 +3261,7 @@ export const wordsEveryday = [
   {
     "id": "inevitable",
     "word": "Inevitable",
-    "pronunciation": "ihn-EHV-uht-uhb-uhl",
+    "pronunciation": "ihn-EHV-uh-tuh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3274,7 +3274,7 @@ export const wordsEveryday = [
   {
     "id": "plausible",
     "word": "Plausible",
-    "pronunciation": "PLAWZ-uhb-uhl",
+    "pronunciation": "PLAW-zuh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3300,7 +3300,7 @@ export const wordsEveryday = [
   {
     "id": "significant",
     "word": "Significant",
-    "pronunciation": "suhg-NIHF-ihk-uhnt",
+    "pronunciation": "suhg-NIHF-ih-kuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3365,7 +3365,7 @@ export const wordsEveryday = [
   {
     "id": "adequate",
     "word": "Adequate",
-    "pronunciation": "AD-uhk-wuht",
+    "pronunciation": "AD-uh-kwuht",
     "deck": "everyday",
     "meanings": [
       {
@@ -3378,7 +3378,7 @@ export const wordsEveryday = [
   {
     "id": "sufficient",
     "word": "Sufficient",
-    "pronunciation": "suhf-IHSH-uhnt",
+    "pronunciation": "suh-FIHSH-uhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3391,7 +3391,7 @@ export const wordsEveryday = [
   {
     "id": "redundant",
     "word": "Redundant",
-    "pronunciation": "rihd-UHN-duhnt",
+    "pronunciation": "rih-DUHN-duhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3404,7 +3404,7 @@ export const wordsEveryday = [
   {
     "id": "relevant",
     "word": "Relevant",
-    "pronunciation": "REHL-uhv-uhnt",
+    "pronunciation": "REHL-uh-vuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3430,7 +3430,7 @@ export const wordsEveryday = [
   {
     "id": "articulate",
     "word": "Articulate",
-    "pronunciation": "ahr-TIHK-yuhl-ayt",
+    "pronunciation": "ahr-TIHK-yuh-layt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3443,7 +3443,7 @@ export const wordsEveryday = [
   {
     "id": "credible",
     "word": "Credible",
-    "pronunciation": "KREHD-uhb-uhl",
+    "pronunciation": "KREHD-uh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3456,7 +3456,7 @@ export const wordsEveryday = [
   {
     "id": "cynical",
     "word": "Cynical",
-    "pronunciation": "SIHN-ihk-uhl",
+    "pronunciation": "SIHN-ih-kuhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3469,7 +3469,7 @@ export const wordsEveryday = [
   {
     "id": "dynamic",
     "word": "Dynamic",
-    "pronunciation": "dahyn-AM-ihk",
+    "pronunciation": "dahy-NAM-ihk",
     "deck": "everyday",
     "meanings": [
       {
@@ -3482,7 +3482,7 @@ export const wordsEveryday = [
   {
     "id": "elaborate",
     "word": "Elaborate",
-    "pronunciation": "ihl-AB-ruht",
+    "pronunciation": "ih-LAB-ruht",
     "deck": "everyday",
     "meanings": [
       {
@@ -3500,7 +3500,7 @@ export const wordsEveryday = [
   {
     "id": "eloquent",
     "word": "Eloquent",
-    "pronunciation": "EHL-uhk-wuhnt",
+    "pronunciation": "EHL-uh-kwuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3513,7 +3513,7 @@ export const wordsEveryday = [
   {
     "id": "formidable",
     "word": "Formidable",
-    "pronunciation": "FAWR-muhd-uhb-uhl",
+    "pronunciation": "FAWR-muh-duh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3539,7 +3539,7 @@ export const wordsEveryday = [
   {
     "id": "legitimate",
     "word": "Legitimate",
-    "pronunciation": "luhj-IHT-uhm-uht",
+    "pronunciation": "luh-JIHT-uh-muht",
     "deck": "everyday",
     "meanings": [
       {
@@ -3552,7 +3552,7 @@ export const wordsEveryday = [
   {
     "id": "meticulous",
     "word": "Meticulous",
-    "pronunciation": "muht-IHK-yuhl-uhs",
+    "pronunciation": "muh-TIHK-yuh-luhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -3565,7 +3565,7 @@ export const wordsEveryday = [
   {
     "id": "notorious",
     "word": "Notorious",
-    "pronunciation": "noht-AWR-ee-uhs",
+    "pronunciation": "noh-TAW-ree-uhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -3578,7 +3578,7 @@ export const wordsEveryday = [
   {
     "id": "outspoken",
     "word": "Outspoken",
-    "pronunciation": "OWT-SPOHK-uhn",
+    "pronunciation": "OWT-SPOH-kuhn",
     "deck": "everyday",
     "meanings": [
       {
@@ -3591,7 +3591,7 @@ export const wordsEveryday = [
   {
     "id": "persistent",
     "word": "Persistent",
-    "pronunciation": "pers-IHS-tuhnt",
+    "pronunciation": "per-SIHS-tuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3617,7 +3617,7 @@ export const wordsEveryday = [
   {
     "id": "resilient",
     "word": "Resilient",
-    "pronunciation": "rihz-IHL-yuhnt",
+    "pronunciation": "rih-ZIHL-yuhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3630,7 +3630,7 @@ export const wordsEveryday = [
   {
     "id": "tangible",
     "word": "Tangible",
-    "pronunciation": "TAN-juhb-uhl",
+    "pronunciation": "TAN-juh-buhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3643,7 +3643,7 @@ export const wordsEveryday = [
   {
     "id": "unanimous",
     "word": "Unanimous",
-    "pronunciation": "yoon-AN-uhm-uhs",
+    "pronunciation": "yoo-NAN-uh-muhs",
     "deck": "everyday",
     "meanings": [
       {
@@ -3682,7 +3682,7 @@ export const wordsEveryday = [
   {
     "id": "skeptical",
     "word": "Skeptical",
-    "pronunciation": "SKEHP-tuhk-uhl",
+    "pronunciation": "SKEHP-tuh-kuhl",
     "deck": "everyday",
     "meanings": [
       {
@@ -3695,7 +3695,7 @@ export const wordsEveryday = [
   {
     "id": "hypocrite",
     "word": "Hypocrite",
-    "pronunciation": "HIHP-uhk-riht",
+    "pronunciation": "HIHP-uh-kriht",
     "deck": "everyday",
     "meanings": [
       {
@@ -3708,7 +3708,7 @@ export const wordsEveryday = [
   {
     "id": "integrity",
     "word": "Integrity",
-    "pronunciation": "ihn-TEHG-ruht-ee",
+    "pronunciation": "ihn-TEHG-ruh-tee",
     "deck": "everyday",
     "meanings": [
       {
@@ -3721,7 +3721,7 @@ export const wordsEveryday = [
   {
     "id": "prestige",
     "word": "Prestige",
-    "pronunciation": "prehs-TEEZH",
+    "pronunciation": "preh-STEEZH",
     "deck": "everyday",
     "meanings": [
       {
@@ -3734,7 +3734,7 @@ export const wordsEveryday = [
   {
     "id": "legacy",
     "word": "Legacy",
-    "pronunciation": "LEHG-uhs-ee",
+    "pronunciation": "LEHG-uh-see",
     "deck": "everyday",
     "meanings": [
       {
@@ -3747,7 +3747,7 @@ export const wordsEveryday = [
   {
     "id": "momentum",
     "word": "Momentum",
-    "pronunciation": "mohm-EHN-tuhm",
+    "pronunciation": "moh-MEHN-tuhm",
     "deck": "everyday",
     "meanings": [
       {
@@ -3760,7 +3760,7 @@ export const wordsEveryday = [
   {
     "id": "scrutiny",
     "word": "Scrutiny",
-    "pronunciation": "SKROOT-uhn-ee",
+    "pronunciation": "SKROO-tuh-nee",
     "deck": "everyday",
     "meanings": [
       {
@@ -3799,7 +3799,7 @@ export const wordsEveryday = [
   {
     "id": "underlying",
     "word": "Underlying",
-    "pronunciation": "uhn-derl-AHY-ihng",
+    "pronunciation": "uhn-der-LAHY-ihng",
     "deck": "everyday",
     "meanings": [
       {
@@ -3812,7 +3812,7 @@ export const wordsEveryday = [
   {
     "id": "prevalent",
     "word": "Prevalent",
-    "pronunciation": "PREHV-uhl-uhnt",
+    "pronunciation": "PREHV-uh-luhnt",
     "deck": "everyday",
     "meanings": [
       {
@@ -3825,7 +3825,7 @@ export const wordsEveryday = [
   {
     "id": "dismissive",
     "word": "Dismissive",
-    "pronunciation": "dihs-MIHS-ihv",
+    "pronunciation": "dih-SMIHS-ihv",
     "deck": "everyday",
     "meanings": [
       {
@@ -3838,7 +3838,7 @@ export const wordsEveryday = [
   {
     "id": "overdue",
     "word": "Overdue",
-    "pronunciation": "OHV-erd-OO",
+    "pronunciation": "OH-ver-DOO",
     "deck": "everyday",
     "meanings": [
       {
@@ -3851,7 +3851,7 @@ export const wordsEveryday = [
   {
     "id": "aftermath",
     "word": "Aftermath",
-    "pronunciation": "AF-term-ath",
+    "pronunciation": "AF-ter-math",
     "deck": "everyday",
     "meanings": [
       {
