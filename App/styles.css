@@ -271,6 +271,11 @@ body::before {
   color: #9b7fc4;
 }
 
+.flashcard-meaning {
+  margin-top: 16px;
+  text-align: left;
+}
+
 /* ===== Calendar tab ===== */
 .calendar-grid {
   display: grid;

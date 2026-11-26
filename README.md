@@ -6,6 +6,7 @@ A simple vocabulary-building app for learning everyday English words commonly us
 
 - **Learn**: press "New Word" to see a word, its pronunciation, and one or more meanings with examples. Press "Mark as Learnt" once you've got it.
 - **Revise**: self-check flashcards over every word you've marked learnt.
+- **Revisit**: a shuffled flashcard round over your learnt words. "Still learning" cards come back until you've got them all.
 - **Calendar**: tap any date to see what you learnt that day.
 - Two decks: **Everyday** (~300 common words) and **Advanced** (1000 more challenging words), switchable from the Learn tab.
 - Fully offline after install — no account, no internet needed day-to-day.

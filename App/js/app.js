@@ -4,6 +4,7 @@ import { wordsEveryday } from "./words-everyday.js";
 import { wordsAdvanced } from "./words-advanced.js";
 import { createLearnView } from "./ui-learn.js";
 import { createReviseView } from "./ui-revise.js";
+import { createRevisitView } from "./ui-revisit.js";
 import { createCalendarView } from "./ui-calendar.js";
 
 function boot() {
@@ -38,6 +39,11 @@ function boot() {
     }),
     revise: createReviseView({
       container: document.getElementById("view-revise"),
+      allWords,
+      getState,
+    }),
+    revisit: createRevisitView({
+      container: document.getElementById("view-revisit"),
       allWords,
       getState,
     }),
