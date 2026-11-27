@@ -365,7 +365,7 @@ export const wordsEveryday = [
       {
         "partOfSpeech": "adjective",
         "definition": "Feeling reassured and less worried after a stressful situation ends.",
-        "example": "We were relieved to hear that the flight had only been delayed, not cancelled."
+        "example": "We were relieved to hear that the flight had only been delayed, not canceled."
       }
     ]
   },
@@ -920,7 +920,7 @@ export const wordsEveryday = [
   {
     "id": "corrupt",
     "word": "Corrupt",
-    "pronunciation": "ker-UHPT",
+    "pronunciation": "kuh-RUHPT",
     "deck": "everyday",
     "meanings": [
       {
@@ -1061,7 +1061,7 @@ export const wordsEveryday = [
       {
         "partOfSpeech": "noun",
         "definition": "Money paid to someone as payment for loss, damage, or suffering.",
-        "example": "The airline offered compensation to passengers stranded by the cancelled flight."
+        "example": "The airline offered compensation to passengers stranded by the canceled flight."
       }
     ]
   },
@@ -1120,7 +1120,7 @@ export const wordsEveryday = [
   {
     "id": "referendum",
     "word": "Referendum",
-    "pronunciation": "rehf-er-EHN-duhm",
+    "pronunciation": "rehf-uh-REHN-duhm",
     "deck": "everyday",
     "meanings": [
       {
@@ -1609,7 +1609,7 @@ export const wordsEveryday = [
       {
         "partOfSpeech": "verb",
         "definition": "To use, enter, or reach something.",
-        "example": "You can access your account from any device with internet connection."
+        "example": "You can access your account from any device with an internet connection."
       }
     ]
   },
@@ -1668,7 +1668,7 @@ export const wordsEveryday = [
   {
     "id": "algorithm",
     "word": "Algorithm",
-    "pronunciation": "AL-ger-ihth-uhm",
+    "pronunciation": "AL-guh-rihth-uhm",
     "deck": "everyday",
     "meanings": [
       {

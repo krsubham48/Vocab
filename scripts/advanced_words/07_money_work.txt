@@ -20,7 +20,7 @@ endowment|n|Money given to an institution to provide income.|The college's endow
 bequest|n|Property left in a will.|A generous bequest built the reading room.
 patronage|n|Support or business given to someone.|The café thanks you for your patronage.
 benefactor|n|A person who gives money or help.|An unknown benefactor paid the school fees.
-beneficiary|n|A person who receives a benefit.|She was the sole beneficiary of the will.
+beneficiary|n|A person who gains from something, such as a will or insurance.|She was the sole beneficiary of the will.
 creditor|n|A person or company owed money.|Creditors agreed to extend the deadline.
 debtor|n|A person who owes money.|The debtor promised to pay in installments.
 collateral|n|Property pledged as security for a loan.|They used their house as collateral.
@@ -68,7 +68,7 @@ menial|adj|Requiring little skill and often seen as lowly.|He started with menia
 drudgery|n|Hard, boring, repetitive work.|Dishwashers saved us from daily drudgery.
 efficacy|n|The ability to produce a desired result.|Studies tested the efficacy of the new treatment.
 salient|adj|Most noticeable or important.|Let me summarize the salient points.
-expedite|v|To make a process happen faster.|Paying a small fee can expedite the passport.
+expedite|v|To make a process happen faster.|Paying a small fee can expedite your passport application.
 facilitate|v|To make an action easier.|The new bridge facilitates trade between towns.
 streamline|v|To make a process simpler and more efficient.|We streamlined the booking system.
 synergy|n|Combined action producing a greater effect.|There is real synergy between design and marketing.

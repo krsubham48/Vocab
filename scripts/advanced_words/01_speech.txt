@@ -3,31 +3,31 @@
 # A line starting with "+" adds a second meaning to the word above it.
 # Theme: speech and communication
 loquacious|adj|Tending to talk a great deal.|Our loquacious driver had told us his whole life story before we reached the station.
-laconic|adj|Using very few words.|His laconic reply of "Fine" left everyone wondering what he really thought.
+laconic|adj|Using very few words.|His laconic reply of ‘Fine’ left everyone wondering what he really thought.
 garrulous|adj|Talking too much, especially about unimportant things.|The garrulous shopkeeper kept us chatting about the weather for half an hour.
 taciturn|adj|Reserved and saying little.|The taciturn gardener preferred nodding to speaking.
 verbose|adj|Using more words than needed.|The editor cut the verbose introduction down to two sentences.
-terse|adj|Brief in a way that can seem abrupt or unfriendly.|She sent a terse message: "Call me now."
+terse|adj|Brief in a way that can seem abrupt or unfriendly.|She sent a terse message: ‘Call me now.’
 succinct|adj|Expressing something clearly in few words.|Please give a succinct summary of the main findings.
 pithy|adj|Short but full of meaning.|The coach was known for pithy advice that players remembered for years.
 florid|adj|Full of elaborate or overly decorative language.|The brochure's florid prose made a small hotel sound like a palace.
-grandiloquent|adj|Using grand language meant to impress.|The mayor gave a grandiloquent speech about the opening of a car park.
+grandiloquent|adj|Using grand language meant to impress.|The mayor gave a grandiloquent speech about the opening of a parking lot.
 bombastic|adj|Sounding important but with little real meaning.|His bombastic announcements rarely led to any actual change.
 circumlocution|n|The use of many words to avoid saying something directly.|Instead of admitting the delay, the spokesperson hid behind circumlocution.
-euphemism|n|A gentle word used in place of a harsher one.|"Letting you go" is a common euphemism for dismissing someone from a job.
+euphemism|n|A mild word or phrase used in place of a harsher one.|‘Letting you go’ is a common euphemism for dismissing someone from a job.
 hyperbole|n|Deliberate exaggeration for effect.|Saying you have a mountain of homework is usually hyperbole.
-aphorism|n|A short saying that expresses a general truth.|"Actions speak louder than words" is a familiar aphorism.
+aphorism|n|A short saying that expresses a general truth.|‘Actions speak louder than words’ is a familiar aphorism.
 adage|n|A traditional saying that many people accept as true.|The old adage that practice makes perfect applies well to music.
 epigram|n|A short, clever, and often witty remark.|The book is full of sharp epigrams about city life.
 platitude|n|A remark used so often that it has little meaning.|Instead of offering real help, he repeated platitudes about staying positive.
 truism|n|A statement so obviously true that it hardly needs saying.|It is a truism that people make mistakes when they are tired.
-colloquial|adj|Used in everyday conversation rather than formal writing.|"Gonna" is a colloquial form of "going to."
+colloquial|adj|Used in everyday conversation rather than formal writing.|‘Gonna’ is a colloquial form of ‘going to.’
 vernacular|n|The everyday language spoken by people in a particular place.|The play was rewritten in the local vernacular to reach a wider audience.
 jargon|n|Special words used by a particular group that others find hard to understand.|The manual was so full of technical jargon that new users gave up.
 parlance|n|The way of speaking associated with a particular group.|In legal parlance, the two sides are called parties.
-lexicon|n|The vocabulary of a language, subject, or person.|Words like "streaming" have entered the everyday lexicon.
-neologism|n|A newly invented word or expression.|"Podcast" was once a neologism but now sounds ordinary.
-malapropism|n|The mistaken use of a word that sounds like the intended one.|His malapropism, "a vast suppository of information," made the class laugh.
+lexicon|n|The vocabulary of a language, subject, or person.|Words like ‘streaming’ have entered the everyday lexicon.
+neologism|n|A newly invented word or expression.|‘Podcast’ was once a neologism but now sounds ordinary.
+malapropism|n|The mistaken use of a word that sounds like the intended one.|Saying ‘flamingo’ when you mean ‘flamenco’ is a classic malapropism.
 enunciate|v|To pronounce words clearly.|The announcer was trained to enunciate every syllable.
 expound|v|To explain an idea in detail.|The professor expounded on her theory for nearly an hour.
 elucidate|v|To make something clear by explaining it.|A simple diagram helped elucidate how the engine works.
@@ -53,7 +53,7 @@ denigrate|v|To unfairly criticize or belittle.|It is easy to denigrate work that
 disparage|v|To speak of something as having little worth.|Please do not disparage your teammates in front of clients.
 deride|v|To mock or ridicule with contempt.|Early inventors were often derided for their strange ideas.
 belittle|v|To make someone or something seem unimportant.|Good leaders never belittle a new colleague's questions.
-malign|v|To say harmful and untrue things about someone.|The much maligned old bus service has actually improved.
+malign|v|To say harmful and untrue things about someone.|The much-maligned old bus service has actually improved.
 +|adj|Harmful or evil in effect.|The rumor had a malign influence on the team.
 vilify|v|To describe someone as bad or wicked.|The press vilified the referee after one disputed call.
 calumny|n|A false statement made to damage someone's reputation.|He dismissed the accusations as pure calumny.
@@ -61,7 +61,7 @@ defame|v|To damage someone's good name with false claims.|The article was withdr
 libel|n|A published false statement that harms someone's reputation.|The magazine paid damages for libel.
 extol|v|To praise enthusiastically.|The guidebook extols the beauty of the coastal road.
 laud|v|To praise highly.|Teachers lauded the program for improving attendance.
-eulogize|v|To praise highly in speech or writing, often after someone's death.|Former students eulogized their beloved headmistress.
+eulogize|v|To praise highly in speech or writing, often after someone's death.|Former students eulogized their beloved principal.
 panegyric|n|A speech or piece of writing that praises lavishly.|The biography reads like a panegyric rather than a history.
 acclaim|n|Enthusiastic public praise.|Her debut novel received widespread acclaim.
 +|v|To praise publicly and enthusiastically.|The design was acclaimed as a triumph of simplicity.
@@ -72,7 +72,7 @@ cajole|v|To persuade by flattery or gentle urging.|She cajoled her brother into 
 wheedle|v|To try to get something by flattery or pleading.|The children tried to wheedle an extra story out of their father.
 entreat|v|To ask earnestly and sincerely.|He entreated them to give the plan one more chance.
 implore|v|To beg someone urgently.|Rescue workers implored residents to leave before the river rose.
-beseech|v|To ask someone in an urgent, pleading way.|"Listen to me," she beseeched.
+beseech|v|To ask someone in an urgent, pleading way.|‘Listen to me,’ she beseeched.
 importune|v|To ask someone repeatedly and annoyingly.|Salespeople importuned visitors at every stall.
 exhort|v|To strongly urge someone to do something.|The speaker exhorted graduates to stay curious.
 goad|v|To provoke someone into reacting.|His teasing goaded her into accepting the challenge.
@@ -92,8 +92,8 @@ dissemble|v|To hide one's true feelings or motives.|He could not dissemble his d
 obfuscate|v|To make something unclear or hard to understand.|The long contract seemed designed to obfuscate the extra fees.
 repartee|n|Quick and witty conversation.|The two hosts are famous for their lively repartee.
 riposte|n|A quick, clever reply.|His riposte drew laughter from the whole panel.
-retort|v|To reply sharply or cleverly.|"At least I tried," she retorted.
-interject|v|To interrupt with a remark.|"May I add something?" he interjected.
+retort|v|To reply sharply or cleverly.|‘At least I tried,’ she retorted.
+interject|v|To interrupt with a remark.|‘May I add something?’ he interjected.
 digress|v|To move away from the main topic.|But I digress; let us return to the budget.
 colloquy|n|A formal conversation or discussion.|The two scholars held a long colloquy on translation.
 discourse|n|Written or spoken discussion of a subject.|Public discourse about climate has grown more urgent.

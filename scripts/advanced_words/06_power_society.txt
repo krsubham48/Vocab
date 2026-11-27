@@ -29,7 +29,7 @@ curtail|v|To reduce or limit.|The storm forced us to curtail the tour.
 circumscribe|v|To restrict within limits.|The new rules circumscribe the manager's powers.
 coerce|v|To force someone by threats.|No one should be coerced into signing.
 enjoin|v|To instruct or urge someone firmly.|The notice enjoined visitors to stay on the paths.
-emancipate|v|To set free from restriction.|The invention emancipated many from hours of washing.
+emancipate|v|To set free from restriction.|The washing machine emancipated millions from hours of scrubbing.
 enfranchise|v|To give the right to vote.|The reform enfranchised millions of young citizens.
 suffrage|n|The right to vote.|The museum traces the struggle for women's suffrage.
 electorate|n|All the people entitled to vote.|The electorate rejected the proposal.
@@ -57,12 +57,12 @@ emissary|n|A person sent as a representative.|An emissary delivered the invitati
 patrician|adj|Belonging to or typical of the upper class.|He spoke with patrician confidence.
 plebeian|adj|Of the common people; unrefined.|He joked about his plebeian taste in television.
 bourgeois|adj|Concerned with middle-class comfort and values.|The poet mocked bourgeois respectability.
-populace|n|The general population.|The new law surprised the populace.
+populace|n|The ordinary people of a country or area.|The new law surprised the populace.
 denizen|n|An inhabitant of a particular place.|Frogs are denizens of the marsh.
 expatriate|n|A person living outside their own country.|Many expatriates gather at the weekend market.
 diaspora|n|People spread from their homeland to other places.|The festival is popular among the Greek diaspora.
 asylum|n|Protection given to someone who fled danger.|The family applied for asylum.
-pariah|n|A person who is rejected by others.|After the scandalous leak, he became a pariah.
+pariah|n|A person who is rejected by others.|After betraying his teammates, he became a pariah.
 ostracize|v|To exclude from a group.|Classmates should never ostracize a newcomer.
 marginalize|v|To treat as unimportant.|The plan risks marginalizing older residents.
 disenfranchise|v|To deprive of rights, especially the vote.|Complicated forms can disenfranchise voters.
@@ -95,7 +95,7 @@ reprehensible|adj|Deserving strong criticism.|Mocking a patient is reprehensible
 unscrupulous|adj|Without moral principles.|Unscrupulous sellers target elderly people.
 ignoble|adj|Not honorable.|He had an ignoble motive for volunteering.
 ignominy|n|Public shame.|The champion suffered the ignominy of an early exit.
-infamy|n|Fame for something bad.|The storm of that year lives in infamy.
+infamy|n|Fame for something bad.|The cheating scandal earned the team lasting infamy.
 opprobrium|n|Harsh public criticism.|The decision attracted widespread opprobrium.
 stigma|n|A mark of disgrace attached to something.|Campaigns aim to reduce the stigma around seeking help.
 accolade|n|An award or expression of praise.|The film earned accolades at the festival.

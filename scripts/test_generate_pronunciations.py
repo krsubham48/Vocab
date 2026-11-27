@@ -30,6 +30,14 @@ class RespellTest(unittest.TestCase):
         self.check("IH1 N D AH0 S T R IY0", "IHN-duh-stree")  # industry
         self.check("K AE1 N D AH0 D", "KAN-duhd")  # candid
 
+    def test_er_before_a_stressed_vowel_gives_its_r_to_that_syllable(self):
+        self.check("K ER0 OW1 D", "kuh-ROHD")  # corrode
+        self.check("S ER0 IY1 N", "suh-REEN")  # serene
+        self.check("IH0 G Z AA1 N ER0 EY2 T", "ihg-ZAH-nuh-rayt")  # exonerate
+
+    def test_er_before_an_unstressed_vowel_stays_whole(self):
+        self.check("JH EH1 N ER0 AH0 S", "JEHN-er-uhs")  # generous
+
 
 if __name__ == "__main__":
     unittest.main()

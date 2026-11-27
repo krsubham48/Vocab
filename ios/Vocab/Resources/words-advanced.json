@@ -41,7 +41,7 @@
  {
   "id": "aberration",
   "word": "Aberration",
-  "pronunciation": "ab-er-AY-shuhn",
+  "pronunciation": "ab-uh-RAY-shuhn",
   "deck": "advanced",
   "meanings": [
    {
@@ -189,7 +189,7 @@
  {
   "id": "acerbic",
   "word": "Acerbic",
-  "pronunciation": "uh-SEHR-bihk",
+  "pronunciation": "uh-SER-bihk",
   "deck": "advanced",
   "meanings": [
    {
@@ -364,7 +364,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "The arrival of an important thing or person.",
-    "example": "The advent of the printing press spread ideas widely."
+    "example": "The advent of the printing press let ideas spread widely."
    }
   ]
  },
@@ -514,7 +514,7 @@
  {
   "id": "altercation",
   "word": "Altercation",
-  "pronunciation": "ahl-ter-KAY-shuhn",
+  "pronunciation": "awl-ter-KAY-shuhn",
   "deck": "advanced",
   "meanings": [
    {
@@ -527,7 +527,7 @@
  {
   "id": "altruistic",
   "word": "Altruistic",
-  "pronunciation": "awl-troo-IHS-tihk",
+  "pronunciation": "al-troo-IHS-tihk",
   "deck": "advanced",
   "meanings": [
    {
@@ -566,7 +566,7 @@
  {
   "id": "ameliorate",
   "word": "Ameliorate",
-  "pronunciation": "uh-MEEL-yer-ayt",
+  "pronunciation": "uh-MEEL-yuh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -761,7 +761,7 @@
  {
   "id": "annul",
   "word": "Annul",
-  "pronunciation": "AN-uhl",
+  "pronunciation": "uh-NUHL",
   "deck": "advanced",
   "meanings": [
    {
@@ -865,20 +865,20 @@
  {
   "id": "aphorism",
   "word": "Aphorism",
-  "pronunciation": "AF-er-ihz-uhm",
+  "pronunciation": "AF-uh-rihz-uhm",
   "deck": "advanced",
   "meanings": [
    {
     "partOfSpeech": "noun",
     "definition": "A short saying that expresses a general truth.",
-    "example": "\"Actions speak louder than words\" is a familiar aphorism."
+    "example": "‘Actions speak louder than words’ is a familiar aphorism."
    }
   ]
  },
  {
   "id": "apostate",
   "word": "Apostate",
-  "pronunciation": "uh-PAW-stayt",
+  "pronunciation": "uh-PAH-stayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -993,7 +993,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Very old or no longer used.",
-    "example": "The word \"thou\" sounds archaic today."
+    "example": "The word ‘thou’ sounds archaic today."
    }
   ]
  },
@@ -1143,7 +1143,7 @@
  {
   "id": "assiduous",
   "word": "Assiduous",
-  "pronunciation": "uh-SIHD-wuhs",
+  "pronunciation": "uh-SIHJ-oo-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -1247,7 +1247,7 @@
  {
   "id": "audacious",
   "word": "Audacious",
-  "pronunciation": "ah-DAY-shuhs",
+  "pronunciation": "aw-DAY-shuhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -1299,7 +1299,7 @@
  {
   "id": "auspicious",
   "word": "Auspicious",
-  "pronunciation": "ah-SPIHSH-uhs",
+  "pronunciation": "aw-SPIHSH-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -1364,7 +1364,7 @@
  {
   "id": "avaricious",
   "word": "Avaricious",
-  "pronunciation": "av-er-IHSH-uhs",
+  "pronunciation": "av-uh-RIHSH-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -1377,7 +1377,7 @@
  {
   "id": "aver",
   "word": "Aver",
-  "pronunciation": "AY-ver",
+  "pronunciation": "uh-VER",
   "deck": "advanced",
   "meanings": [
    {
@@ -1564,7 +1564,7 @@
   "meanings": [
    {
     "partOfSpeech": "noun",
-    "definition": "A person who receives a benefit.",
+    "definition": "A person who gains from something, such as a will or insurance.",
     "example": "She was the sole beneficiary of the will."
    }
   ]
@@ -1630,7 +1630,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To ask someone in an urgent, pleading way.",
-    "example": "\"Listen to me,\" she beseeched."
+    "example": "‘Listen to me,’ she beseeched."
    }
   ]
  },
@@ -1643,7 +1643,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "A person intolerant of those who differ.",
-    "example": "He refused to listen to the bigot's complaints."
+    "example": "Only a bigot would judge neighbors by where they were born."
    }
   ]
  },
@@ -2027,7 +2027,7 @@
  {
   "id": "caustic",
   "word": "Caustic",
-  "pronunciation": "KAH-stihk",
+  "pronunciation": "KAW-stihk",
   "deck": "advanced",
   "meanings": [
    {
@@ -2358,7 +2358,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Used in everyday conversation rather than formal writing.",
-    "example": "\"Gonna\" is a colloquial form of \"going to.\""
+    "example": "‘Gonna’ is a colloquial form of ‘going to.’"
    }
   ]
  },
@@ -2430,7 +2430,7 @@
  {
   "id": "commiserate",
   "word": "Commiserate",
-  "pronunciation": "kuh-MIHS-er-ayt",
+  "pronunciation": "kuh-MIHZ-uh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -2747,7 +2747,7 @@
  {
   "id": "contemporaneous",
   "word": "Contemporaneous",
-  "pronunciation": "kuhn-tehm-per-AY-nee-uhs",
+  "pronunciation": "kuhn-tehm-puh-RAY-nee-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -2890,7 +2890,7 @@
  {
   "id": "corroborate",
   "word": "Corroborate",
-  "pronunciation": "ker-AH-ber-ayt",
+  "pronunciation": "kuh-RAH-buh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -2903,7 +2903,7 @@
  {
   "id": "corrode",
   "word": "Corrode",
-  "pronunciation": "ker-OHD",
+  "pronunciation": "kuh-ROHD",
   "deck": "advanced",
   "meanings": [
    {
@@ -3090,7 +3090,7 @@
   "meanings": [
    {
     "partOfSpeech": "adjective",
-    "definition": "Happening in repeating cycles.",
+    "definition": "Repeating in a regular pattern.",
     "example": "Fashion trends are often cyclical."
    }
   ]
@@ -3215,7 +3215,7 @@
  {
   "id": "degenerate",
   "word": "Degenerate",
-  "pronunciation": "dih-JEHN-er-ayt",
+  "pronunciation": "dih-JEHN-uh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -3818,7 +3818,7 @@
   "meanings": [
    {
     "partOfSpeech": "adjective",
-    "definition": "Impartial; not influenced by self-interest.",
+    "definition": "Impartial; having nothing to gain from the result.",
     "example": "We need a disinterested judge to settle the matter."
    }
   ]
@@ -4156,7 +4156,7 @@
  {
   "id": "ebullient",
   "word": "Ebullient",
-  "pronunciation": "ihb-UHL-yuhnt",
+  "pronunciation": "ih-BUHL-yuhnt",
   "deck": "advanced",
   "meanings": [
    {
@@ -4247,7 +4247,7 @@
  {
   "id": "efficacy",
   "word": "Efficacy",
-  "pronunciation": "EHF-ih-kas-ee",
+  "pronunciation": "EHF-ih-kuh-see",
   "deck": "advanced",
   "meanings": [
    {
@@ -4357,7 +4357,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To set free from restriction.",
-    "example": "The invention emancipated many from hours of washing."
+    "example": "The washing machine emancipated millions from hours of scrubbing."
    }
   ]
  },
@@ -4533,7 +4533,7 @@
  {
   "id": "ennui",
   "word": "Ennui",
-  "pronunciation": "eh-NOO-ee",
+  "pronunciation": "ahn-WEE",
   "deck": "advanced",
   "meanings": [
    {
@@ -4747,7 +4747,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Intended for or understood by only a small group.",
-    "example": "He collects books on esoteric subjects such as old map codes."
+    "example": "He collects books on esoteric subjects such as ancient secret codes."
    }
   ]
  },
@@ -4760,7 +4760,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To praise highly in speech or writing, often after someone's death.",
-    "example": "Former students eulogized their beloved headmistress."
+    "example": "Former students eulogized their beloved principal."
    }
   ]
  },
@@ -4772,8 +4772,8 @@
   "meanings": [
    {
     "partOfSpeech": "noun",
-    "definition": "A gentle word used in place of a harsher one.",
-    "example": "\"Letting you go\" is a common euphemism for dismissing someone from a job."
+    "definition": "A mild word or phrase used in place of a harsher one.",
+    "example": "‘Letting you go’ is a common euphemism for dismissing someone from a job."
    }
   ]
  },
@@ -4858,7 +4858,7 @@
  {
   "id": "exasperate",
   "word": "Exasperate",
-  "pronunciation": "ihg-ZAS-per-ayt",
+  "pronunciation": "ihg-ZAS-puh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -4915,7 +4915,7 @@
  {
   "id": "exhilaration",
   "word": "Exhilaration",
-  "pronunciation": "ihg-zihl-er-AY-shuhn",
+  "pronunciation": "ihg-zihl-uh-RAY-shuhn",
   "deck": "advanced",
   "meanings": [
    {
@@ -4954,7 +4954,7 @@
  {
   "id": "exonerate",
   "word": "Exonerate",
-  "pronunciation": "ihg-ZAH-ner-ayt",
+  "pronunciation": "ihg-ZAH-nuh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -5012,7 +5012,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To make a process happen faster.",
-    "example": "Paying a small fee can expedite the passport."
+    "example": "Paying a small fee can expedite your passport application."
    }
   ]
  },
@@ -5492,7 +5492,7 @@
  {
   "id": "forthright",
   "word": "Forthright",
-  "pronunciation": "FAWR-THRAHYT",
+  "pronunciation": "FAWR-thrahyt",
   "deck": "advanced",
   "meanings": [
    {
@@ -5758,7 +5758,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Using grand language meant to impress.",
-    "example": "The mayor gave a grandiloquent speech about the opening of a car park."
+    "example": "The mayor gave a grandiloquent speech about the opening of a parking lot."
    }
   ]
  },
@@ -5771,7 +5771,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Fond of company and sociable.",
-    "example": "Gregarious by nature, he made friends in every queue."
+    "example": "Gregarious by nature, he made friends wherever he went."
    }
   ]
  },
@@ -5843,7 +5843,7 @@
  {
   "id": "harangue",
   "word": "Harangue",
-  "pronunciation": "her-ANG",
+  "pronunciation": "huh-RANG",
   "deck": "advanced",
   "meanings": [
    {
@@ -6004,7 +6004,7 @@
  {
   "id": "honorarium",
   "word": "Honorarium",
-  "pronunciation": "ah-ner-EHR-ee-uhm",
+  "pronunciation": "ah-nuh-REHR-ee-uhm",
   "deck": "advanced",
   "meanings": [
    {
@@ -6095,7 +6095,7 @@
  {
   "id": "illustrious",
   "word": "Illustrious",
-  "pronunciation": "ihl-UHS-tree-uhs",
+  "pronunciation": "ih-LUHS-tree-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -6355,7 +6355,7 @@
  {
   "id": "incensed",
   "word": "Incensed",
-  "pronunciation": "IHN-sehnst",
+  "pronunciation": "ihn-SEHNST",
   "deck": "advanced",
   "meanings": [
    {
@@ -6665,7 +6665,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "Fame for something bad.",
-    "example": "The storm of that year lives in infamy."
+    "example": "The cheating scandal earned the team lasting infamy."
    }
   ]
  },
@@ -6893,7 +6893,7 @@
  {
   "id": "insurrection",
   "word": "Insurrection",
-  "pronunciation": "ihn-ser-EHK-shuhn",
+  "pronunciation": "ihn-suh-REHK-shuhn",
   "deck": "advanced",
   "meanings": [
    {
@@ -6912,7 +6912,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To interrupt with a remark.",
-    "example": "\"May I add something?\" he interjected."
+    "example": "‘May I add something?’ he interjected."
    }
   ]
  },
@@ -6945,7 +6945,7 @@
  {
   "id": "interpolate",
   "word": "Interpolate",
-  "pronunciation": "iht-ER-puh-layt",
+  "pronunciation": "ihn-TER-puh-layt",
   "deck": "advanced",
   "meanings": [
    {
@@ -7036,7 +7036,7 @@
  {
   "id": "invigorate",
   "word": "Invigorate",
-  "pronunciation": "ihn-VIHG-er-iht",
+  "pronunciation": "ihn-VIHG-uh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -7244,7 +7244,7 @@
  {
   "id": "labyrinthine",
   "word": "Labyrinthine",
-  "pronunciation": "lab-er-IHN-theen",
+  "pronunciation": "lab-uh-RIHN-theen",
   "deck": "advanced",
   "meanings": [
    {
@@ -7276,7 +7276,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Using very few words.",
-    "example": "His laconic reply of \"Fine\" left everyone wondering what he really thought."
+    "example": "His laconic reply of ‘Fine’ left everyone wondering what he really thought."
    }
   ]
  },
@@ -7403,7 +7403,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "The vocabulary of a language, subject, or person.",
-    "example": "Words like \"streaming\" have entered the everyday lexicon."
+    "example": "Words like ‘streaming’ have entered the everyday lexicon."
    }
   ]
  },
@@ -7663,7 +7663,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "The mistaken use of a word that sounds like the intended one.",
-    "example": "His malapropism, \"a vast suppository of information,\" made the class laugh."
+    "example": "Saying ‘flamingo’ when you mean ‘flamenco’ is a classic malapropism."
    }
   ]
  },
@@ -7715,7 +7715,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To say harmful and untrue things about someone.",
-    "example": "The much maligned old bus service has actually improved."
+    "example": "The much-maligned old bus service has actually improved."
    },
    {
     "partOfSpeech": "adjective",
@@ -8075,7 +8075,7 @@
  {
   "id": "morose",
   "word": "Morose",
-  "pronunciation": "mer-OHS",
+  "pronunciation": "muh-ROHS",
   "deck": "advanced",
   "meanings": [
    {
@@ -8289,7 +8289,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "A newly invented word or expression.",
-    "example": "\"Podcast\" was once a neologism but now sounds ordinary."
+    "example": "‘Podcast’ was once a neologism but now sounds ordinary."
    }
   ]
  },
@@ -8439,7 +8439,7 @@
  {
   "id": "obliterate",
   "word": "Obliterate",
-  "pronunciation": "uh-BLIHT-er-ayt",
+  "pronunciation": "uh-BLIHT-uh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -8497,7 +8497,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To remove a need or difficulty.",
-    "example": "Online booking obviates the need to queue."
+    "example": "Online booking obviates the need to wait in line."
    }
   ]
  },
@@ -8686,7 +8686,7 @@
  {
   "id": "overbearing",
   "word": "Overbearing",
-  "pronunciation": "OH-ver-BEHR-ihng",
+  "pronunciation": "oh-ver-BEHR-ihng",
   "deck": "advanced",
   "meanings": [
    {
@@ -8842,13 +8842,13 @@
  {
   "id": "pariah",
   "word": "Pariah",
-  "pronunciation": "per-AHY-uh",
+  "pronunciation": "puh-RAHY-uh",
   "deck": "advanced",
   "meanings": [
    {
     "partOfSpeech": "noun",
     "definition": "A person who is rejected by others.",
-    "example": "After the scandalous leak, he became a pariah."
+    "example": "After betraying his teammates, he became a pariah."
    }
   ]
  },
@@ -9063,7 +9063,7 @@
  {
   "id": "perennial",
   "word": "Perennial",
-  "pronunciation": "per-EHN-ee-uhl",
+  "pronunciation": "puh-REHN-ee-uhl",
   "deck": "advanced",
   "meanings": [
    {
@@ -9089,7 +9089,7 @@
  {
   "id": "peripheral",
   "word": "Peripheral",
-  "pronunciation": "per-IHF-er-uhl",
+  "pronunciation": "puh-RIHF-er-uhl",
   "deck": "advanced",
   "meanings": [
    {
@@ -9193,7 +9193,7 @@
  {
   "id": "peruse",
   "word": "Peruse",
-  "pronunciation": "per-OOZ",
+  "pronunciation": "puh-ROOZ",
   "deck": "advanced",
   "meanings": [
    {
@@ -9515,7 +9515,7 @@
   "meanings": [
    {
     "partOfSpeech": "noun",
-    "definition": "The general population.",
+    "definition": "The ordinary people of a country or area.",
     "example": "The new law surprised the populace."
    }
   ]
@@ -9581,7 +9581,7 @@
    {
     "partOfSpeech": "verb",
     "definition": "To suggest something as a basis for reasoning.",
-    "example": "Scientists postulated the existence of the particle decades ago."
+    "example": "Physicists postulated the neutrino long before anyone detected one."
    }
   ]
  },
@@ -9952,7 +9952,7 @@
  {
   "id": "proliferate",
   "word": "Proliferate",
-  "pronunciation": "proh-LIHF-er-ayt",
+  "pronunciation": "proh-LIHF-uh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -10095,7 +10095,7 @@
  {
   "id": "pugnacious",
   "word": "Pugnacious",
-  "pronunciation": "puhg-NASH-ihs",
+  "pronunciation": "puhg-NAY-shuhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -10555,7 +10555,7 @@
  {
   "id": "reiterate",
   "word": "Reiterate",
-  "pronunciation": "ree-IHT-er-ayt",
+  "pronunciation": "ree-IHT-uh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -10664,7 +10664,7 @@
  {
   "id": "remuneration",
   "word": "Remuneration",
-  "pronunciation": "rih-myoo-ner-AY-shuhn",
+  "pronunciation": "rih-myoo-nuh-RAY-shuhn",
   "deck": "advanced",
   "meanings": [
    {
@@ -10716,7 +10716,7 @@
  {
   "id": "reparation",
   "word": "Reparation",
-  "pronunciation": "rehp-er-AY-shuhn",
+  "pronunciation": "rehp-uh-RAY-shuhn",
   "deck": "advanced",
   "meanings": [
    {
@@ -10885,13 +10885,13 @@
  {
   "id": "retort",
   "word": "Retort",
-  "pronunciation": "REE-tawrt",
+  "pronunciation": "rih-TAWRT",
   "deck": "advanced",
   "meanings": [
    {
     "partOfSpeech": "verb",
     "definition": "To reply sharply or cleverly.",
-    "example": "\"At least I tried,\" she retorted."
+    "example": "‘At least I tried,’ she retorted."
    }
   ]
  },
@@ -10911,7 +10911,7 @@
  {
   "id": "reverberate",
   "word": "Reverberate",
-  "pronunciation": "rih-VER-ber-ayt",
+  "pronunciation": "rih-VER-buh-rayt",
   "deck": "advanced",
   "meanings": [
    {
@@ -11203,7 +11203,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "A learned person or one with exceptional ability in one area.",
-    "example": "The village savant could calculate dates centuries apart."
+    "example": "The young savant could name the weekday of any date in history."
    }
   ]
  },
@@ -11340,7 +11340,7 @@
  {
   "id": "serene",
   "word": "Serene",
-  "pronunciation": "ser-EEN",
+  "pronunciation": "suh-REEN",
   "deck": "advanced",
   "meanings": [
    {
@@ -11418,7 +11418,7 @@
  {
   "id": "sinuous",
   "word": "Sinuous",
-  "pronunciation": "SIHN-wuhs",
+  "pronunciation": "SIHN-yoo-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -11476,7 +11476,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Showing too much pride in oneself.",
-    "example": "He wore a smug smile after solving it first."
+    "example": "He wore a smug smile after finishing the puzzle first."
    }
   ]
  },
@@ -11600,7 +11600,7 @@
  {
   "id": "sporadic",
   "word": "Sporadic",
-  "pronunciation": "sper-AD-ihk",
+  "pronunciation": "spuh-RAD-ihk",
   "deck": "advanced",
   "meanings": [
    {
@@ -12016,7 +12016,7 @@
  {
   "id": "sumptuous",
   "word": "Sumptuous",
-  "pronunciation": "SUHMPCH-wuhs",
+  "pronunciation": "SUHMP-choo-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -12042,7 +12042,7 @@
  {
   "id": "superfluous",
   "word": "Superfluous",
-  "pronunciation": "SOO-perfl-wuhs",
+  "pronunciation": "soo-PER-floo-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -12269,7 +12269,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "Saying the same thing twice in different words.",
-    "example": "\"Free gift\" is a common tautology."
+    "example": "‘Free gift’ is a common tautology."
    }
   ]
  },
@@ -12299,7 +12299,7 @@
    },
    {
     "partOfSpeech": "adjective",
-    "definition": "Mild in temperature.",
+    "definition": "Neither very hot nor very cold.",
     "example": "The region enjoys a temperate climate."
    }
   ]
@@ -12365,7 +12365,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Brief in a way that can seem abrupt or unfriendly.",
-    "example": "She sent a terse message: \"Call me now.\""
+    "example": "She sent a terse message: ‘Call me now.’"
    }
   ]
  },
@@ -12468,7 +12468,7 @@
   "meanings": [
    {
     "partOfSpeech": "adjective",
-    "definition": "Easy to manage or influence.",
+    "definition": "Easy to deal with or control.",
     "example": "The new software made a messy problem tractable."
    }
   ]
@@ -12599,7 +12599,7 @@
    {
     "partOfSpeech": "adjective",
     "definition": "Eager to argue or fight.",
-    "example": "The truculent shopper blocked the aisle."
+    "example": "The truculent shopper argued with every cashier."
    }
   ]
  },
@@ -12684,7 +12684,7 @@
  {
   "id": "unctuous",
   "word": "Unctuous",
-  "pronunciation": "UHNGCH-wuhs",
+  "pronunciation": "UHNGK-choo-uhs",
   "deck": "advanced",
   "meanings": [
    {
@@ -12762,7 +12762,7 @@
  {
   "id": "upbraid",
   "word": "Upbraid",
-  "pronunciation": "UHP-brayd",
+  "pronunciation": "uhp-BRAYD",
   "deck": "advanced",
   "meanings": [
    {
@@ -12963,7 +12963,7 @@
    {
     "partOfSpeech": "noun",
     "definition": "The power to reject a decision.",
-    "example": "The president used his veto."
+    "example": "The president's veto stopped the bill."
    }
   ]
  },
@@ -13131,7 +13131,7 @@
   "meanings": [
    {
     "partOfSpeech": "adjective",
-    "definition": "Very large in volume or amount.",
+    "definition": "Very large in size or amount.",
     "example": "She keeps voluminous notebooks of recipes."
    }
   ]

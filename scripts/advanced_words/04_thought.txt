@@ -17,12 +17,12 @@ maladroit|adj|Clumsy or tactless.|A maladroit comment spoiled the friendly mood.
 neophyte|n|A person who is new to a subject or activity.|The course is designed for neophytes and experts alike.
 virtuoso|n|A person with outstanding skill, especially in music.|The young virtuoso played the concerto from memory.
 luminary|n|A person who inspires or influences others in a field.|Luminaries of modern science attended the conference.
-savant|n|A learned person or one with exceptional ability in one area.|The village savant could calculate dates centuries apart.
+savant|n|A learned person or one with exceptional ability in one area.|The young savant could name the weekday of any date in history.
 pundit|n|An expert who often gives opinions in public.|Television pundits disagreed about the result.
 cerebral|adj|Relating to intellect rather than emotion.|The film is a cerebral puzzle about memory.
 abstruse|adj|Difficult to understand.|The lecture on abstruse mathematics lost most of the audience.
 arcane|adj|Understood by only a few people.|The forms required arcane knowledge of tax law.
-esoteric|adj|Intended for or understood by only a small group.|He collects books on esoteric subjects such as old map codes.
+esoteric|adj|Intended for or understood by only a small group.|He collects books on esoteric subjects such as ancient secret codes.
 recondite|adj|Little known and obscure.|The footnotes discuss recondite points of grammar.
 inscrutable|adj|Impossible to read or interpret.|Her inscrutable expression gave nothing away.
 ineffable|adj|Too great to be put into words.|The view from the summit filled us with ineffable joy.
@@ -37,7 +37,7 @@ quandary|n|A state of uncertainty about what to do.|He was in a quandary about w
 enigma|n|A person or thing that is mysterious.|The quiet new member remains an enigma.
 paradigm|n|A typical model or way of thinking.|Remote work has shifted the paradigm of office life.
 axiom|n|A statement accepted as true without proof.|It is an axiom of geometry that a straight line joins any two points.
-postulate|v|To suggest something as a basis for reasoning.|Scientists postulated the existence of the particle decades ago.
+postulate|v|To suggest something as a basis for reasoning.|Physicists postulated the neutrino long before anyone detected one.
 premise|n|A statement on which an argument is based.|The whole argument rests on a false premise.
 hypothesis|n|A proposed explanation to be tested.|Our hypothesis is that plants grow faster with music.
 conjecture|n|An opinion formed without proof.|Reports of a merger are pure conjecture.
@@ -97,7 +97,7 @@ fallacy|n|A mistaken belief or faulty reasoning.|It is a fallacy that shouting m
 specious|adj|Seeming right but actually wrong.|He offered a specious excuse for the missing money.
 spurious|adj|False or not genuine.|The advert made spurious claims about instant results.
 sophistry|n|Clever but deceptive reasoning.|The lawyer's argument was mere sophistry.
-tautology|n|Saying the same thing twice in different words.|"Free gift" is a common tautology.
+tautology|n|Saying the same thing twice in different words.|‘Free gift’ is a common tautology.
 anomaly|n|Something that differs from what is expected.|The warm week in January was an anomaly.
 aberration|n|A departure from what is normal.|One bad review was an aberration in an excellent record.
 discrepancy|n|A difference between things that should match.|There is a discrepancy between the two totals.

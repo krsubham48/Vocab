@@ -10,7 +10,7 @@ incessant|adj|Continuing without pause.|The incessant rain kept us indoors.
 interminable|adj|Seeming to have no end.|The interminable meeting ran past lunch.
 sporadic|adj|Occurring irregularly.|There were sporadic outbreaks of applause.
 intermittent|adj|Stopping and starting at intervals.|Intermittent showers are expected.
-cyclical|adj|Happening in repeating cycles.|Fashion trends are often cyclical.
+cyclical|adj|Repeating in a regular pattern.|Fashion trends are often cyclical.
 recurrent|adj|Happening again and again.|He has a recurrent dream about missing an exam.
 chronological|adj|Following the order in which things happened.|List the events in chronological order.
 contemporaneous|adj|Existing or happening at the same time.|The letters are contemporaneous with the events they describe.
@@ -24,7 +24,7 @@ premonition|n|A strong feeling that something is about to happen.|I had a premon
 posterity|n|All future generations.|He kept the letters for posterity.
 antiquity|n|The ancient past, or great age.|The coins date from antiquity.
 inexorable|adj|Impossible to stop or prevent.|The inexorable rise of the tide forced us up the beach.
-archaic|adj|Very old or no longer used.|The word "thou" sounds archaic today.
+archaic|adj|Very old or no longer used.|The word ‘thou’ sounds archaic today.
 obsolete|adj|No longer used or needed.|Floppy disks are now obsolete.
 outmoded|adj|No longer in fashion or use.|The factory replaced its outmoded machines.
 anachronism|n|Something out of place in time.|A wristwatch in a medieval film is an anachronism.
@@ -76,7 +76,7 @@ infinitesimal|adj|Extremely small.|There is an infinitesimal chance of error.
 minuscule|adj|Very tiny.|The writing on the label was minuscule.
 colossal|adj|Extremely large.|A colossal statue towers over the harbor.
 prodigious|adj|Remarkably great in size or degree.|He has a prodigious memory.
-voluminous|adj|Very large in volume or amount.|She keeps voluminous notebooks of recipes.
+voluminous|adj|Very large in size or amount.|She keeps voluminous notebooks of recipes.
 capacious|adj|Having a lot of space inside.|His capacious bag held three books and a laptop.
 commodious|adj|Roomy and comfortable.|The commodious cabin slept six.
 incalculable|adj|Too great to be measured.|The loss of the library caused incalculable harm.

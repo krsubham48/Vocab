@@ -4,7 +4,7 @@ benevolent|adj|Kind and wishing to do good.|A benevolent donor paid for the scho
 magnanimous|adj|Generous and forgiving, especially toward a rival.|He was magnanimous in victory and praised his opponent.
 munificent|adj|Extremely generous with money or gifts.|The museum received a munificent gift from a local family.
 philanthropic|adj|Devoted to helping others through generous giving.|Her philanthropic work funds clinics in rural areas.
-gregarious|adj|Fond of company and sociable.|Gregarious by nature, he made friends in every queue.
+gregarious|adj|Fond of company and sociable.|Gregarious by nature, he made friends wherever he went.
 affable|adj|Friendly and easy to talk to.|The affable receptionist put nervous patients at ease.
 amiable|adj|Pleasant and good-natured.|Their amiable neighbor often shares vegetables from his garden.
 congenial|adj|Pleasant because of shared tastes or a friendly nature.|She found the small office a congenial place to work.
@@ -23,7 +23,7 @@ imperturbable|adj|Impossible to upset or excite.|The imperturbable referee ignor
 unflappable|adj|Staying calm in a crisis.|An unflappable nurse kept the busy ward running.
 placid|adj|Calm and peaceful in nature.|The placid cow barely noticed the passing cars.
 docile|adj|Ready to accept control or instruction.|The horse was so docile that beginners could ride it.
-tractable|adj|Easy to manage or influence.|The new software made a messy problem tractable.
+tractable|adj|Easy to deal with or control.|The new software made a messy problem tractable.
 intrepid|adj|Fearless and adventurous.|The intrepid explorer set off before dawn.
 amenable|adj|Open and willing to be persuaded.|They were amenable to changing the meeting time.
 compliant|adj|Inclined to agree with others or follow rules.|The factory is now fully compliant with safety standards.
@@ -76,7 +76,7 @@ irascible|adj|Easily made angry.|The irascible professor snapped at the smallest
 petulant|adj|Childishly sulky or bad-tempered.|He gave a petulant shrug and walked off.
 peevish|adj|Easily irritated, especially by small things.|Lack of sleep made her peevish.
 querulous|adj|Complaining in a whining way.|The querulous guest found fault with every dish.
-truculent|adj|Eager to argue or fight.|The truculent shopper blocked the aisle.
+truculent|adj|Eager to argue or fight.|The truculent shopper argued with every cashier.
 pugnacious|adj|Quick to quarrel.|His pugnacious style made enemies in the committee.
 belligerent|adj|Hostile and aggressive.|A belligerent caller shouted at the operator.
 bellicose|adj|Showing readiness to fight or go to war.|The leader's bellicose speech worried neighboring states.
@@ -122,7 +122,7 @@ covetous|adj|Having a strong desire to possess what belongs to others.|He cast a
 profligate|adj|Recklessly wasteful.|Profligate spending emptied the club's account.
 abstemious|adj|Restrained in eating and drinking.|Her abstemious habits kept her in good health.
 temperate|adj|Showing moderation and self-control.|He gave a temperate response to a heated question.
-+|adj|Mild in temperature.|The region enjoys a temperate climate.
++|adj|Neither very hot nor very cold.|The region enjoys a temperate climate.
 ascetic|adj|Practicing strict self-discipline and giving up comforts.|The monk led an ascetic life in a bare room.
 hedonist|n|A person who seeks pleasure as the main goal in life.|A cheerful hedonist, he never passed up a good dessert.
 connoisseur|n|An expert judge of art, food, or taste.|A coffee connoisseur can tell where the beans were grown.

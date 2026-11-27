@@ -75,8 +75,19 @@ def pronounce(word, overrides=None):
     return respell(dictionary[key][0].split())
 
 
+def _move_r_to_stressed_syllable(phonemes):
+    """"corrode" is said "kuh-ROHD", not "ker-OHD": before a stressed vowel the
+    r of an unstressed "er" starts that syllable."""
+    result = []
+    for phoneme, following in zip(phonemes, phonemes[1:] + [""]):
+        stressed_vowel = following[:-1] in VOWELS and following[-1:] in ("1", "2")
+        result += ["AH0", "R"] if phoneme == "ER0" and stressed_vowel else [phoneme]
+    return result
+
+
 def respell(phonemes):
     """Spell a list of ARPAbet phonemes as syllables, stressed one in capitals."""
+    phonemes = _move_r_to_stressed_syllable(list(phonemes))
     vowel_idx = [i for i, p in enumerate(phonemes) if _strip_stress(p)[0] in VOWELS]
     if not vowel_idx:
         return _syllable_to_text(phonemes)

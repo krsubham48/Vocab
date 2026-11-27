@@ -87,7 +87,7 @@ alacrity|n|Cheerful readiness.|She accepted the invitation with alacrity.
 verve|n|Energy and enthusiasm.|The band played with verve.
 gusto|n|Great enjoyment and energy.|They tucked into the meal with gusto.
 complacent|adj|Smugly satisfied and unaware of dangers.|Success can make a company complacent.
-smug|adj|Showing too much pride in oneself.|He wore a smug smile after solving it first.
+smug|adj|Showing too much pride in oneself.|He wore a smug smile after finishing the puzzle first.
 serene|adj|Calm and peaceful.|The lake looked serene at dawn.
 tranquil|adj|Free from disturbance.|We spent a tranquil week in the hills.
 composure|n|Calm control of oneself.|She kept her composure during the interview.

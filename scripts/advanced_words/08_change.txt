@@ -15,7 +15,7 @@ inchoate|adj|Not yet fully formed.|He had an inchoate sense that something was w
 fledgling|adj|New and inexperienced.|The fledgling business hired its first employee.
 inception|n|The beginning of something.|She has worked there since its inception.
 genesis|n|The origin or formation of something.|The genesis of the idea was a rainy afternoon.
-advent|n|The arrival of an important thing or person.|The advent of the printing press spread ideas widely.
+advent|n|The arrival of an important thing or person.|The advent of the printing press let ideas spread widely.
 culminate|v|To reach a final or highest point.|The week of events culminated in a grand parade.
 zenith|n|The highest point.|The empire was at its zenith.
 apex|n|The top or highest point.|The eagle perched at the apex of the rock.
@@ -72,7 +72,7 @@ galvanize|v|To shock or excite into action.|The news galvanized volunteers.
 invigorate|v|To give energy to.|A cold swim will invigorate you.
 supplant|v|To take the place of.|Streaming has largely supplanted DVDs.
 supersede|v|To replace something older or less useful.|The new guidelines supersede last year's.
-obviate|v|To remove a need or difficulty.|Online booking obviates the need to queue.
+obviate|v|To remove a need or difficulty.|Online booking obviates the need to wait in line.
 preclude|v|To prevent something from happening.|A prior engagement precludes my attending.
 forestall|v|To prevent by acting in advance.|They forestalled complaints by explaining the delay early.
 avert|v|To prevent something bad from happening.|Quick action averted a fire.

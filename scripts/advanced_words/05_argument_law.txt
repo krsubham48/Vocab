@@ -20,10 +20,10 @@ foil|n|A person who contrasts with and highlights another.|The serious sidekick 
 +|v|To prevent someone from succeeding.|A quick-thinking guard foiled the theft.
 partisan|adj|Strongly supporting one side.|The partisan crowd booed every call against the home team.
 bipartisan|adj|Involving agreement between two opposing parties.|The bill won rare bipartisan support.
-disinterested|adj|Impartial; not influenced by self-interest.|We need a disinterested judge to settle the matter.
+disinterested|adj|Impartial; having nothing to gain from the result.|We need a disinterested judge to settle the matter.
 predisposed|adj|Inclined to a particular attitude or condition.|Children raised with music may be predisposed to enjoy it.
 preconception|n|An opinion formed before having full knowledge.|Travel challenged many of her preconceptions.
-bigot|n|A person intolerant of those who differ.|He refused to listen to the bigot's complaints.
+bigot|n|A person intolerant of those who differ.|Only a bigot would judge neighbors by where they were born.
 chauvinism|n|Exaggerated loyalty to one's own group or country.|National chauvinism distorted the commentary.
 jingoism|n|Aggressive and boastful patriotism.|The editorial was full of jingoism.
 xenophobia|n|Dislike or fear of foreigners.|The campaign spoke out against xenophobia.
@@ -72,7 +72,7 @@ annul|v|To declare officially invalid.|The court annulled the contract.
 nullify|v|To make something legally void or useless.|The error nullified the results.
 abrogate|v|To abolish a law or agreement.|Parliament moved to abrogate the outdated treaty.
 repeal|v|To officially withdraw a law.|Lawmakers voted to repeal the tax.
-veto|n|The power to reject a decision.|The president used his veto.
+veto|n|The power to reject a decision.|The president's veto stopped the bill.
 ratify|v|To formally approve.|The members ratified the new constitution of the society.
 decree|n|An official order.|The mayor issued a decree banning fireworks near the forest.
 edict|n|An official command.|An edict from head office changed the working hours.
