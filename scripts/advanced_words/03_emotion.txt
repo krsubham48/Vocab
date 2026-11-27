@@ -1,0 +1,109 @@
+# Theme: emotion and mood
+elation|n|A feeling of great joy.|Elation swept through the village when the bridge reopened.
+euphoria|n|An intense feeling of happiness and excitement.|The euphoria of winning lasted for days.
+rapture|n|A feeling of intense delight.|She listened to the choir in rapture.
+exhilaration|n|A feeling of thrill and excitement.|He felt the exhilaration of skiing down fresh snow.
+jubilant|adj|Feeling or expressing great joy.|Jubilant fans poured into the streets.
+blithe|adj|Cheerfully unconcerned.|With blithe confidence, he skipped reading the instructions.
+mirth|n|Amusement expressed through laughter.|The clown's antics filled the tent with mirth.
+levity|n|Light-heartedness, especially when seriousness is expected.|A moment of levity eased the tense meeting.
+jocular|adj|Fond of joking; humorous.|His jocular manner put the interviewers at ease.
+facetious|adj|Treating serious matters with inappropriate humor.|I was being facetious; of course the report matters.
+droll|adj|Amusing in a dry or unusual way.|The guide's droll comments made history lively.
+wry|adj|Showing dry, often mocking humor.|She gave a wry smile at the irony of it all.
+sardonic|adj|Grimly mocking.|He answered with a sardonic laugh.
+caustic|adj|Severely critical and biting.|Her caustic review left the author stunned.
+acerbic|adj|Sharp and forthright in criticism.|The columnist is loved for his acerbic wit.
+mordant|adj|Having a sharp, cutting wit.|The play is a mordant look at office politics.
+trenchant|adj|Vigorous, incisive, and clear.|She offered a trenchant analysis of the plan's weaknesses.
+scathing|adj|Harshly critical.|The inspector wrote a scathing report on the kitchen.
+melancholy|n|A deep and lasting sadness.|A gentle melancholy settled over him as summer ended.
++|adj|Sad and thoughtful.|The violin played a melancholy tune.
+despondent|adj|Low in spirits from loss of hope.|The team grew despondent after a fifth defeat.
+dejected|adj|Sad and disheartened.|She looked dejected after missing the train.
+forlorn|adj|Pitifully sad and lonely.|A forlorn puppy waited by the gate.
+disconsolate|adj|Very unhappy and unable to be comforted.|He was disconsolate when his kite was lost.
+crestfallen|adj|Sad and disappointed.|The crestfallen boy stared at the broken model.
+doleful|adj|Full of sorrow.|The dog gave a doleful look as we left.
+lugubrious|adj|Looking or sounding gloomy, sometimes exaggeratedly so.|His lugubrious voice made even good news sound sad.
+maudlin|adj|Foolishly sentimental.|The film became maudlin in its final scenes.
+wistful|adj|Showing vague longing or regret.|She cast a wistful glance at her old school.
+plaintive|adj|Sounding sad and mournful.|The plaintive cry of a gull echoed over the harbor.
+lament|v|To express sorrow or regret about something.|Residents lament the closure of the old cinema.
++|n|A passionate expression of grief.|The song is a lament for a lost homeland.
+anguish|n|Severe mental or physical suffering.|Parents waited in anguish for news.
+angst|n|A feeling of deep anxiety about life or the future.|The novel captures teenage angst well.
+ennui|n|Weariness and dissatisfaction from lack of interest.|Long summer days sometimes brought on ennui.
+malaise|n|A general feeling of unease or ill-being.|A sense of malaise hung over the struggling town.
+torpor|n|A state of physical or mental inactivity.|The warm afternoon left the class in a torpor.
+consternation|n|Anxiety or dismay at something unexpected.|To our consternation, the bridge was closed.
+dismay|n|A feeling of shock and disappointment.|She watched in dismay as the cake collapsed.
+trepidation|n|Fear about something that may happen.|He approached the stage with trepidation.
+foreboding|n|A feeling that something bad will happen.|The dark clouds filled the sailors with foreboding.
+qualm|n|A feeling of doubt about whether an action is right.|She had no qualms about returning the extra change.
+misgiving|n|A feeling of doubt or worry.|Despite his misgivings, he signed the agreement.
+compunction|n|A feeling of guilt that makes one hesitate.|They broke the promise without compunction.
+remorse|n|Deep regret for wrongdoing.|He showed genuine remorse for the damage.
+contrite|adj|Feeling and showing regret.|A contrite note arrived with a bunch of flowers.
+penitent|adj|Sorry for having done wrong.|The penitent student offered to repaint the wall.
+rueful|adj|Expressing regret, often with gentle humor.|He gave a rueful grin at his burnt toast.
+chagrin|n|Annoyance or embarrassment at failure.|Much to his chagrin, the joke fell flat.
+mortified|adj|Extremely embarrassed.|I was mortified when my phone rang during the speech.
+abashed|adj|Embarrassed or ashamed.|He looked abashed when caught reading the answers.
+indignant|adj|Angry at something unfair.|She was indignant at being charged twice.
+irate|adj|Very angry.|An irate caller demanded a manager.
+livid|adj|Furiously angry.|Dad was livid about the scratched car.
+incensed|adj|Extremely angry.|Neighbors were incensed by the midnight drilling.
+exasperate|v|To irritate intensely.|His constant delays exasperate the whole team.
+vex|v|To annoy or worry someone.|A puzzling leak continued to vex the plumber.
+irk|v|To irritate or annoy.|Loud chewing irks me more than it should.
+rankle|v|To cause lasting annoyance.|The unfair remark still rankles.
+umbrage|n|Offense taken at something.|He took umbrage at the suggestion that he was late.
+pique|v|To arouse interest or curiosity.|The trailer piqued my curiosity.
++|n|A feeling of irritation from wounded pride.|She left in a fit of pique.
+animosity|n|Strong hostility.|Years of animosity ended with a handshake.
+antipathy|n|A deep-seated feeling of dislike.|He has a strong antipathy to crowded places.
+enmity|n|A state of being opposed or hostile.|Old enmity between the two clubs faded.
+rancor|n|Bitterness or lasting resentment.|They parted without rancor.
+acrimony|n|Bitterness and ill feeling.|The meeting ended in acrimony.
+abhor|v|To regard with disgust and hatred.|I abhor cruelty of any kind.
+loathe|v|To feel intense dislike for.|She loathes waking before sunrise.
+revile|v|To criticize in an abusive and angry way.|The decision was reviled by fans.
+disdain|n|The feeling that something is unworthy of respect.|He looked at the instant soup with disdain.
+scorn|n|Open contempt.|Her early theory was met with scorn.
+revulsion|n|A sense of disgust.|The smell filled him with revulsion.
+aversion|n|A strong dislike.|He has an aversion to public speaking.
+predilection|n|A preference or special liking.|She has a predilection for mystery novels.
+penchant|n|A strong or habitual liking.|His penchant for puns tries our patience.
+propensity|n|A natural tendency to behave in a certain way.|Puppies have a propensity to chew everything.
+proclivity|n|An inclination toward something.|Her proclivity for planning kept the trip smooth.
+affinity|n|A natural liking or connection.|He has an affinity for numbers.
+enamored|adj|Filled with love or admiration.|They were enamored of the little seaside town.
+smitten|adj|Suddenly very attracted to someone or something.|She was smitten with the tiny kitten.
+ardor|n|Great enthusiasm or passion.|His ardor for gardening never faded.
+fervor|n|Intense and passionate feeling.|The crowd sang with patriotic fervor.
+zeal|n|Great energy in pursuing a cause.|The new volunteers worked with zeal.
+alacrity|n|Cheerful readiness.|She accepted the invitation with alacrity.
+verve|n|Energy and enthusiasm.|The band played with verve.
+gusto|n|Great enjoyment and energy.|They tucked into the meal with gusto.
+complacent|adj|Smugly satisfied and unaware of dangers.|Success can make a company complacent.
+smug|adj|Showing too much pride in oneself.|He wore a smug smile after solving it first.
+serene|adj|Calm and peaceful.|The lake looked serene at dawn.
+tranquil|adj|Free from disturbance.|We spent a tranquil week in the hills.
+composure|n|Calm control of oneself.|She kept her composure during the interview.
+solace|n|Comfort in a time of distress.|He found solace in long walks.
+assuage|v|To make an unpleasant feeling less intense.|The doctor's words assuaged her fears.
+alleviate|v|To make suffering or a problem less severe.|New buses alleviated crowding on the route.
+mitigate|v|To make something less severe or harmful.|Planting trees can mitigate the effects of heat.
+allay|v|To reduce fear or suspicion.|The company tried to allay concerns about data safety.
+appease|v|To calm someone by giving in to demands.|The manager appeased the guest with a free dessert.
+commiserate|v|To express sympathy with someone.|Friends gathered to commiserate after the loss.
+pathos|n|A quality that stirs pity or sadness.|The final scene is full of pathos.
+poignant|adj|Deeply moving and touching.|It was a poignant moment when they said goodbye.
+harrowing|adj|Extremely distressing.|The climbers described a harrowing night in the storm.
+distraught|adj|Deeply upset and agitated.|The distraught child searched for her lost toy.
+perturb|v|To make someone anxious or unsettled.|Nothing seemed to perturb the old sailor.
+confound|v|To surprise and confuse.|The results confounded the experts.
+nonplus|v|To surprise someone so much that they do not know how to react.|The odd question nonplussed the speaker.
+reverence|n|Deep respect.|Visitors spoke with reverence about the ancient tree.
+epitome|n|A perfect example of a quality.|She is the epitome of calm under pressure.

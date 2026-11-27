@@ -1,0 +1,135 @@
+# Theme: character and temperament
+altruistic|adj|Showing selfless concern for others.|It was altruistic of her to give up her weekend to help strangers move.
+benevolent|adj|Kind and wishing to do good.|A benevolent donor paid for the school's new roof.
+magnanimous|adj|Generous and forgiving, especially toward a rival.|He was magnanimous in victory and praised his opponent.
+munificent|adj|Extremely generous with money or gifts.|The museum received a munificent gift from a local family.
+philanthropic|adj|Devoted to helping others through generous giving.|Her philanthropic work funds clinics in rural areas.
+gregarious|adj|Fond of company and sociable.|Gregarious by nature, he made friends in every queue.
+affable|adj|Friendly and easy to talk to.|The affable receptionist put nervous patients at ease.
+amiable|adj|Pleasant and good-natured.|Their amiable neighbor often shares vegetables from his garden.
+congenial|adj|Pleasant because of shared tastes or a friendly nature.|She found the small office a congenial place to work.
+genial|adj|Cheerful, warm, and friendly.|The genial host greeted every guest by name.
+convivial|adj|Lively, friendly, and enjoyable.|The convivial atmosphere made the long dinner fly by.
+ebullient|adj|Full of cheerful energy.|The ebullient crowd sang all the way home.
+effervescent|adj|Bubbly and enthusiastic.|Her effervescent personality lifted the whole team.
+vivacious|adj|Attractively lively and animated.|The vivacious dancer charmed the audience.
+exuberant|adj|Full of energy, excitement, and cheerfulness.|The puppy gave us an exuberant welcome.
+sanguine|adj|Optimistic, especially in a difficult situation.|She remained sanguine about the project despite the delays.
+buoyant|adj|Cheerful and optimistic.|The team was in a buoyant mood after the win.
+phlegmatic|adj|Calm and not easily excited.|The phlegmatic pilot spoke as if turbulence were nothing unusual.
+stoic|adj|Enduring hardship without complaining.|He remained stoic while waiting for the test results.
+equanimity|n|Calmness and composure, especially under stress.|She accepted the setback with equanimity.
+imperturbable|adj|Impossible to upset or excite.|The imperturbable referee ignored the shouting crowd.
+unflappable|adj|Staying calm in a crisis.|An unflappable nurse kept the busy ward running.
+placid|adj|Calm and peaceful in nature.|The placid cow barely noticed the passing cars.
+docile|adj|Ready to accept control or instruction.|The horse was so docile that beginners could ride it.
+tractable|adj|Easy to manage or influence.|The new software made a messy problem tractable.
+intrepid|adj|Fearless and adventurous.|The intrepid explorer set off before dawn.
+amenable|adj|Open and willing to be persuaded.|They were amenable to changing the meeting time.
+compliant|adj|Inclined to agree with others or follow rules.|The factory is now fully compliant with safety standards.
+obstinate|adj|Stubbornly refusing to change one's mind.|The obstinate mule would not budge.
+obdurate|adj|Stubbornly refusing to be moved by argument or pity.|The landlord remained obdurate despite our pleas.
+intransigent|adj|Unwilling to compromise.|Talks stalled because both sides were intransigent.
+recalcitrant|adj|Stubbornly resisting authority or control.|The recalcitrant printer refused to work yet again.
+headstrong|adj|Determined to have one's own way.|The headstrong apprentice ignored every warning.
+capricious|adj|Given to sudden, unpredictable changes of mood or behavior.|The capricious weather turned our picnic into a dash for shelter.
+mercurial|adj|Subject to sudden changes of mood.|Her mercurial temper kept everyone on guard.
+fickle|adj|Changing loyalties or interests frequently.|Fashion audiences can be fickle.
+volatile|adj|Likely to change suddenly and unpredictably.|Share prices were volatile all week.
+impetuous|adj|Acting quickly without thinking.|An impetuous purchase left him short of cash.
+audacious|adj|Willing to take bold risks.|The team made an audacious plan to finish a month early.
+brazen|adj|Bold and without shame.|He told a brazen lie while looking straight at us.
+impudent|adj|Rudely bold toward someone deserving respect.|The impudent remark earned him extra chores.
+insolent|adj|Showing rude disrespect.|The insolent tone of the email surprised everyone.
+impertinent|adj|Not showing proper respect; rude.|It would be impertinent to ask about her salary.
+presumptuous|adj|Going beyond what is proper or permitted.|It was presumptuous of him to book the tickets without asking.
+haughty|adj|Proudly superior and disdainful.|She gave the intruder a haughty look.
+supercilious|adj|Behaving as if one is better than others.|The supercilious clerk barely glanced at our form.
+condescending|adj|Treating others as less intelligent or important.|His condescending explanation annoyed the engineers.
+imperious|adj|Arrogantly domineering.|With an imperious wave, he dismissed the objection.
+domineering|adj|Trying to control others in an overbearing way.|A domineering manager can drive talented people away.
+overbearing|adj|Unpleasantly forceful or controlling.|Her overbearing advice made him stop sharing his plans.
+dogmatic|adj|Insisting that one's beliefs are true without considering others.|He is so dogmatic about diet that discussion is pointless.
+pompous|adj|Self-important and overly formal.|The pompous speaker referred to himself as a visionary.
+pretentious|adj|Trying to seem more important or cultured than one is.|The menu used pretentious names for ordinary sandwiches.
+ostentatious|adj|Designed to impress by showing wealth.|They arrived in an ostentatious gold car.
+vainglorious|adj|Excessively proud of one's own achievements.|The vainglorious general wrote poems about his own bravery.
+narcissistic|adj|Excessively interested in oneself and one's appearance.|His narcissistic posts were all close-ups of himself.
+egotistical|adj|Thinking too highly of oneself.|The egotistical star refused to share the stage.
+conceited|adj|Excessively proud of oneself.|Winning the prize did not make her conceited.
+unassuming|adj|Modest and not drawing attention to oneself.|The unassuming man turned out to be a famous scientist.
+diffident|adj|Lacking self-confidence; shy.|The diffident student hesitated to raise his hand.
+timorous|adj|Nervous and easily frightened.|A timorous squirrel peered from behind the trunk.
+demure|adj|Quiet, modest, and reserved.|She gave a demure smile and said nothing.
+aloof|adj|Distant and not friendly or involved.|The new neighbor seemed aloof until we got to know him.
+reclusive|adj|Avoiding the company of other people.|The reclusive author rarely gives interviews.
+introspective|adj|Inclined to examine one's own thoughts and feelings.|The long train ride put him in an introspective mood.
+pensive|adj|Engaged in deep, often serious thought.|She looked pensive as she gazed out at the rain.
+contemplative|adj|Involving quiet and deep thought.|The monastery offers a contemplative retreat.
+morose|adj|Gloomy and bad-tempered.|He sat morose in the corner after losing the match.
+sullen|adj|Silent and resentful.|The sullen teenager refused to join the family photo.
+surly|adj|Bad-tempered and unfriendly.|A surly guard waved us away.
+curmudgeon|n|A bad-tempered, often old, person.|Even the village curmudgeon smiled at the festival.
+misanthrope|n|A person who dislikes people in general.|The story follows a misanthrope who slowly learns to trust.
+cantankerous|adj|Bad-tempered and argumentative.|The cantankerous landlord complained about everything.
+irascible|adj|Easily made angry.|The irascible professor snapped at the smallest error.
+petulant|adj|Childishly sulky or bad-tempered.|He gave a petulant shrug and walked off.
+peevish|adj|Easily irritated, especially by small things.|Lack of sleep made her peevish.
+querulous|adj|Complaining in a whining way.|The querulous guest found fault with every dish.
+truculent|adj|Eager to argue or fight.|The truculent shopper blocked the aisle.
+pugnacious|adj|Quick to quarrel.|His pugnacious style made enemies in the committee.
+belligerent|adj|Hostile and aggressive.|A belligerent caller shouted at the operator.
+bellicose|adj|Showing readiness to fight or go to war.|The leader's bellicose speech worried neighboring states.
+vindictive|adj|Having a strong desire for revenge.|He was not vindictive and soon forgot the slight.
+malicious|adj|Intending to cause harm.|Police traced the malicious messages to a fake account.
+malevolent|adj|Wishing to do evil to others.|The villain gave a malevolent grin.
+duplicitous|adj|Deceitful and two-faced.|A duplicitous partner told each side a different story.
+devious|adj|Using clever but dishonest methods.|They found a devious way around the entry fee.
+wily|adj|Skilled at gaining an advantage through clever tricks.|The wily fox escaped through a gap in the fence.
+guileless|adj|Innocent and without deception.|Her guileless questions revealed the flaw in the plan.
+ingenuous|adj|Innocent, honest, and trusting.|His ingenuous enthusiasm was refreshing.
+credulous|adj|Too ready to believe things.|Credulous buyers paid for a miracle gadget that did nothing.
+astute|adj|Quick to understand situations and turn them to advantage.|An astute investor noticed the trend early.
+shrewd|adj|Showing sharp judgment, especially in practical matters.|She is a shrewd negotiator who rarely overpays.
+sagacious|adj|Wise and showing good judgment.|The village elder gave sagacious advice.
+perspicacious|adj|Having a keen ability to notice and understand things.|A perspicacious reader spotted the clue on page two.
+discerning|adj|Showing good taste and judgment.|The shop caters to discerning tea drinkers.
+judicious|adj|Having or showing good sense.|With judicious use of savings, they paid off the loan early.
+prudent|adj|Careful and sensible, especially about the future.|It would be prudent to back up your files.
+circumspect|adj|Cautious and unwilling to take risks.|Officials were circumspect when asked about the merger.
+scrupulous|adj|Very careful to be honest and thorough.|He kept scrupulous records of every donation.
+conscientious|adj|Careful to do one's work well.|A conscientious worker double-checks the details.
+assiduous|adj|Showing great care and persistent effort.|Her assiduous research uncovered forgotten letters.
+diligent|adj|Working carefully and steadily.|Diligent practice improved his handwriting.
+industrious|adj|Hard-working.|The industrious students built the set in a single day.
+indefatigable|adj|Never tiring or giving up.|The indefatigable volunteer organized five events in a month.
+tenacious|adj|Holding firmly to a purpose; persistent.|The tenacious reporter kept asking until she got an answer.
+indolent|adj|Lazy; avoiding activity.|The indolent cat slept through the whole afternoon.
+lethargic|adj|Sluggish and lacking energy.|The heat made everyone feel lethargic.
+listless|adj|Lacking energy or interest.|The listless crowd waited in the drizzle.
+languid|adj|Slow and relaxed, often pleasantly.|They spent a languid afternoon by the river.
+apathetic|adj|Showing no interest or enthusiasm.|Voters grew apathetic after years of broken promises.
+lackadaisical|adj|Lacking enthusiasm and care.|His lackadaisical attitude to deadlines worried the editor.
+sycophant|n|A person who flatters the powerful to gain advantage.|Surrounded by sycophants, the director heard only praise.
+obsequious|adj|Excessively eager to please or obey.|The obsequious assistant agreed with everything the boss said.
+servile|adj|Showing an excessive willingness to serve others.|His servile manner made the guests uncomfortable.
+frugal|adj|Careful about spending money or using resources.|A frugal cook wastes almost nothing.
+parsimonious|adj|Very unwilling to spend money.|The parsimonious owner refused to replace the broken heater.
+miserly|adj|Hoarding money and spending very little.|Despite his wealth, he lived a miserly life.
+avaricious|adj|Extremely greedy for wealth.|The avaricious landlord doubled the rent without warning.
+rapacious|adj|Aggressively greedy.|Rapacious developers stripped the hillside of trees.
+covetous|adj|Having a strong desire to possess what belongs to others.|He cast a covetous glance at his neighbor's new bicycle.
+profligate|adj|Recklessly wasteful.|Profligate spending emptied the club's account.
+abstemious|adj|Restrained in eating and drinking.|Her abstemious habits kept her in good health.
+temperate|adj|Showing moderation and self-control.|He gave a temperate response to a heated question.
++|adj|Mild in temperature.|The region enjoys a temperate climate.
+ascetic|adj|Practicing strict self-discipline and giving up comforts.|The monk led an ascetic life in a bare room.
+hedonist|n|A person who seeks pleasure as the main goal in life.|A cheerful hedonist, he never passed up a good dessert.
+connoisseur|n|An expert judge of art, food, or taste.|A coffee connoisseur can tell where the beans were grown.
+dilettante|n|A person who dabbles in a subject without serious commitment.|He was a dilettante who tried painting for a month.
+polymath|n|A person with wide knowledge in many subjects.|The polymath wrote on astronomy, music, and medicine.
+iconoclast|n|A person who attacks widely held beliefs.|The iconoclast challenged every tradition of the art school.
+maverick|n|An independent-minded person who does not follow the group.|A maverick designer ignored the season's trends.
+zealot|n|A person who is fanatical about a belief.|A fitness zealot, he tried to convert the whole office.
+charlatan|n|A person who falsely claims special knowledge or skill.|The charlatan sold bracelets that he said cured headaches.
+demagogue|n|A leader who gains support by stirring up emotions and prejudice.|The demagogue blamed outsiders for every problem.

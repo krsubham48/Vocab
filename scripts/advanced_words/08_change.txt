@@ -1,0 +1,93 @@
+# Theme: change, growth and decline
+burgeon|v|To grow or increase rapidly.|The city's food scene continues to burgeon.
+flourish|v|To grow or develop successfully.|Herbs flourish on a sunny windowsill.
+proliferate|v|To increase rapidly in number.|Coffee shops proliferated across the neighborhood.
+propagate|v|To spread or reproduce.|Gardeners propagate roses from cuttings.
+engender|v|To cause or give rise to a feeling or situation.|Open communication engenders trust.
+foment|v|To stir up trouble or rebellion.|Rumors helped foment unrest.
+precipitate|v|To cause something to happen suddenly.|The announcement precipitated a rush on tickets.
+catalyst|n|Something that speeds up or causes change.|The new road was a catalyst for growth.
+instigate|v|To bring about or start something.|She instigated a review of safety procedures.
+germinate|v|To begin to grow.|The seeds germinate within a week.
+incipient|adj|Beginning to happen or develop.|The doctor noticed signs of incipient fatigue.
+nascent|adj|Just beginning to exist.|The nascent industry needs support.
+inchoate|adj|Not yet fully formed.|He had an inchoate sense that something was wrong.
+fledgling|adj|New and inexperienced.|The fledgling business hired its first employee.
+inception|n|The beginning of something.|She has worked there since its inception.
+genesis|n|The origin or formation of something.|The genesis of the idea was a rainy afternoon.
+advent|n|The arrival of an important thing or person.|The advent of the printing press spread ideas widely.
+culminate|v|To reach a final or highest point.|The week of events culminated in a grand parade.
+zenith|n|The highest point.|The empire was at its zenith.
+apex|n|The top or highest point.|The eagle perched at the apex of the rock.
+acme|n|The point of perfection.|This vase represents the acme of the potter's skill.
+nadir|n|The lowest point.|Losing the final was the nadir of the season.
+wane|v|To become weaker or smaller.|Interest in the game began to wane.
+abate|v|To become less intense.|We waited for the storm to abate.
+subside|v|To become less strong or sink lower.|The pain should subside within an hour.
+dwindle|v|To gradually become smaller.|Our supplies dwindled to a few biscuits.
+attenuate|v|To reduce in force or value.|Thick walls attenuate street noise.
+atrophy|v|To waste away through lack of use.|Muscles atrophy without exercise.
+stagnate|v|To stop developing or moving.|Wages stagnated for years.
+languish|v|To grow weak or be neglected.|The proposal languished in a drawer.
+disintegrate|v|To break into small pieces.|The old paper began to disintegrate.
+erode|v|To gradually wear away.|Waves slowly erode the cliff.
+corrode|v|To destroy or damage metal by chemical action.|Salt air can corrode railings.
+degenerate|v|To decline into a worse state.|The discussion degenerated into shouting.
+debilitate|v|To make very weak.|A long fever can debilitate even athletes.
+enervate|v|To drain of energy.|The humid air enervated us.
+undermine|v|To weaken gradually.|Constant criticism can undermine confidence.
+exacerbate|v|To make a problem worse.|Skipping meals may exacerbate headaches.
+ameliorate|v|To make something better.|Extra shade trees ameliorated the summer heat.
+rectify|v|To put something right.|We will rectify the billing error today.
+redress|v|To remedy or set right.|The new fund aims to redress past neglect.
+rejuvenate|v|To make someone or something feel fresh and young again.|A weekend by the sea rejuvenated her.
+revitalize|v|To give new life or energy to.|The market helped revitalize the old district.
+resurgence|n|A renewed increase or activity.|There has been a resurgence of interest in pottery.
+renaissance|n|A revival of interest or activity.|The town is enjoying a cultural renaissance.
+metamorphosis|n|A complete change of form or character.|The garden's metamorphosis took a single season.
+transmute|v|To change in form or substance.|The artist transmutes scrap into sculpture.
+transfigure|v|To transform into something more beautiful.|A smile transfigured his tired face.
+vacillate|v|To waver between choices.|He vacillated between the two job offers.
+oscillate|v|To swing back and forth.|The fan oscillates from side to side.
+fluctuate|v|To rise and fall irregularly.|Prices fluctuate with the seasons.
+deviate|v|To depart from an established course.|Do not deviate from the marked trail.
+diverge|v|To separate and go in different directions.|Our paths diverged after college.
+converge|v|To come together from different directions.|Three rivers converge near the town.
+coalesce|v|To come together to form one.|Small groups coalesced into a movement.
+amalgamate|v|To combine into one organization or structure.|The two schools will amalgamate next year.
+synthesize|v|To combine ideas or substances into a whole.|The essay synthesizes research from several fields.
+permeate|v|To spread throughout.|The smell of fresh bread permeated the house.
+pervade|v|To be present everywhere in something.|A sense of optimism pervaded the office.
+suffuse|v|To gradually spread through or over.|Warm light suffused the room.
+encroach|v|To intrude gradually on space or rights.|New buildings encroach on farmland.
+infringe|v|To violate a rule or right.|Copying the design may infringe copyright.
+inundate|v|To flood or overwhelm.|We were inundated with replies.
+deluge|n|A great flood or a large amount.|The announcement brought a deluge of questions.
+augment|v|To make greater by adding.|He augments his income by tutoring.
+amplify|v|To make louder or stronger.|Social media amplifies small stories.
+bolster|v|To support or strengthen.|The win bolstered the team's confidence.
+buttress|v|To support or reinforce.|New data buttress the researcher's conclusion.
+fortify|v|To strengthen against attack or weakness.|Milk fortified with vitamins helps growing children.
+galvanize|v|To shock or excite into action.|The news galvanized volunteers.
+invigorate|v|To give energy to.|A cold swim will invigorate you.
+supplant|v|To take the place of.|Streaming has largely supplanted DVDs.
+supersede|v|To replace something older or less useful.|The new guidelines supersede last year's.
+obviate|v|To remove a need or difficulty.|Online booking obviates the need to queue.
+preclude|v|To prevent something from happening.|A prior engagement precludes my attending.
+forestall|v|To prevent by acting in advance.|They forestalled complaints by explaining the delay early.
+avert|v|To prevent something bad from happening.|Quick action averted a fire.
+eradicate|v|To destroy completely.|The campaign aims to eradicate polio.
+extirpate|v|To root out and destroy completely.|Hunters nearly extirpated wolves from the region.
+expunge|v|To erase or remove completely.|The record was expunged after a year.
+efface|v|To erase or make less noticeable.|Time had effaced the inscription.
+obliterate|v|To destroy utterly or wipe out.|Fresh snow obliterated our footprints.
+annihilate|v|To destroy completely.|The champion annihilated every opponent.
+raze|v|To tear down completely.|The old warehouse was razed to build a park.
+dismantle|v|To take apart.|Workers dismantled the stage after the show.
+truncate|v|To shorten by cutting off part.|The file was truncated during the transfer.
+retrench|v|To cut costs or spending.|The company had to retrench after losing a major client.
+palliate|v|To ease a problem without removing its cause.|Fans palliate the heat but do not fix the poor ventilation.
+surge|v|To rise or move suddenly and powerfully.|Demand surged before the holiday.
+escalate|v|To become more serious or intense.|A small dispute escalated quickly.
+mushroom|v|To increase very quickly.|Requests mushroomed after the broadcast.
+ossify|v|To become rigid and resistant to change.|Old habits can ossify into rules.

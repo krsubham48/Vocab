@@ -1,0 +1,111 @@
+# Theme: thought, knowledge and learning
+erudite|adj|Having or showing great learning.|The erudite guide knew the story behind every statue.
+pedantic|adj|Overly concerned with small details and rules.|It is pedantic to correct every minor slip in a casual chat.
+didactic|adj|Intended to teach, especially a moral lesson.|The children's story is charming without being didactic.
+autodidact|n|A self-taught person.|An autodidact, she learned three languages from library books.
+tutelage|n|Instruction or guidance.|Under her tutelage, the chess club won its first trophy.
+acumen|n|The ability to make good judgments quickly.|His business acumen turned a stall into a chain of shops.
+cognizant|adj|Aware of something.|We are cognizant of the risks involved.
+conversant|adj|Familiar with or knowledgeable about something.|All staff should be conversant with the new system.
+versed|adj|Experienced or knowledgeable in something.|She is well versed in local history.
+adept|adj|Very skilled at something.|He is adept at fixing old radios.
+proficient|adj|Competent and skilled.|After a year, she was proficient in sign language.
+deft|adj|Neatly skillful and quick.|With a few deft strokes, the artist captured the face.
+dexterous|adj|Skillful with the hands or mind.|The dexterous juggler kept five balls in the air.
+inept|adj|Lacking skill.|His inept attempt at cooking filled the kitchen with smoke.
+maladroit|adj|Clumsy or tactless.|A maladroit comment spoiled the friendly mood.
+neophyte|n|A person who is new to a subject or activity.|The course is designed for neophytes and experts alike.
+virtuoso|n|A person with outstanding skill, especially in music.|The young virtuoso played the concerto from memory.
+luminary|n|A person who inspires or influences others in a field.|Luminaries of modern science attended the conference.
+savant|n|A learned person or one with exceptional ability in one area.|The village savant could calculate dates centuries apart.
+pundit|n|An expert who often gives opinions in public.|Television pundits disagreed about the result.
+cerebral|adj|Relating to intellect rather than emotion.|The film is a cerebral puzzle about memory.
+abstruse|adj|Difficult to understand.|The lecture on abstruse mathematics lost most of the audience.
+arcane|adj|Understood by only a few people.|The forms required arcane knowledge of tax law.
+esoteric|adj|Intended for or understood by only a small group.|He collects books on esoteric subjects such as old map codes.
+recondite|adj|Little known and obscure.|The footnotes discuss recondite points of grammar.
+inscrutable|adj|Impossible to read or interpret.|Her inscrutable expression gave nothing away.
+ineffable|adj|Too great to be put into words.|The view from the summit filled us with ineffable joy.
+cryptic|adj|Having a hidden or unclear meaning.|He left a cryptic note on the fridge.
+opaque|adj|Hard to understand; not transparent.|The company's pricing rules are completely opaque.
+lucid|adj|Clear and easy to understand.|She gave a lucid explanation of the water cycle.
+cogent|adj|Clear, logical, and convincing.|He made a cogent case for extending library hours.
+coherent|adj|Logical and well organized.|Please arrange your notes into a coherent argument.
+incisive|adj|Clear, sharp, and analytical.|Her incisive questions exposed the weak points.
+conundrum|n|A difficult and confusing problem.|Balancing work and rest is a modern conundrum.
+quandary|n|A state of uncertainty about what to do.|He was in a quandary about which offer to accept.
+enigma|n|A person or thing that is mysterious.|The quiet new member remains an enigma.
+paradigm|n|A typical model or way of thinking.|Remote work has shifted the paradigm of office life.
+axiom|n|A statement accepted as true without proof.|It is an axiom of geometry that a straight line joins any two points.
+postulate|v|To suggest something as a basis for reasoning.|Scientists postulated the existence of the particle decades ago.
+premise|n|A statement on which an argument is based.|The whole argument rests on a false premise.
+hypothesis|n|A proposed explanation to be tested.|Our hypothesis is that plants grow faster with music.
+conjecture|n|An opinion formed without proof.|Reports of a merger are pure conjecture.
++|v|To form an opinion on incomplete information.|We can only conjecture about what the letter said.
+surmise|v|To suppose something is true without clear evidence.|From the muddy shoes, I surmised he had walked home.
+infer|v|To conclude from evidence and reasoning.|We can infer from the dates that the shop opened first.
+deduce|v|To reach a conclusion by logic.|The detective deduced the visitor's job from his hands.
+extrapolate|v|To estimate beyond known data.|We can extrapolate next year's sales from this trend.
+interpolate|v|To insert or estimate values between known points.|Software can interpolate the missing readings.
+ascertain|v|To find something out for certain.|Engineers are working to ascertain the cause of the outage.
+construe|v|To interpret in a particular way.|Silence should not be construed as agreement.
+misconstrue|v|To interpret wrongly.|I think you misconstrued my joke as criticism.
+apprehend|v|To understand or grasp.|It takes time to apprehend the scale of the ocean.
++|v|To arrest someone.|Officers apprehended the suspect at the station.
+fathom|v|To understand something after much thought.|I cannot fathom why anyone would throw away a good bicycle.
+muse|v|To think carefully about something.|She mused about what life would be like on an island.
+ruminate|v|To think deeply and repeatedly about something.|He spent the evening ruminating over the interview.
+mull|v|To consider something at length.|Give me a day to mull over the offer.
+peruse|v|To read carefully.|Take a moment to peruse the contract before signing.
+collate|v|To collect and arrange information in order.|Volunteers collated survey results from every district.
+appraise|v|To assess the value or quality of something.|An expert will appraise the antique clock.
+juxtapose|v|To place side by side for contrast.|The exhibit juxtaposes old photos with modern ones.
+corroborate|v|To confirm with evidence.|Two witnesses corroborated her account.
+substantiate|v|To provide evidence to support a claim.|He could not substantiate his claim of a record catch.
+authenticate|v|To prove that something is genuine.|The museum authenticated the signature.
+debunk|v|To expose a belief as false.|The video debunks common myths about memory.
+dispel|v|To make a doubt or fear disappear.|Clear data helped dispel rumors about the product.
+edify|v|To instruct or improve morally or intellectually.|The talks aim to edify as well as entertain.
+imbue|v|To fill with a feeling or quality.|Her teaching imbued students with a love of science.
+inculcate|v|To teach by repetition.|Parents try to inculcate good manners early.
+indoctrinate|v|To teach someone to accept beliefs without question.|The group tried to indoctrinate new members.
+assimilate|v|To take in and understand information.|It took weeks to assimilate all the new procedures.
+reminisce|v|To talk or think about past experiences with pleasure.|The old friends reminisced about school days.
+cognition|n|The process of knowing and thinking.|Sleep has a strong effect on cognition.
+empirical|adj|Based on observation or experiment.|There is little empirical support for that diet.
+heuristic|n|A practical rule of thumb for solving problems.|A useful heuristic is to start with the easiest case.
+rudimentary|adj|Basic or elementary.|He has only a rudimentary knowledge of French.
+nuance|n|A subtle difference in meaning or feeling.|A good translator captures every nuance.
+minutiae|n|Small, precise details.|He enjoys the minutiae of old train timetables.
+intricate|adj|Very detailed and complicated.|The watch has an intricate mechanism.
+convoluted|adj|Extremely complex and hard to follow.|The film's convoluted plot confused viewers.
+labyrinthine|adj|Complicated like a maze.|The office has a labyrinthine filing system.
+byzantine|adj|Excessively complicated, especially in rules.|Getting a permit involved byzantine procedures.
+tortuous|adj|Full of twists and turns; long and complex.|The road up the mountain is steep and tortuous.
+ponderous|adj|Slow and heavy, and therefore dull.|The speech was ponderous and overlong.
+prosaic|adj|Lacking imagination; ordinary.|The truth behind the strange noise was prosaic: a loose pipe.
+mundane|adj|Ordinary and dull.|Even mundane chores can be calming.
+trite|adj|Overused and lacking freshness.|The card contained a trite message.
+hackneyed|adj|Used so often that it is no longer interesting.|He avoided hackneyed phrases in his writing.
+banal|adj|So lacking in originality as to be boring.|The interview was full of banal questions.
+insipid|adj|Lacking flavor or interest.|The soup was thin and insipid.
+vapid|adj|Offering nothing stimulating or challenging.|The show was filled with vapid chatter.
+ingenious|adj|Cleverly inventive.|An ingenious hinge lets the table fold flat.
+erroneous|adj|Wrong or mistaken.|The bill was based on an erroneous reading.
+tenuous|adj|Very weak or slight.|The link between the two events is tenuous.
+fallacy|n|A mistaken belief or faulty reasoning.|It is a fallacy that shouting makes an argument stronger.
+specious|adj|Seeming right but actually wrong.|He offered a specious excuse for the missing money.
+spurious|adj|False or not genuine.|The advert made spurious claims about instant results.
+sophistry|n|Clever but deceptive reasoning.|The lawyer's argument was mere sophistry.
+tautology|n|Saying the same thing twice in different words.|"Free gift" is a common tautology.
+anomaly|n|Something that differs from what is expected.|The warm week in January was an anomaly.
+aberration|n|A departure from what is normal.|One bad review was an aberration in an excellent record.
+discrepancy|n|A difference between things that should match.|There is a discrepancy between the two totals.
+disparity|n|A great difference, often unfair.|The disparity in funding between schools is striking.
+dichotomy|n|A division into two sharply contrasting groups.|The dichotomy between art and science is often exaggerated.
+analogous|adj|Comparable in certain ways.|The brain is sometimes thought of as analogous to a computer.
+incongruous|adj|Out of place or not matching.|The modern glass tower looked incongruous among old cottages.
+germane|adj|Relevant to the subject.|Please keep your comments germane to the topic.
+pertinent|adj|Relevant and appropriate.|She asked several pertinent questions.
+extraneous|adj|Irrelevant or unrelated.|Remove extraneous details from your summary.
+superfluous|adj|More than needed; unnecessary.|The extra instructions were superfluous.

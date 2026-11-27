@@ -1,0 +1,94 @@
+# Theme: the senses, health and nature
+luminous|adj|Giving off light; bright.|The luminous dial glowed in the dark.
+radiant|adj|Sending out light or glowing with happiness.|She looked radiant on her graduation day.
+resplendent|adj|Attractive and impressive through rich color.|The dancers were resplendent in silk.
+iridescent|adj|Showing shifting rainbow colors.|The beetle's iridescent shell shimmered.
+incandescent|adj|Glowing from heat, or intensely emotional.|The coals became incandescent.
+lustrous|adj|Having a soft, glowing shine.|Her lustrous hair caught the light.
+somber|adj|Dark or serious in mood or color.|The hall fell into a somber silence.
+translucent|adj|Letting light pass but not clear images.|The lantern is made of translucent paper.
+diaphanous|adj|Light, delicate, and almost see-through.|A diaphanous curtain fluttered in the breeze.
+gossamer|adj|Very light and thin.|Gossamer threads hung between the branches.
+variegated|adj|Showing patches of different colors.|The garden has variegated ivy.
+mottled|adj|Marked with spots or patches.|The frog has mottled green skin.
+pallid|adj|Unusually pale.|He looked pallid after the long illness.
+wan|adj|Pale and appearing weak.|She gave a wan smile.
+sallow|adj|Of an unhealthy yellowish color.|Weeks indoors left him looking sallow.
+gaunt|adj|Very thin and tired-looking.|The explorers returned gaunt but cheerful.
+emaciated|adj|Abnormally thin from lack of food.|The vet treated an emaciated stray.
+lithe|adj|Thin, supple, and graceful.|The lithe gymnast flipped effortlessly.
+supple|adj|Bending easily without breaking.|The leather became supple with use.
+nimble|adj|Quick and light in movement.|Nimble fingers threaded the needle.
+ungainly|adj|Awkward and clumsy in movement.|The ungainly pelican waddled across the dock.
+gawky|adj|Awkward and clumsy, especially when young.|The gawky foal struggled to stand.
+stalwart|adj|Loyal, reliable, and strong.|He has been a stalwart supporter of the club.
+robust|adj|Strong and healthy.|The economy remains robust.
+hale|adj|Healthy and strong, especially when old.|At eighty, he is still hale and cheerful.
+salubrious|adj|Good for health; pleasant.|Doctors once sent patients to salubrious seaside towns.
+salutary|adj|Producing a useful effect, often through something unpleasant.|The accident was a salutary reminder to wear a helmet.
+wholesome|adj|Good for health or morals.|She serves simple, wholesome meals.
+deleterious|adj|Causing harm.|Lack of sleep has deleterious effects.
+noxious|adj|Harmful or very unpleasant.|The factory released noxious fumes.
+pernicious|adj|Having a harmful effect, especially gradually.|The pernicious myth discourages people from seeking help.
+insidious|adj|Spreading gradually and harmfully without notice.|Rust is an insidious enemy of old bicycles.
+virulent|adj|Extremely harmful or bitterly hostile.|A virulent strain of flu spread quickly.
+innocuous|adj|Not harmful or offensive.|It seemed an innocuous question.
+benign|adj|Gentle and kindly; not harmful.|The growth turned out to be benign.
+baleful|adj|Threatening harm or evil.|The crow gave us a baleful stare.
+ominous|adj|Suggesting something bad is coming.|An ominous rumble came from the mountain.
+auspicious|adj|Suggesting that success is likely.|Sunshine on opening day was an auspicious start.
+cacophony|n|A harsh mixture of sounds.|A cacophony of horns filled the street.
+din|n|A loud, unpleasant noise.|We could barely hear over the din of the market.
+clamor|n|A loud and confused noise or demand.|There was a clamor for tickets.
+discordant|adj|Harsh-sounding or in disagreement.|The discordant notes made everyone wince.
+euphony|n|A pleasing sound, especially of words.|The poet chose words for their euphony.
+resonant|adj|Deep, clear, and continuing to sound.|His resonant voice carried to the back row.
+reverberate|v|To echo repeatedly.|The drumbeat reverberated through the hall.
+fragrant|adj|Having a pleasant smell.|The fragrant jasmine perfumed the evening.
+aromatic|adj|Having a pleasant, spicy smell.|The stew was rich with aromatic herbs.
+pungent|adj|Having a strong, sharp smell or taste.|The pungent cheese filled the fridge with its odor.
+acrid|adj|Sharp and unpleasant to taste or smell.|Acrid smoke stung our eyes.
+fetid|adj|Smelling very unpleasant.|A fetid odor rose from the drain.
+rancid|adj|Smelling or tasting stale and bad.|The butter had turned rancid.
+savory|adj|Salty or spicy rather than sweet.|She prefers savory snacks to sweets.
+palatable|adj|Pleasant to taste or acceptable.|A little lemon made the medicine more palatable.
+succulent|adj|Juicy and tasty.|We enjoyed succulent mangoes.
+tactile|adj|Relating to the sense of touch.|The museum offers tactile exhibits.
+viscous|adj|Thick and sticky when flowing.|Honey is a viscous liquid.
+brittle|adj|Hard but easily broken.|Old plastic becomes brittle.
+pliable|adj|Easily bent or influenced.|Warm the wax until it is pliable.
+malleable|adj|Easily shaped or influenced.|Gold is a very malleable metal.
+taut|adj|Stretched tight.|The sails were taut in the wind.
+porous|adj|Having tiny holes that let liquid or air pass.|Clay pots are porous and keep water cool.
+idiosyncrasy|n|An unusual habit peculiar to someone.|Eating the crusts first is one of his idiosyncrasies.
+impermeable|adj|Not allowing liquid or gas through.|The jacket's fabric is impermeable to rain.
+impervious|adj|Not affected or influenced.|He seemed impervious to criticism.
+undulate|v|To move with a smooth wave-like motion.|The grass undulated in the wind.
+meander|v|To follow a winding course or wander.|The river meanders through the plain.
+serpentine|adj|Winding like a snake.|A serpentine road climbs the hillside.
+sinuous|adj|Having many curves; graceful in movement.|The dancer moved with sinuous grace.
+jagged|adj|Having sharp, uneven edges.|Waves broke on jagged rocks.
+craggy|adj|Rough and rocky, or ruggedly lined.|Eagles nest on the craggy cliffs.
+precipice|n|A very steep cliff.|The path ran along the edge of a precipice.
+chasm|n|A deep crack or a wide difference.|A chasm separated the two points of view.
+abyss|n|A very deep or seemingly bottomless space.|The diver peered into the dark abyss.
+fissure|n|A long, narrow crack.|Steam escaped from a fissure in the rock.
+cascade|n|A small waterfall or something falling in stages.|A cascade of flowers hung from the balcony.
+torrent|n|A strong, fast-moving stream or flood.|A torrent of water rushed down the gully.
+eddy|n|A circular movement of water or air.|Leaves spun in an eddy near the bank.
+tempest|n|A violent storm.|The ship was caught in a tempest.
+squall|n|A sudden violent gust of wind with rain.|A squall overturned the small boat.
+zephyr|n|A soft, light wind.|A zephyr stirred the curtains.
+inclement|adj|Unpleasantly cold or wet.|The match was postponed due to inclement weather.
+sultry|adj|Hot and humid.|It was a sultry evening in July.
+balmy|adj|Pleasantly warm.|We strolled in the balmy night air.
+frigid|adj|Extremely cold.|The frigid wind cut through our coats.
+flora|n|The plants of a region.|The park protects rare flora.
+fauna|n|The animals of a region.|The island's fauna includes giant tortoises.
+canopy|n|The upper layer of branches in a forest.|Monkeys leapt through the canopy.
+foliage|n|The leaves of plants.|Autumn foliage drew crowds of photographers.
+nocturnal|adj|Active at night.|Owls are nocturnal hunters.
+arboreal|adj|Living in or relating to trees.|Sloths are mainly arboreal animals.
+amphibious|adj|Able to live or operate on land and water.|The tour uses an amphibious vehicle.
+dormant|adj|Temporarily inactive.|The volcano has been dormant for centuries.
+somnolent|adj|Sleepy or causing sleepiness.|The warm hum of the train made us somnolent.

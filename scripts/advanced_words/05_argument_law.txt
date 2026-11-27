@@ -1,0 +1,96 @@
+# Theme: argument, agreement and law
+proponent|n|A person who argues in favor of something.|She is a proponent of cycling lanes in the city.
+adherent|n|A supporter of a person or idea.|Adherents of the method claim it saves hours each week.
+detractor|n|A person who criticizes someone or something.|Even his detractors admit the bridge is beautiful.
+dissent|n|Disagreement with a prevailing view.|The decision passed despite some dissent.
++|v|To express disagreement.|Two members dissented from the ruling.
+quintessential|adj|Being the most typical example of something.|It is the quintessential seaside village.
+concur|v|To agree.|Most doctors concur that sleep is vital.
+acquiesce|v|To accept something reluctantly but without protest.|He acquiesced to the new schedule.
+assent|n|Agreement or approval.|The chair nodded in assent.
+demur|v|To raise objections or show reluctance.|When asked to sing, she demurred.
+remonstrate|v|To protest forcefully.|Players remonstrated with the umpire.
+polemic|n|A strong written or spoken attack.|The pamphlet is a fierce polemic against waste.
+contentious|adj|Causing disagreement.|Parking remains a contentious issue.
+litigious|adj|Too ready to take disputes to court.|A litigious neighbor threatened to sue over a hedge.
+adversary|n|An opponent in a contest or dispute.|The chess master respected his young adversary.
+antagonist|n|A person who opposes another; a story's opposing character.|The antagonist turns out to be the hero's old friend.
+nemesis|n|A long-standing rival or cause of downfall.|The steep final hill proved to be the cyclist's nemesis.
+foil|n|A person who contrasts with and highlights another.|The serious sidekick is a perfect foil for the clumsy hero.
++|v|To prevent someone from succeeding.|A quick-thinking guard foiled the theft.
+partisan|adj|Strongly supporting one side.|The partisan crowd booed every call against the home team.
+bipartisan|adj|Involving agreement between two opposing parties.|The bill won rare bipartisan support.
+disinterested|adj|Impartial; not influenced by self-interest.|We need a disinterested judge to settle the matter.
+predisposed|adj|Inclined to a particular attitude or condition.|Children raised with music may be predisposed to enjoy it.
+preconception|n|An opinion formed before having full knowledge.|Travel challenged many of her preconceptions.
+bigot|n|A person intolerant of those who differ.|He refused to listen to the bigot's complaints.
+chauvinism|n|Exaggerated loyalty to one's own group or country.|National chauvinism distorted the commentary.
+jingoism|n|Aggressive and boastful patriotism.|The editorial was full of jingoism.
+xenophobia|n|Dislike or fear of foreigners.|The campaign spoke out against xenophobia.
+orthodox|adj|Following traditional or accepted beliefs.|The doctor took an orthodox approach to treatment.
+heterodox|adj|Not conforming to accepted standards.|Her heterodox views on teaching drew attention.
+heresy|n|A belief that goes against accepted opinion.|Suggesting pineapple on pizza is heresy to some.
+apostate|n|A person who abandons a belief or cause.|Former allies treated him as an apostate.
+renegade|n|A person who deserts and betrays a group.|The renegade member joined the rival club.
+arbiter|n|A person with authority to settle disputes.|The editor is the final arbiter of style.
+arbitrate|v|To settle a dispute as an impartial judge.|A neutral expert was asked to arbitrate.
+mediate|v|To help two sides reach agreement.|She offered to mediate between the two brothers.
+adjudicate|v|To make a formal judgment on a dispute.|A panel will adjudicate the competition.
+conciliate|v|To win over or calm someone.|The offer was meant to conciliate unhappy members.
+propitiate|v|To win or regain someone's favor by pleasing them.|He brought flowers to propitiate his annoyed host.
+overture|n|An approach made to open talks or a relationship.|The company made overtures to a smaller rival.
+rapprochement|n|The restoring of friendly relations.|The cultural festival marked a rapprochement between the towns.
+impasse|n|A situation where no progress is possible.|Negotiations reached an impasse.
+quagmire|n|A difficult situation that is hard to escape.|The project became a legal quagmire.
+imbroglio|n|A confused and embarrassing situation.|The seating mix-up turned into a social imbroglio.
+altercation|n|A noisy argument.|There was a brief altercation over a parking space.
+squabble|v|To quarrel noisily about something unimportant.|The siblings squabbled over the window seat.
+wrangle|v|To argue for a long time.|Officials wrangled over the budget for weeks.
+vendetta|n|A prolonged bitter campaign against someone.|The critic seemed to have a vendetta against the director.
+schism|n|A split into opposing groups.|A schism divided the club over the new rules.
+rift|n|A serious break in friendly relations.|A rift opened between the founders.
+discord|n|Disagreement and conflict.|Discord among the staff slowed everything down.
+accord|n|An official agreement.|The two nations signed a fishing accord.
+consensus|n|General agreement.|The committee reached a consensus.
+concession|n|Something given up to reach agreement.|Both sides made concessions.
+capitulate|v|To give up resisting.|The manager finally capitulated and approved the leave.
+relent|v|To become less severe or give in.|After an hour of pleading, Mom relented.
+vindicate|v|To clear someone of blame or prove them right.|Later evidence vindicated the scientist.
+exonerate|v|To officially clear someone of blame.|The report exonerated the driver.
+exculpate|v|To show that someone is not guilty.|New footage helped exculpate the accused.
+absolve|v|To free someone from blame or duty.|Apologizing does not absolve you of responsibility.
+acquit|v|To formally declare someone not guilty.|The jury acquitted him.
+indict|v|To formally accuse of a serious offense.|The official was indicted for fraud.
+incriminate|v|To make someone appear guilty.|The messages seemed to incriminate the treasurer.
+implicate|v|To show that someone is involved in wrongdoing.|The audit implicated two managers.
+censure|v|To express severe disapproval formally.|The council voted to censure the member.
+denounce|v|To publicly declare something to be wrong.|Residents denounced the plan to close the park.
+impugn|v|To call into question someone's honesty or motives.|No one dared impugn her integrity.
+rescind|v|To cancel or take back officially.|The college rescinded the new dress code.
+revoke|v|To officially cancel.|Authorities can revoke a license for repeated violations.
+annul|v|To declare officially invalid.|The court annulled the contract.
+nullify|v|To make something legally void or useless.|The error nullified the results.
+abrogate|v|To abolish a law or agreement.|Parliament moved to abrogate the outdated treaty.
+repeal|v|To officially withdraw a law.|Lawmakers voted to repeal the tax.
+veto|n|The power to reject a decision.|The president used his veto.
+ratify|v|To formally approve.|The members ratified the new constitution of the society.
+decree|n|An official order.|The mayor issued a decree banning fireworks near the forest.
+edict|n|An official command.|An edict from head office changed the working hours.
+mandate|n|Official authority to do something.|The election gave the government a mandate for reform.
++|v|To require by law or rule.|Regulations mandate regular safety checks.
+statute|n|A written law.|The statute protects wildlife in the region.
+ordinance|n|A rule made by a local authority.|A city ordinance limits noise after ten.
+injunction|n|A court order requiring or forbidding an action.|The group sought an injunction to stop the demolition.
+stipulate|v|To state a condition as part of an agreement.|The contract stipulates a month's notice.
+proviso|n|A condition attached to an agreement.|I agreed, with the proviso that we finish by Friday.
+caveat|n|A warning or limitation to consider.|The offer comes with a caveat about delivery times.
+precedent|n|An earlier example used as a guide.|The ruling set a precedent for similar cases.
+jurisprudence|n|The study or theory of law.|She specialized in environmental jurisprudence.
+jurisdiction|n|The official power to make legal decisions.|The matter falls outside our jurisdiction.
+plaintiff|n|The person who brings a case to court.|The plaintiff claimed damages for a broken contract.
+deposition|n|A sworn statement given outside court.|He gave a deposition about the accident.
+affidavit|n|A written statement sworn to be true.|She signed an affidavit confirming her address.
+subpoena|n|A legal order to appear in court.|The journalist received a subpoena.
+perjury|n|The offense of lying under oath.|Lying in court could lead to a charge of perjury.
+attest|v|To state or show that something is true.|Many customers attest to the shop's quality.
+vouch|v|To assert that something or someone is reliable.|I can vouch for her honesty.

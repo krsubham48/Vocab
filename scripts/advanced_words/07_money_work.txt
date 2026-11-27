@@ -1,0 +1,93 @@
+# Theme: money, work and effort
+affluent|adj|Wealthy.|The affluent suburb has excellent schools.
+opulent|adj|Rich and luxurious.|The hotel lobby was opulent, with marble floors.
+lavish|adj|Rich, elaborate, or very generous.|They threw a lavish wedding feast.
+sumptuous|adj|Splendid and expensive-looking.|A sumptuous spread covered the table.
+destitute|adj|Without money, food, or shelter.|The flood left many families destitute.
+indigent|adj|Poor and needy.|The clinic treats indigent patients for free.
+opportune|adj|Happening at a useful or suitable time.|Your call came at an opportune moment.
+penury|n|Extreme poverty.|He rose from penury to run a thriving bakery.
+insolvent|adj|Unable to pay debts.|The company was declared insolvent.
+solvent|adj|Able to pay one's debts.|Careful budgeting kept the charity solvent.
+fiscal|adj|Relating to government money or finance.|The government faces a fiscal challenge.
+pecuniary|adj|Relating to money.|She helped for love, not pecuniary reward.
+remuneration|n|Payment for work.|The role offers generous remuneration.
+stipend|n|A fixed regular payment, often for training.|Interns receive a monthly stipend.
+honorarium|n|A fee for a service given voluntarily.|The guest lecturer received a small honorarium.
+dividend|n|A share of profit paid to shareholders.|The firm raised its dividend this year.
+annuity|n|A fixed sum paid each year.|The retirement plan provides an annuity.
+endowment|n|Money given to an institution to provide income.|The college's endowment funds scholarships.
+bequest|n|Property left in a will.|A generous bequest built the reading room.
+patronage|n|Support or business given to someone.|The café thanks you for your patronage.
+benefactor|n|A person who gives money or help.|An unknown benefactor paid the school fees.
+beneficiary|n|A person who receives a benefit.|She was the sole beneficiary of the will.
+creditor|n|A person or company owed money.|Creditors agreed to extend the deadline.
+debtor|n|A person who owes money.|The debtor promised to pay in installments.
+collateral|n|Property pledged as security for a loan.|They used their house as collateral.
+levy|n|A tax or charge imposed by authority.|A levy on plastic bags reduced waste.
++|v|To impose a tax or charge.|The city may levy a fee on downtown parking.
+tariff|n|A tax on imported goods.|The new tariff raised the price of steel.
+excise|n|A tax on certain goods made or sold within a country.|Excise on fuel funds road repairs.
++|v|To cut out completely.|The editor excised a repetitive paragraph.
+austerity|n|Strict measures to reduce spending.|Years of austerity left libraries short of funds.
+stringent|adj|Strict and precise.|The factory follows stringent hygiene rules.
+squander|v|To waste money or opportunities.|Do not squander the chance to learn.
+dissipate|v|To waste or to disappear gradually.|The morning fog dissipated by nine.
+deplete|v|To use up resources.|Overfishing depletes the oceans.
+replenish|v|To fill something up again.|Drink water to replenish what you lose.
+amass|v|To gather a large amount over time.|She amassed a fine collection of stamps.
+accrue|v|To accumulate over time.|Interest accrues every month.
+hoard|v|To collect and store away.|Squirrels hoard nuts for winter.
+procure|v|To obtain, especially with effort.|The hospital managed to procure new equipment.
+requisition|v|To officially demand the use of something.|The army requisitioned the school buses.
+ubiquitous|adj|Seeming to be everywhere.|Smartphones have become ubiquitous.
+expenditure|n|The act of spending, or the amount spent.|Household expenditure rose during winter.
+remit|v|To send money in payment.|Please remit the balance within thirty days.
++|n|The area of responsibility of a person or group.|Staffing falls outside the committee's remit.
+reimburse|v|To pay back money spent.|The company will reimburse travel costs.
+recompense|v|To make amends or pay for loss or effort.|He was recompensed for the damage to his car.
+defray|v|To pay a cost.|A raffle helped defray the cost of uniforms.
+liquidate|v|To close a business and turn its assets into cash.|The firm was liquidated to pay creditors.
+divest|v|To sell off holdings or get rid of something.|The fund decided to divest from coal.
+consolidate|v|To combine into a stronger whole.|The two branches were consolidated into one.
+lucrative|adj|Producing a lot of profit.|Wedding photography can be a lucrative business.
+remunerative|adj|Paying well.|Her second career proved more remunerative.
+mercantile|adj|Relating to trade or commerce.|The port grew rich on mercantile activity.
+artisan|n|A skilled worker who makes things by hand.|Local artisans sell pottery at the market.
+sinecure|n|A position requiring little work but paying well.|The advisory post was widely seen as a sinecure.
+vocation|n|A strong calling to a particular job.|Teaching was her true vocation.
+avocation|n|A hobby or minor occupation.|Birdwatching is his avocation.
+tenure|n|The period of holding a position.|The library expanded during her tenure.
+sabbatical|n|A period of paid leave for study or rest.|The professor spent her sabbatical writing a book.
+furlough|n|A temporary leave from work.|Staff were placed on furlough during the repairs.
+onerous|adj|Involving a heavy and troublesome burden.|Paperwork was the most onerous part of the job.
+arduous|adj|Requiring great effort.|The arduous trek took nine hours.
+laborious|adj|Requiring much time and effort.|Copying the records by hand was laborious.
+strenuous|adj|Requiring or using great energy.|Avoid strenuous exercise for a week.
+menial|adj|Requiring little skill and often seen as lowly.|He started with menial tasks and worked his way up.
+drudgery|n|Hard, boring, repetitive work.|Dishwashers saved us from daily drudgery.
+efficacy|n|The ability to produce a desired result.|Studies tested the efficacy of the new treatment.
+salient|adj|Most noticeable or important.|Let me summarize the salient points.
+expedite|v|To make a process happen faster.|Paying a small fee can expedite the passport.
+facilitate|v|To make an action easier.|The new bridge facilitates trade between towns.
+streamline|v|To make a process simpler and more efficient.|We streamlined the booking system.
+synergy|n|Combined action producing a greater effect.|There is real synergy between design and marketing.
+contingency|n|A possible future event that must be planned for.|We have a contingency plan in case of rain.
+exigency|n|An urgent need or demand.|The exigencies of the harvest kept everyone busy.
+exacting|adj|Making great demands on skill or attention.|The chef has exacting standards.
+punctilious|adj|Showing great attention to detail.|He is punctilious about answering every letter.
+painstaking|adj|Done with great care and effort.|The restorer did painstaking work on the old painting.
+cursory|adj|Hasty and not thorough.|A cursory glance missed the error.
+perfunctory|adj|Done with minimal effort or interest.|He gave a perfunctory nod and walked on.
+desultory|adj|Lacking a plan or enthusiasm.|We made desultory conversation while waiting.
+slipshod|adj|Careless and lacking in thought.|Slipshod repairs caused the leak to return.
+botch|v|To carry out a task badly.|The painter botched the ceiling.
+bungle|v|To do something clumsily or badly.|They bungled the delivery and sent two sofas.
+squeamish|adj|Easily disgusted or upset.|Squeamish diners avoided the oysters.
+fastidious|adj|Very attentive to accuracy and cleanliness.|He is fastidious about keeping his desk clean.
+finicky|adj|Fussy about details.|The finicky cat refused the new food.
+discretion|n|Care in avoiding offense, or freedom to decide.|Tips are given at your discretion.
+prerogative|n|A right or privilege of a particular person or group.|Choosing the menu is the host's prerogative.
+purview|n|The range of authority or concern.|Salaries are within the purview of the board.
+aegis|n|Protection or support of an organization.|The program runs under the aegis of the university.
+auspices|n|Support or sponsorship.|The festival was held under the auspices of the tourism board.

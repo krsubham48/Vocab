@@ -1,0 +1,109 @@
+# Theme: power, politics and society
+hegemony|n|Leadership or dominance of one group over others.|The company enjoyed years of hegemony in the search market.
+autocracy|n|Government by one person with absolute power.|The country moved from autocracy to elected rule.
+paragon|n|A model of excellence.|He is a paragon of patience.
+despot|n|A ruler with unlimited power who uses it cruelly.|The people rose against the despot.
+oligarchy|n|Rule by a small group of people.|Critics called the club's committee an oligarchy.
+plutocracy|n|Government by the wealthy.|Campaign costs risk turning democracy into plutocracy.
+meritocracy|n|A system where people advance by ability.|The firm prides itself on being a meritocracy.
+aristocracy|n|The highest social class, often with inherited titles.|The mansion once belonged to the aristocracy.
+theocracy|n|Government by religious leaders.|The ancient city was run as a theocracy.
+anarchy|n|A state of disorder with no authority.|Without a timetable, the sports day descended into anarchy.
+bureaucracy|n|A system with many officials and strict procedures.|The grant was delayed by bureaucracy.
+technocrat|n|An expert who holds power because of technical knowledge.|A technocrat was appointed to run the water board.
+tacit|adj|Understood without being said.|Her nod gave tacit approval.
+sovereignty|n|The full right of a country to govern itself.|The treaty respects each nation's sovereignty.
+dominion|n|Control or authority over something.|The empire held dominion over many lands.
+ascendancy|n|A position of dominant power or influence.|The party gained ascendancy after the election.
+preeminent|adj|Surpassing all others; outstanding.|She is the preeminent expert on desert plants.
+paramount|adj|More important than anything else.|Passenger safety is paramount.
+predominant|adj|Being the strongest or most common element.|Blue is the predominant color in the painting.
+subjugate|v|To bring under control by force.|The invaders failed to subjugate the mountain tribes.
+quell|v|To put an end to unrest or a fear.|The announcement quelled the rumors.
+quash|v|To reject or suppress.|The court quashed the earlier ruling.
+stifle|v|To restrain or hold back.|Too many rules can stifle creativity.
+thwart|v|To prevent someone from achieving something.|Heavy rain thwarted our plans for a barbecue.
+stymie|v|To block progress.|A missing signature stymied the application.
+impede|v|To delay or obstruct.|Fallen branches impeded traffic.
+curtail|v|To reduce or limit.|The storm forced us to curtail the tour.
+circumscribe|v|To restrict within limits.|The new rules circumscribe the manager's powers.
+coerce|v|To force someone by threats.|No one should be coerced into signing.
+enjoin|v|To instruct or urge someone firmly.|The notice enjoined visitors to stay on the paths.
+emancipate|v|To set free from restriction.|The invention emancipated many from hours of washing.
+enfranchise|v|To give the right to vote.|The reform enfranchised millions of young citizens.
+suffrage|n|The right to vote.|The museum traces the struggle for women's suffrage.
+electorate|n|All the people entitled to vote.|The electorate rejected the proposal.
+constituency|n|A voting district or a group of supporters.|She answers letters from her constituency.
+incumbent|n|The current holder of a position.|The challenger defeated the incumbent.
++|adj|Necessary as a duty.|It is incumbent on drivers to check their mirrors.
+plebiscite|n|A direct vote by all electors on an important question.|A plebiscite decided the town's new name.
+faction|n|A small group within a larger one that disagrees.|A faction within the society opposed the move.
+insurrection|n|A violent uprising against authority.|The history book describes the failed insurrection.
+sedition|n|Conduct urging rebellion against authority.|The writer was charged with sedition.
+subversive|adj|Seeking to undermine an established system.|The satire was considered subversive.
+usurp|v|To take power or a position without right.|He tried to usurp the chairperson's role.
+depose|v|To remove from office suddenly.|The board voted to depose its president.
+abdicate|v|To give up a throne or responsibility.|The queen decided to abdicate in favor of her son.
+secede|v|To formally withdraw from an organization or state.|The region threatened to secede.
+annex|v|To take territory into one's control.|The larger city annexed the neighboring village.
+cede|v|To give up power or territory.|The company ceded control of the brand.
+embargo|n|An official ban on trade.|The embargo stopped shipments of timber.
+armistice|n|An agreement to stop fighting.|Church bells rang when the armistice was announced.
+amnesty|n|An official pardon for offenses.|The library declared an amnesty on overdue fines.
+reparation|n|Compensation for a wrong.|The company paid reparations to affected farmers.
+indemnity|n|Protection against loss, or money paid for it.|The policy provides indemnity against fire.
+envoy|n|A messenger or representative sent on a mission.|The government sent an envoy to the talks.
+emissary|n|A person sent as a representative.|An emissary delivered the invitation in person.
+patrician|adj|Belonging to or typical of the upper class.|He spoke with patrician confidence.
+plebeian|adj|Of the common people; unrefined.|He joked about his plebeian taste in television.
+bourgeois|adj|Concerned with middle-class comfort and values.|The poet mocked bourgeois respectability.
+populace|n|The general population.|The new law surprised the populace.
+denizen|n|An inhabitant of a particular place.|Frogs are denizens of the marsh.
+expatriate|n|A person living outside their own country.|Many expatriates gather at the weekend market.
+diaspora|n|People spread from their homeland to other places.|The festival is popular among the Greek diaspora.
+asylum|n|Protection given to someone who fled danger.|The family applied for asylum.
+pariah|n|A person who is rejected by others.|After the scandalous leak, he became a pariah.
+ostracize|v|To exclude from a group.|Classmates should never ostracize a newcomer.
+marginalize|v|To treat as unimportant.|The plan risks marginalizing older residents.
+disenfranchise|v|To deprive of rights, especially the vote.|Complicated forms can disenfranchise voters.
+egalitarian|adj|Believing that all people deserve equal rights.|The studio has an egalitarian culture.
+equitable|adj|Fair and impartial.|They agreed on an equitable share of the profits.
+inequity|n|Unfairness.|The report highlights inequity in access to parks.
+iniquity|n|Gross injustice or wickedness.|The play exposes the iniquity of child labor.
+nepotism|n|Favoring relatives in jobs or benefits.|Hiring his nephew led to accusations of nepotism.
+cronyism|n|Giving advantages to friends regardless of merit.|Contracts went to friends in a clear case of cronyism.
+venal|adj|Open to bribery.|A venal official accepted gifts for permits.
+malfeasance|n|Wrongdoing by a public official.|An inquiry found evidence of malfeasance.
+chicanery|n|Trickery to achieve a purpose.|He won the contract through legal chicanery.
+subterfuge|n|Deceit used to achieve a goal.|By a clever subterfuge, they kept the party a surprise.
+machination|n|A secret and complicated plan, often harmful.|Office machinations drained everyone's energy.
+ploy|n|A cunning plan to gain an advantage.|The free sample was a ploy to get our email addresses.
+ruse|n|An action intended to deceive.|The phone call was a ruse to draw him outside.
+stratagem|n|A clever plan to outwit an opponent.|The general's stratagem relied on a false retreat.
+collude|v|To cooperate secretly to deceive others.|The two firms colluded to fix prices.
+cabal|n|A secret group plotting something.|Rumors spoke of a cabal running the committee.
+clandestine|adj|Done secretly.|They held clandestine meetings in the library.
+covert|adj|Not openly shown or done.|The agency ran a covert operation.
+overt|adj|Done openly.|There was no overt hostility, only coolness.
+surreptitious|adj|Done secretly to avoid notice.|He took a surreptitious glance at his watch.
+furtive|adj|Attempting to avoid being noticed.|The cat cast a furtive look at the fish.
+flagrant|adj|Obviously and shamelessly wrong.|It was a flagrant breach of the rules.
+egregious|adj|Outstandingly bad.|The report contained egregious errors.
+heinous|adj|Utterly wicked.|The court condemned the heinous crime.
+nefarious|adj|Wicked or criminal.|The villain's nefarious scheme was exposed.
+reprehensible|adj|Deserving strong criticism.|Mocking a patient is reprehensible.
+unscrupulous|adj|Without moral principles.|Unscrupulous sellers target elderly people.
+ignoble|adj|Not honorable.|He had an ignoble motive for volunteering.
+ignominy|n|Public shame.|The champion suffered the ignominy of an early exit.
+infamy|n|Fame for something bad.|The storm of that year lives in infamy.
+opprobrium|n|Harsh public criticism.|The decision attracted widespread opprobrium.
+stigma|n|A mark of disgrace attached to something.|Campaigns aim to reduce the stigma around seeking help.
+accolade|n|An award or expression of praise.|The film earned accolades at the festival.
+eminent|adj|Respected and distinguished.|An eminent surgeon led the team.
+august|adj|Inspiring respect and admiration.|She was invited to join the august society.
+venerable|adj|Respected because of age or wisdom.|The venerable tree is over five hundred years old.
+illustrious|adj|Highly admired for achievements.|He comes from an illustrious family of musicians.
+exalt|v|To praise highly or raise in rank.|The song exalts the beauty of the monsoon.
+deify|v|To treat as a god.|Fans tend to deify their sporting heroes.
+lionize|v|To treat someone as a celebrity.|The young poet was lionized by the literary world.
+canonize|v|To officially declare someone a saint, or treat as great.|Critics have canonized the novel as a modern classic.

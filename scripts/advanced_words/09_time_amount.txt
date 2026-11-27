@@ -1,0 +1,94 @@
+# Theme: time, place and quantity
+ephemeral|adj|Lasting a very short time.|The beauty of cherry blossoms is ephemeral.
+transient|adj|Lasting only briefly; passing.|The town has a large transient population of seasonal workers.
+fleeting|adj|Passing quickly.|I caught a fleeting glimpse of a deer.
+evanescent|adj|Quickly fading from sight or memory.|The rainbow was bright but evanescent.
+transitory|adj|Not permanent.|Hopefully the discomfort is transitory.
+perennial|adj|Lasting or recurring year after year.|Traffic is a perennial complaint.
+perpetual|adj|Never ending or changing.|They lived in a state of perpetual noise.
+incessant|adj|Continuing without pause.|The incessant rain kept us indoors.
+interminable|adj|Seeming to have no end.|The interminable meeting ran past lunch.
+sporadic|adj|Occurring irregularly.|There were sporadic outbreaks of applause.
+intermittent|adj|Stopping and starting at intervals.|Intermittent showers are expected.
+cyclical|adj|Happening in repeating cycles.|Fashion trends are often cyclical.
+recurrent|adj|Happening again and again.|He has a recurrent dream about missing an exam.
+chronological|adj|Following the order in which things happened.|List the events in chronological order.
+contemporaneous|adj|Existing or happening at the same time.|The letters are contemporaneous with the events they describe.
+concurrent|adj|Happening at the same time.|The conference has several concurrent sessions.
+antecedent|n|Something that came before and influenced something else.|The telegraph was an antecedent of the internet.
+precursor|n|A forerunner of something.|Dark skies are often a precursor to a storm.
+harbinger|n|A sign that something is coming.|The first swallow is a harbinger of spring.
+portent|n|A sign that something important or bad may happen.|Sailors saw the red sky as a portent.
+prescient|adj|Having knowledge of events before they happen.|Her prescient warning proved correct.
+premonition|n|A strong feeling that something is about to happen.|I had a premonition that the phone would ring.
+posterity|n|All future generations.|He kept the letters for posterity.
+antiquity|n|The ancient past, or great age.|The coins date from antiquity.
+inexorable|adj|Impossible to stop or prevent.|The inexorable rise of the tide forced us up the beach.
+archaic|adj|Very old or no longer used.|The word "thou" sounds archaic today.
+obsolete|adj|No longer used or needed.|Floppy disks are now obsolete.
+outmoded|adj|No longer in fashion or use.|The factory replaced its outmoded machines.
+anachronism|n|Something out of place in time.|A wristwatch in a medieval film is an anachronism.
+vestige|n|A trace of something that has disappeared.|Only vestiges of the old fort remain.
+relic|n|An object surviving from an earlier time.|The rotary phone looks like a relic.
+primordial|adj|Existing from the beginning of time.|Scientists study the primordial gases of the early universe.
+primeval|adj|Of the earliest age of the world.|Hikers walked through a primeval forest.
+pristine|adj|In original, unspoiled condition.|The beach was pristine and empty.
+erstwhile|adj|Former.|Her erstwhile rival is now her business partner.
+posthumous|adj|Happening after a person's death.|The poet received posthumous recognition.
+imminent|adj|About to happen.|A decision is imminent.
+impending|adj|About to happen, often something unpleasant.|The impending deadline made him nervous.
+belated|adj|Coming later than expected.|She sent a belated birthday card.
+protracted|adj|Lasting longer than expected.|The protracted negotiations tested everyone's patience.
+procrastinate|v|To delay doing something.|I tend to procrastinate when a task seems boring.
+precipitous|adj|Very steep, or done suddenly and without thought.|The road runs along a precipitous slope.
+eclectic|adj|Taken from a wide range of styles or sources.|Her playlist is wonderfully eclectic.
+peripheral|adj|Of secondary importance, or at the edge.|Cost is a peripheral concern for this client.
+vicinity|n|The area near a place.|There is no pharmacy in the vicinity.
+proximity|n|Nearness in space or time.|The house is valued for its proximity to schools.
+contiguous|adj|Sharing a border.|The two fields are contiguous.
+adjacent|adj|Next to or near.|The café is adjacent to the cinema.
+secluded|adj|Private and sheltered from view.|They rented a secluded cottage.
+sequestered|adj|Isolated or hidden away.|The jury was sequestered during the trial.
+bucolic|adj|Relating to the pleasant side of country life.|The painting shows a bucolic scene of grazing sheep.
+pastoral|adj|Portraying peaceful country life.|The valley has a pastoral charm.
+rustic|adj|Simple and typical of the countryside.|The inn has rustic wooden beams.
+arid|adj|Very dry.|Cacti thrive in arid regions.
+verdant|adj|Green with plants.|Verdant hills surround the village.
+fecund|adj|Very fertile or productive.|The fecund soil yields three crops a year.
+barren|adj|Unable to support growth; empty.|The landscape was barren and rocky.
+desolate|adj|Empty and bleakly lonely.|The station looked desolate at midnight.
+expanse|n|A wide, open area.|We gazed over an expanse of desert.
+boundless|adj|Without limits.|Children have boundless curiosity.
+copious|adj|Abundant in quantity.|She took copious notes during the lecture.
+profuse|adj|Given or flowing in large amounts.|He offered profuse apologies.
+plethora|n|A large or excessive amount.|The menu offers a plethora of choices.
+myriad|adj|Countless or extremely numerous.|The reef is home to myriad species.
+multitude|n|A large number of people or things.|A multitude of stars filled the sky.
+surfeit|n|An excessive amount.|There is a surfeit of information online.
+glut|n|An oversupply.|A glut of tomatoes drove prices down.
+dearth|n|A lack of something.|The region suffers a dearth of doctors.
+paucity|n|A small and insufficient amount.|The study was limited by a paucity of data.
+scarcity|n|The state of being in short supply.|Water scarcity affects many farms.
+meager|adj|Lacking in quantity or quality.|They survived on a meager income.
+paltry|adj|Very small or insignificant.|The prize was a paltry sum.
+negligible|adj|So small as to be unimportant.|The difference in price is negligible.
+infinitesimal|adj|Extremely small.|There is an infinitesimal chance of error.
+minuscule|adj|Very tiny.|The writing on the label was minuscule.
+colossal|adj|Extremely large.|A colossal statue towers over the harbor.
+prodigious|adj|Remarkably great in size or degree.|He has a prodigious memory.
+voluminous|adj|Very large in volume or amount.|She keeps voluminous notebooks of recipes.
+capacious|adj|Having a lot of space inside.|His capacious bag held three books and a laptop.
+commodious|adj|Roomy and comfortable.|The commodious cabin slept six.
+incalculable|adj|Too great to be measured.|The loss of the library caused incalculable harm.
+innumerable|adj|Too many to count.|Innumerable moths circled the lamp.
+nominal|adj|Very small, or existing in name only.|There is a nominal fee for entry.
+exorbitant|adj|Unreasonably high.|The airport charges exorbitant prices for water.
+inordinate|adj|Much greater than usual or reasonable.|He spends an inordinate amount of time on his hair.
+commensurate|adj|Matching in size or degree.|Pay should be commensurate with experience.
+cumulative|adj|Increasing by successive additions.|The cumulative effect of small savings is large.
+compendium|n|A collection of information on a subject.|The book is a compendium of garden tips.
+gamut|n|The complete range of something.|Her performance ran the gamut of emotions.
+spectrum|n|A wide range.|The plan drew support across the political spectrum.
+iota|n|A very small amount.|There is not an iota of truth in the story.
+modicum|n|A small amount of something good.|Even a modicum of patience would help.
+smattering|n|A small amount of knowledge or number of things.|I picked up a smattering of Italian on the trip.
