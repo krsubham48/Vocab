@@ -2,6 +2,8 @@
 
 A simple vocabulary-building app for learning everyday English words commonly used in newspapers, magazines, TV, and conversation — built as an offline-capable web app you install on your iPhone home screen.
 
+A native iPhone and iPad version is in [`ios/`](ios/README.md).
+
 ## What it does
 
 - **Start page**: choose Learn or Revise (flashcards or the Revisit list), or open About and Calendar.

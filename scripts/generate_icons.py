@@ -48,6 +48,9 @@ def render_icon(size):
     return img
 
 
+IOS_ICON = Path(__file__).parent.parent / "ios/Vocab/Assets.xcassets/AppIcon.appiconset/icon-1024.png"
+
+
 def main():
     icons_dir = Path(__file__).parent.parent / "App" / "icons"
     icons_dir.mkdir(parents=True, exist_ok=True)
@@ -56,6 +59,10 @@ def main():
         out_path = icons_dir / f"icon-{size}-{VERSION}.png"
         img.save(out_path)
         print(f"Wrote {out_path} ({size}x{size})")
+
+    # the iOS app and App Store take one 1024px icon without transparency
+    render_icon(1024 * SUPERSAMPLE).resize((1024, 1024), Image.BOX).save(IOS_ICON)
+    print(f"Wrote {IOS_ICON} (1024x1024)")
 
 
 if __name__ == "__main__":
