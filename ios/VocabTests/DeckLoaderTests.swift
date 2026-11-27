@@ -30,6 +30,15 @@ final class DeckLoaderTests: XCTestCase {
         XCTAssertEqual(words.map(\.slug), ["good"])
     }
 
+    /// The pronunciation dictionary's licence must travel with the app.
+    func testThePronunciationLicenceIsBundled() {
+        for part in ["Copyright (C) 1993-2015 Carnegie Mellon University",
+                     "Redistributions in binary form must reproduce",
+                     "THIS SOFTWARE IS PROVIDED BY CARNEGIE MELLON UNIVERSITY"] {
+            XCTAssertTrue(Acknowledgements.text.contains(part), part)
+        }
+    }
+
     func testPlaceholderPronunciationIsHidden() {
         XCTAssertEqual(makeWord("a", pronunciation: "BASH-fuhl").displayPronunciation, "BASH-fuhl")
         XCTAssertNil(makeWord("a", pronunciation: "(pronunciation unavailable)").displayPronunciation)

@@ -3,3 +3,5 @@ xcuserdata/
 build/
 DerivedData/
 *.xcresult
+# retaken any time with scripts/ios_screenshots.py
+AppStore/screenshots/

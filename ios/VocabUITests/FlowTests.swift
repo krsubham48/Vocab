@@ -189,6 +189,31 @@ final class FlowTests: XCTestCase {
         XCTAssertFalse(app.buttons["tab.learn"].exists)
     }
 
+    /// The App Store requires both inside the app.
+    func testAboutLinksToThePrivacyPolicyAndHelp() {
+        launch()
+        app.buttons["home.about"].tap()
+        for (id, label) in [("about.privacy", "Privacy policy"), ("about.support", "Help and contact")] {
+            let link = app.descendants(matching: .any).matching(identifier: id).firstMatch
+            reach(link)
+            XCTAssertEqual(link.label, label)
+        }
+        snapshot("about-links")
+    }
+
+    func testAboutShowsThePronunciationLicence() {
+        launch()
+        app.buttons["home.about"].tap()
+        reach(app.buttons["about.credits"])
+        let licence = app.staticTexts["about.licence"]
+        XCTAssertFalse(licence.exists)
+        app.buttons["about.credits"].tap()
+        XCTAssertTrue(licence.waitForExistence(timeout: 5))
+        XCTAssertTrue(licence.label.contains("Carnegie Mellon University"))
+        app.swipeUp()
+        snapshot("about-licence")
+    }
+
     func testLargestTextSizeKeepsEverythingReachable() {
         let largest = ["-UIPreferredContentSizeCategoryName", "UICTContentSizeCategoryAccessibilityXXXL"]
         launch(threeWords, arguments: largest)
@@ -216,6 +241,15 @@ final class FlowTests: XCTestCase {
         app.buttons["tab.about"].tap()
         snapshot("large-about")
         reach(app.buttons["about.back"])
+        // the licence is the longest block of text in the app
+        reach(app.buttons["about.credits"])
+        app.buttons["about.credits"].tap()
+        XCTAssertTrue(app.staticTexts["about.licence"].waitForExistence(timeout: 5))
+        app.swipeUp()
+        app.swipeUp()
+        snapshot("large-licence")
+        app.buttons["tab.learn"].tap()
+        XCTAssertTrue(app.buttons["learn.newWord"].waitForExistence(timeout: 10))
     }
 
     /// The longest word at the largest text size: the screenshots must show it whole.

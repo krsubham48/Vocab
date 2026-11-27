@@ -33,6 +33,10 @@ in the result bundle.
   It rejects duplicates, words already in Everyday and missing pronunciations.
 - **Icon:** `python3 scripts/generate_icons.py` (needs Pillow) writes the web and
   iOS icons.
+- **Pronunciations** come from the CMU Pronouncing Dictionary. Its notice must stay
+  in the app (`Vocab/Resources/Acknowledgements.txt`) and on the web
+  (`App/licenses.txt`).
+- **Store screenshots:** `python3 scripts/ios_screenshots.py` (needs Pillow).
 
 ## How it differs from the web app
 
